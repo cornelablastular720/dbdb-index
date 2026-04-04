@@ -1,0 +1,6 @@
+services:
+  tikv:
+    image: pingcap/tikv:latest
+    ports:
+      - "20160:20160"
+    restart: unless-stopped
