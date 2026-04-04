@@ -1,0 +1,16 @@
+services:
+  firebird:
+    image: jacobalberty/firebird:latest
+    ports:
+      - "3050:3050"
+    environment:
+      FIREBIRD_DATABASE: "mydb.fdb"
+      FIREBIRD_USER: "firebird"
+      FIREBIRD_PASSWORD: "firebird"
+      ISC_PASSWORD: "masterkey"
+    volumes:
+      - firebirddata:/firebird/data
+    restart: unless-stopped
+
+volumes:
+  firebirddata:
