@@ -1,4 +1,4 @@
-# Database of Databases — Index
+# Database of Databases Index
 
 A comprehensive index of **1071** database management systems catalogued by [Carnegie Mellon University's Database of Databases](https://dbdb.io).
 
@@ -30,7 +30,7 @@ The database landscape spans **61 years** of innovation (from 1964 to 2025), acr
 
 ### By Decade
 
-Database systems through the decades — the explosion of new projects in the 2010s reflects the rise of NoSQL, NewSQL, and cloud-native databases.
+Database systems through the decades. The explosion of new projects in the 2010s reflects the rise of NoSQL, NewSQL, and cloud-native databases.
 
 ```
   1960s █ 4
