@@ -1,0 +1,14 @@
+services:
+  milvus:
+    image: milvusdb/milvus:latest
+    ports:
+      - "19530:19530"
+    environment:
+      ETCD_USE_EMBED: "true"
+      COMMON_STORAGETYPE: "local"
+    volumes:
+      - milvusdata:/var/lib/milvus
+    restart: unless-stopped
+
+volumes:
+  milvusdata:
