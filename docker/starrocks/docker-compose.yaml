@@ -1,0 +1,6 @@
+services:
+  starrocks:
+    image: starrocks/allin1-ubuntu:latest
+    ports:
+      - "9030:9030"
+    restart: unless-stopped

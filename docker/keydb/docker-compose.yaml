@@ -1,0 +1,11 @@
+services:
+  keydb:
+    image: eqalpha/keydb:latest
+    ports:
+      - "6379:6379"
+    volumes:
+      - keydbdata:/data
+    restart: unless-stopped
+
+volumes:
+  keydbdata:

@@ -1,0 +1,6 @@
+services:
+  objectbox:
+    image: objectboxio/admin:latest
+    ports:
+      - "8081:8081"
+    restart: unless-stopped

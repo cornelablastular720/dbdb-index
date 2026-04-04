@@ -1,0 +1,13 @@
+services:
+  hydra:
+    image: ghcr.io/hydradatabase/hydra:latest
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: "postgres"
+    volumes:
+      - hydradata:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  hydradata:

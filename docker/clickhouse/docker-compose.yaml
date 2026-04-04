@@ -1,0 +1,12 @@
+services:
+  clickhouse:
+    image: clickhouse/clickhouse-server:latest
+    ports:
+      - "8123:8123"
+      - "9000:9000"
+    volumes:
+      - clickhousedata:/var/lib/clickhouse
+    restart: unless-stopped
+
+volumes:
+  clickhousedata:

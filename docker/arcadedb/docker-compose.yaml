@@ -1,0 +1,13 @@
+services:
+  arcadedb:
+    image: arcadedata/arcadedb:latest
+    ports:
+      - "2480:2480"
+    environment:
+      JAVA_OPTS: "-Darcadedb.server.rootPassword=arcadedb"
+    volumes:
+      - arcadedata:/home/arcadedb/databases
+    restart: unless-stopped
+
+volumes:
+  arcadedata:

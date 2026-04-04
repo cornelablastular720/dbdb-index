@@ -1,0 +1,11 @@
+services:
+  valkey:
+    image: valkey/valkey:latest
+    ports:
+      - "6379:6379"
+    volumes:
+      - valkeydata:/data
+    restart: unless-stopped
+
+volumes:
+  valkeydata:

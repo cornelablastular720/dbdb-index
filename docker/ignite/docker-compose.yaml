@@ -1,0 +1,6 @@
+services:
+  ignite:
+    image: apacheignite/ignite:latest
+    ports:
+      - "10800:10800"
+    restart: unless-stopped

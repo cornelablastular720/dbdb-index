@@ -1,0 +1,12 @@
+services:
+  tdengine:
+    image: tdengine/tdengine:latest
+    ports:
+      - "6030:6030"
+      - "6041:6041"
+    volumes:
+      - tdenginedata:/var/lib/taos
+    restart: unless-stopped
+
+volumes:
+  tdenginedata:

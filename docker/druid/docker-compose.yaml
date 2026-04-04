@@ -1,0 +1,6 @@
+services:
+  druid:
+    image: apache/druid:latest
+    ports:
+      - "8888:8888"
+    restart: unless-stopped

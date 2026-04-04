@@ -1,0 +1,6 @@
+services:
+  databend:
+    image: datafuselabs/databend:latest
+    ports:
+      - "8000:8000"
+    restart: unless-stopped

@@ -1,0 +1,6 @@
+services:
+  garnet:
+    image: ghcr.io/microsoft/garnet:latest
+    ports:
+      - "6379:6379"
+    restart: unless-stopped

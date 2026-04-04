@@ -1,0 +1,8 @@
+services:
+  oceanbase:
+    image: oceanbase/oceanbase-ce:latest
+    ports:
+      - "2881:2881"
+    environment:
+      MODE: "mini"
+    restart: unless-stopped

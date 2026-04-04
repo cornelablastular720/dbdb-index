@@ -1,0 +1,11 @@
+services:
+  immudb:
+    image: codenotary/immudb:latest
+    ports:
+      - "3322:3322"
+    volumes:
+      - immudata:/var/lib/immudb
+    restart: unless-stopped
+
+volumes:
+  immudata:

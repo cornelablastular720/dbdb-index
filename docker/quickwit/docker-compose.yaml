@@ -1,0 +1,6 @@
+services:
+  quickwit:
+    image: quickwit/quickwit:latest
+    ports:
+      - "7280:7280"
+    restart: unless-stopped

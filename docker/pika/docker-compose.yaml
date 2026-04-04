@@ -1,0 +1,6 @@
+services:
+  pika:
+    image: pikadb/pika:latest
+    ports:
+      - "9221:9221"
+    restart: unless-stopped

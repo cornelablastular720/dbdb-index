@@ -1,0 +1,6 @@
+services:
+  foundationdb:
+    image: foundationdb/foundationdb:latest
+    ports:
+      - "4500:4500"
+    restart: unless-stopped

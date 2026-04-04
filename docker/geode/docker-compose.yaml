@@ -1,0 +1,6 @@
+services:
+  geode:
+    image: apachegeode/geode:latest
+    ports:
+      - "10334:10334"
+    restart: unless-stopped
