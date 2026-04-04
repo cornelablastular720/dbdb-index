@@ -1,0 +1,11 @@
+services:
+  manticore_search:
+    image: manticoresearch/manticore:latest
+    ports:
+      - "9306:9306"
+    volumes:
+      - manticoredata:/var/lib/manticore
+    restart: unless-stopped
+
+volumes:
+  manticoredata:
