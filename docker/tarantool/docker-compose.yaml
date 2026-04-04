@@ -1,0 +1,11 @@
+services:
+  tarantool:
+    image: tarantool/tarantool:latest
+    ports:
+      - "3301:3301"
+    volumes:
+      - tarantooldata:/var/lib/tarantool
+    restart: unless-stopped
+
+volumes:
+  tarantooldata:
