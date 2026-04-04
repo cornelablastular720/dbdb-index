@@ -1,0 +1,6 @@
+services:
+  doris:
+    image: apache/doris:latest
+    ports:
+      - "8030:8030"
+    restart: unless-stopped
