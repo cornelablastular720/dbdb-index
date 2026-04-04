@@ -117,1209 +117,1209 @@ Database systems through the decades. The explosion of new projects in the 2010s
 
 ## #
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [/rdb](https://dbdb.io/db/rdb) | /rdb is comprised of shell-level programs that read tables from the standard input and write tabl... | Relational | United States of America | 1984 | Commercial | Bash | Proprietary | 2023-10-03 |
-| [1010data](https://dbdb.io/db/1010data) |  |  | United States of America | 2000 | Commercial |  |  | 2022-01-03 |
-| [3store](https://dbdb.io/db/3store) | 3store is an RDF "triple store", written in C and backed by MySQL and Berkeley DB. It is an optim... | Triplestore / RDF | United Kingdom | 2003 | Academic, Open Source | C | GPL v2 | 2023-09-29 |
-| [4D](https://dbdb.io/db/4d) | 4D is a relational DBMS that is integrated with an IDE and a proprietary programming language. It... | Relational | France | 1984 | Commercial |  | Proprietary | 2019-12-11 |
-| [4store](https://dbdb.io/db/4store) |  | Triplestore / RDF | United Kingdom | 2009 | Open Source | C | GPL v3 | 2018-06-04 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [/rdb](https://dbdb.io/db/rdb) | /rdb is comprised of shell-level programs that read tables from the standard input and write tabl... | Relational | United States of America | 1984 | Commercial | Bash | Proprietary |
+| [1010data](https://dbdb.io/db/1010data) |  |  | United States of America | 2000 | Commercial |  |  |
+| [3store](https://dbdb.io/db/3store) | 3store is an RDF "triple store", written in C and backed by MySQL and Berkeley DB. It is an optim... | Triplestore / RDF | United Kingdom | 2003 | Academic, Open Source | C | GPL v2 |
+| [4D](https://dbdb.io/db/4d) | 4D is a relational DBMS that is integrated with an IDE and a proprietary programming language. It... | Relational | France | 1984 | Commercial |  | Proprietary |
+| [4store](https://dbdb.io/db/4store) |  | Triplestore / RDF | United Kingdom | 2009 | Open Source | C | GPL v3 |
 
 ## A
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [abhot](https://dbdb.io/db/abhot) | abhot ("A Brief History Of Time") is a time-series database management system. It is a fork of Ka... |  | China | 2017 | Academic, Open Source | Java | Apache v2 | 2023-10-01 |
-| [Access](https://dbdb.io/db/access) | Microsoft Access is a database management system from Microsoft that combines the relational Micr... | Relational | United States of America | 1992 | Commercial | C++ | Proprietary | 2024-10-31 |
-| [Accumulo](https://dbdb.io/db/accumulo) | Apache Accumulo is a sorted, distributed key-value store based on Google's Bigtable, HDFS and Apa... | Column Family / Wide-Column | United States of America | 2008 | Open Source | Java | Apache v2 | 2022-06-27 |
-| [AceBase](https://dbdb.io/db/acebase) | AceBase is a document-oriented DBMS that supports pub/sub real-time notifications. It is designed... | Document / XML | Netherlands | 2018 | Hobby, Open Source | TypeScript | MIT | 2023-07-25 |
-| [AceDB](https://dbdb.io/db/acedb) | AceDB ("a C. elegans database") is a biological database for handling genomic data. It was develo... |  | United Kingdom | 1989 | Academic, Open Source | C | GPL v2, LGPL v2 | 2018-05-29 |
-| [ActivePivot](https://dbdb.io/db/activepivot) | ActivePivot is a distributed, in-memory DBMS designed for HTAP workloads, which supports real-tim... | Relational | France |  | Commercial | Java | Proprietary | 2022-01-03 |
-| [ActorDB](https://dbdb.io/db/actordb) | ActorDB is a distributed relational SQL database, which is strongly consistent, massively concurr... | Relational | Slovenia | 2014 | Commercial, Open Source | Erlang | Mozilla Public License | 2025-02-02 |
-| [Adabas](https://dbdb.io/db/adabas) | ADABAS ("adaptable database system") is a database package developed by Software AG for IBM mainf... |  | Germany | 1971 | Commercial |  | Proprietary | 2022-06-27 |
-| [Adaptive Server Enterprise](https://dbdb.io/db/adaptive-server-enterprise) | Adaptive Server Enterprise (ASE) (also known as "Sybase DB" or "Sybase ASE") is a relational DBMS... | Relational | United States of America | 1987 | Commercial | C, C++ | Proprietary | 2023-11-20 |
-| [Advantage Database Server](https://dbdb.io/db/advantage-database-server) | Sybase Advantage Database Server is a relational DBMS released in the 1990s. | Relational | United States of America | 1993 | Commercial |  | Proprietary | 2024-10-31 |
-| [Aerospike](https://dbdb.io/db/aerospike) | Aerospike is a distributed key-value DBMS. It is mainly targeted at OLTP workloads with large num... | Key/Value, Document / XML, Vector | United States of America | 2009 | Commercial, Open Source | C | AGPL v3 | 2025-04-22 |
-| [AgateDB](https://dbdb.io/db/agatedb) | AgateDB is an embeddable, persistent key-value DBMS written in Rust. It is built by Pingcap as a ... | Key/Value | China | 2019 | Industrial Research, Open Source | Rust | Apache v2 | 2022-05-08 |
-| [AGEDB](https://dbdb.io/db/agedb) | AGEDB is the commercial version of PostgreSQL using the Apache AGE graph API extension. | Graph | Canada | 2019 | Commercial, Open Source | C | Apache v2 | 2023-06-15 |
-| [AgensGraph](https://dbdb.io/db/agensgraph) | AgensGraph is a multi-model database based on PostgreSQL RDBMS, and supports both relational and ... | Relational, Key/Value, Document / XML, Graph | United States of America | 2013 | Commercial, Open Source | C | Apache v2 | 2023-08-08 |
-| [Aito](https://dbdb.io/db/aito) | Aito is a cloud-based predictive database, that provides predictive queries as an addition to the... |  | Finland | 2017 | Commercial | Scala | Proprietary | 2022-06-27 |
-| [AKDB](https://dbdb.io/db/akdb) | AKDB ("Avtomat Kalasnikova Database") is an educational relational DBMS developed at the Universi... | Relational | Croatia | 2009 | Academic, Educational, Open Source | C |  | 2023-09-29 |
-| [Akiban](https://dbdb.io/db/akiban) | Akiban was a MySQL storage engine that performed automatic denormalization of relational tables t... |  | United States of America | 2009 | Commercial |  |  | 2023-09-27 |
-| [Akumuli](https://dbdb.io/db/akumuli) | Akumuli is a time-series DBMS. |  | Russia | 2013 | Open Source | C++ | Apache v2 | 2022-01-06 |
-| [Akutan](https://dbdb.io/db/akutan) | Akutan is a distributed knowledge graph DBMS written in Go. | Triplestore / RDF | United States of America | 2019 | Industrial Research, Open Source | Go | Apache v2 | 2020-12-15 |
-| [AlaSQL](https://dbdb.io/db/alasql) | AlaSQL is a relational DBMS designed to run in web browsers and JavaScript-based application serv... | Relational, Document / XML | Russia | 2014 | Open Source | JavaScript | MIT | 2019-12-11 |
-| [AlchemyDB](https://dbdb.io/db/alchemydb) | AlchemyDB is a NewSQL RDBMS built on top [Redis](/db/redis). | Relational | United States of America | 2010 | Commercial, Open Source | C | AGPL v3 | 2023-10-03 |
-| [Alenka](https://dbdb.io/db/alenka) | Alenka is a GPU-based query execution engine. | Relational | United States of America | 2012 | Open Source | C | Apache v2 | 2023-10-10 |
-| [Algebraix](https://dbdb.io/db/algebraix) |  |  | United States of America | 2009 | Commercial |  | Proprietary | 2018-06-04 |
-| [AllegroGraph](https://dbdb.io/db/allegrograph) | AllegroGraph is a database and application framework for building Semantic Web applications. It c... | Triplestore / RDF | United States of America | 2004 | Commercial | Lisp | Proprietary | 2022-01-03 |
-| [AlloyDB](https://dbdb.io/db/alloydb) | AlloyDB is a fully-managed database system that is a fork from PostgreSQL created by Google Cloud... | Object-Relational | United States of America | 2022 | Commercial |  | Proprietary | 2023-05-01 |
-| [Altibase](https://dbdb.io/db/altibase) | Atibase is a relational open-source database management system that is compatible and interoperab... | Relational | South Korea | 1999 | Commercial | C, C++ | AGPL v3 | 2024-10-24 |
-| [Amelie](https://dbdb.io/db/amelie) | Amelie is an in-memory relational DBMS designed for OLTP workloads. | Relational | Cyprus | 2023 | Hobby, Open Source | C | AGPL v3 | 2025-02-17 |
-| [Amisa Server](https://dbdb.io/db/amisa-server) | Amisa Server was a NoSQL database-as-a-service. | Document / XML | Canada | 2014 | Commercial |  |  | 2023-09-29 |
-| [AncelusDB](https://dbdb.io/db/ancelusdb) | AncelusDB is time-series DBMS. | Entity-Relationship | United States of America | 1983 | Commercial |  | Proprietary | 2022-01-07 |
-| [AngstromDB](https://dbdb.io/db/angstromdb) | AngstromDB is a NoSQL key-value DBMS based on [LMDB](/db/lmdb). | Key/Value | France | 2013 | Hobby, Open Source | C | Apache v2 | 2023-10-03 |
-| [AnnaDB](https://dbdb.io/db/annadb) | AnnaDB is an in-memory document-oriented NoSQL DBMS that stores data in proprietary [Typed Simple... | Document / XML | Germany | 2021 | Hobby, Open Source | Rust | Apache v2 | 2023-04-06 |
-| [AnnDB](https://dbdb.io/db/anndb) | AnnDB is a distributed vector DBMS that supports approximate nearest neighbor queries. | Vector | Czechia | 2020 | Commercial, Open Source | Go | Apache v2 | 2023-09-22 |
-| [AntDB](https://dbdb.io/db/antdb) | AntDB is a distributed DBMS forked from PostgreSQL. | Object-Relational | China |  | Commercial, Open Source | C | Apache v2 | 2024-06-17 |
-| [Antidote](https://dbdb.io/db/antidote) | AntidoteDB is a geo-replicated key-value DBMS that uses CRDTs to synchronize changes between nodes. | Key/Value | France | 2015 | Academic, Open Source | Erlang | Apache v2 | 2022-01-03 |
-| [AnuDB](https://dbdb.io/db/anudb) | AnuDB is a serverless document-oriented DBMS for C++ applications. | Document / XML | India | 2025 | Hobby, Open Source | C++ | MIT | 2026-01-21 |
-| [AnzoGraph](https://dbdb.io/db/anzograph) | AnzoGraph is an in-memory distributed graph DBMS designed for analytics. | Graph | United States of America | 2007 | Commercial |  | Proprietary | 2022-01-03 |
-| [AODBM](https://dbdb.io/db/aodbm) | AODBM ("append only database manager") is designed in the style of dbm. |  | United Kingdom | 2011 | Open Source | C | LGPL v3 | 2018-06-04 |
-| [Apollo](https://dbdb.io/db/apollo-facebook) | Apollo is Facebook's document-oriented DBMS announced in 2014. | Document / XML | United States of America | 2014 | Commercial |  |  | 2018-06-02 |
-| [Apollo](https://dbdb.io/db/apollo) | Apollo is a Windows-based desktop database management system that supports FoxPro files. |  | United States of America | 1999 | Commercial |  | Proprietary | 2025-04-10 |
-| [Arakoon](https://dbdb.io/db/arakoon) | Arakoon was a distributed key-value store with strong consistency guarantees. | Key/Value | Belgium | 2010 | Open Source | Ocaml | Apache v2 | 2019-09-30 |
-| [ArangoDB](https://dbdb.io/db/arangodb) | ArangoDB is a multi-model mostly-memory database. It supports key-value, documents, and graphs st... | Key/Value, Document / XML, Graph | Germany | 2011 | Commercial, Open Source | C++ | Apache v2 | 2022-06-27 |
-| [ArcadeDB](https://dbdb.io/db/arcadedb) | ArcadeDB is a multi-model DBMS created as a fork from OrientDB. | Relational, Key/Value, Document / XML, Graph | United Kingdom | 2021 | Commercial, Open Source | Java | Apache v2 | 2025-12-01 |
-| [ArcticDB](https://dbdb.io/db/arcticdb) | ArcticDB is an embedded, columnar datastore designed for analytical workloads on time-series data... | Relational | United Kingdom | 2018 | Open Source | C++ | Business Source License | 2023-07-15 |
-| [Ardb](https://dbdb.io/db/ardb) | Ardb is a Redis-compatible NoSQL DBMS that is designed to support multiple storage backends. | Key/Value | China | 2013 | Open Source | C++ | BSD | 2019-07-18 |
-| [AresDB](https://dbdb.io/db/aresdb) | AresDB is a GPU-based real-time analytics database with low memory overhead, real-time upserts wi... | Relational | United States of America | 2018 | Open Source | C, C++, Go | Apache v2 | 2023-09-25 |
-| [Asami](https://dbdb.io/db/asami) | Asami is a graph-oriented DBMS written in Clojure. | Graph | United States of America | 2018 | Hobby, Open Source | Clojure | Eclipse Public License | 2022-11-19 |
-| [Assassin](https://dbdb.io/db/assassin) | Assassin is a decentralized key-value DBMS written in JavaScript. It uses a peer-to-peer protocol... | Key/Value | United States of America | 2020 | Open Source | JavaScript | MIT | 2022-06-27 |
-| [Aster Data](https://dbdb.io/db/aster-data) | Aster Data is a relational DBMS designed for OLAP workloads. | Object-Relational | United States of America | 2005 | Commercial |  | Proprietary | 2023-09-24 |
-| [AsterixDB](https://dbdb.io/db/asterixdb) | AsterixDB is a DBMS that is highly parallel and, consequently, highly scalable. It has its own se... | Document / XML | United States of America | 2009 | Academic, Open Source | Java | Apache v2 | 2022-06-27 |
-| [Atlas](https://dbdb.io/db/atlas) | Atlas is a dimensional time series data database management system for near real-time operational... |  | United States of America | 2014 | Open Source | Scala |  | 2019-05-15 |
-| [AtomicDB](https://dbdb.io/db/atomicdb) | AtomicDB is an associative database. Compared with relational database, associative model stores ... | Object-Oriented | United States of America | 2011 | Commercial |  | Proprietary | 2023-09-26 |
-| [Aurora](https://dbdb.io/db/aurora) | Amazon Aurora is a relational database offered as a service in Amazon's AWS. Based on the open so... | Relational | United States of America | 2014 | Commercial | C |  | 2019-07-02 |
-| [Aurora DSQL](https://dbdb.io/db/aurora-dsql) | Aurora DSQL is a serverless PostgreSQL-compatible database service at Amazon. | Relational | United States of America | 2023 | Commercial |  | Proprietary | 2026-02-16 |
-| [AverageDB](https://dbdb.io/db/averagedb) | AverageDB (AvgDB) is a serverless document-oriented DBMS. It is a parody DBMS that does not actua... | Document / XML | United States of America | 2024 | Hobby, Open Source | TypeScript | Apache v2 | 2024-08-03 |
-| [AvionDB](https://dbdb.io/db/aviondb) | AvionDB is decentralized document DBMS built on top of [IPFS](https://ipfs.io). It uses [OrbitDB]... | Document / XML | India | 2020 | Commercial, Open Source | JavaScript | MIT | 2023-09-28 |
-| [AwaDB](https://dbdb.io/db/awadb) | AwaDB is a vector DBMS written in C++ that supports nearest-neighbor search. | Document / XML, Vector | China | 2023 | Open Source | C++ | Apache v2 | 2023-09-23 |
-| [Axibase](https://dbdb.io/db/axibase) | Axibase is a non-relational, time series DBMS optimized for collecting, storing, and analyzing te... |  | United States of America | 2004 | Commercial |  | Proprietary | 2024-03-14 |
-| [Axion](https://dbdb.io/db/axion) | Axion is a relational database system supporting SQL and JDBC written in and for the Java program... | Relational | United States of America | 2002 | Open Source | Java |  | 2018-11-29 |
-| [Azure SQL Database](https://dbdb.io/db/azure-sql-database) | Microsoft Azure SQL Database is a managed cloud database-as-a-service based. It shares the SQL Se... | Relational | United States of America | 2009 | Commercial | C++ | Proprietary | 2019-05-15 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [abhot](https://dbdb.io/db/abhot) | abhot ("A Brief History Of Time") is a time-series database management system. It is a fork of Ka... |  | China | 2017 | Academic, Open Source | Java | Apache v2 |
+| [Access](https://dbdb.io/db/access) | Microsoft Access is a database management system from Microsoft that combines the relational Micr... | Relational | United States of America | 1992 | Commercial | C++ | Proprietary |
+| [Accumulo](https://dbdb.io/db/accumulo) | Apache Accumulo is a sorted, distributed key-value store based on Google's Bigtable, HDFS and Apa... | Column Family / Wide-Column | United States of America | 2008 | Open Source | Java | Apache v2 |
+| [AceBase](https://dbdb.io/db/acebase) | AceBase is a document-oriented DBMS that supports pub/sub real-time notifications. It is designed... | Document / XML | Netherlands | 2018 | Hobby, Open Source | TypeScript | MIT |
+| [AceDB](https://dbdb.io/db/acedb) | AceDB ("a C. elegans database") is a biological database for handling genomic data. It was develo... |  | United Kingdom | 1989 | Academic, Open Source | C | GPL v2, LGPL v2 |
+| [ActivePivot](https://dbdb.io/db/activepivot) | ActivePivot is a distributed, in-memory DBMS designed for HTAP workloads, which supports real-tim... | Relational | France |  | Commercial | Java | Proprietary |
+| [ActorDB](https://dbdb.io/db/actordb) | ActorDB is a distributed relational SQL database, which is strongly consistent, massively concurr... | Relational | Slovenia | 2014 | Commercial, Open Source | Erlang | Mozilla Public License |
+| [Adabas](https://dbdb.io/db/adabas) | ADABAS ("adaptable database system") is a database package developed by Software AG for IBM mainf... |  | Germany | 1971 | Commercial |  | Proprietary |
+| [Adaptive Server Enterprise](https://dbdb.io/db/adaptive-server-enterprise) | Adaptive Server Enterprise (ASE) (also known as "Sybase DB" or "Sybase ASE") is a relational DBMS... | Relational | United States of America | 1987 | Commercial | C, C++ | Proprietary |
+| [Advantage Database Server](https://dbdb.io/db/advantage-database-server) | Sybase Advantage Database Server is a relational DBMS released in the 1990s. | Relational | United States of America | 1993 | Commercial |  | Proprietary |
+| [Aerospike](https://dbdb.io/db/aerospike) | Aerospike is a distributed key-value DBMS. It is mainly targeted at OLTP workloads with large num... | Key/Value, Document / XML, Vector | United States of America | 2009 | Commercial, Open Source | C | AGPL v3 |
+| [AgateDB](https://dbdb.io/db/agatedb) | AgateDB is an embeddable, persistent key-value DBMS written in Rust. It is built by Pingcap as a ... | Key/Value | China | 2019 | Industrial Research, Open Source | Rust | Apache v2 |
+| [AGEDB](https://dbdb.io/db/agedb) | AGEDB is the commercial version of PostgreSQL using the Apache AGE graph API extension. | Graph | Canada | 2019 | Commercial, Open Source | C | Apache v2 |
+| [AgensGraph](https://dbdb.io/db/agensgraph) | AgensGraph is a multi-model database based on PostgreSQL RDBMS, and supports both relational and ... | Relational, Key/Value, Document / XML, Graph | United States of America | 2013 | Commercial, Open Source | C | Apache v2 |
+| [Aito](https://dbdb.io/db/aito) | Aito is a cloud-based predictive database, that provides predictive queries as an addition to the... |  | Finland | 2017 | Commercial | Scala | Proprietary |
+| [AKDB](https://dbdb.io/db/akdb) | AKDB ("Avtomat Kalasnikova Database") is an educational relational DBMS developed at the Universi... | Relational | Croatia | 2009 | Academic, Educational, Open Source | C |  |
+| [Akiban](https://dbdb.io/db/akiban) | Akiban was a MySQL storage engine that performed automatic denormalization of relational tables t... |  | United States of America | 2009 | Commercial |  |  |
+| [Akumuli](https://dbdb.io/db/akumuli) | Akumuli is a time-series DBMS. |  | Russia | 2013 | Open Source | C++ | Apache v2 |
+| [Akutan](https://dbdb.io/db/akutan) | Akutan is a distributed knowledge graph DBMS written in Go. | Triplestore / RDF | United States of America | 2019 | Industrial Research, Open Source | Go | Apache v2 |
+| [AlaSQL](https://dbdb.io/db/alasql) | AlaSQL is a relational DBMS designed to run in web browsers and JavaScript-based application serv... | Relational, Document / XML | Russia | 2014 | Open Source | JavaScript | MIT |
+| [AlchemyDB](https://dbdb.io/db/alchemydb) | AlchemyDB is a NewSQL RDBMS built on top [Redis](/db/redis). | Relational | United States of America | 2010 | Commercial, Open Source | C | AGPL v3 |
+| [Alenka](https://dbdb.io/db/alenka) | Alenka is a GPU-based query execution engine. | Relational | United States of America | 2012 | Open Source | C | Apache v2 |
+| [Algebraix](https://dbdb.io/db/algebraix) |  |  | United States of America | 2009 | Commercial |  | Proprietary |
+| [AllegroGraph](https://dbdb.io/db/allegrograph) | AllegroGraph is a database and application framework for building Semantic Web applications. It c... | Triplestore / RDF | United States of America | 2004 | Commercial | Lisp | Proprietary |
+| [AlloyDB](https://dbdb.io/db/alloydb) | AlloyDB is a fully-managed database system that is a fork from PostgreSQL created by Google Cloud... | Object-Relational | United States of America | 2022 | Commercial |  | Proprietary |
+| [Altibase](https://dbdb.io/db/altibase) | Atibase is a relational open-source database management system that is compatible and interoperab... | Relational | South Korea | 1999 | Commercial | C, C++ | AGPL v3 |
+| [Amelie](https://dbdb.io/db/amelie) | Amelie is an in-memory relational DBMS designed for OLTP workloads. | Relational | Cyprus | 2023 | Hobby, Open Source | C | AGPL v3 |
+| [Amisa Server](https://dbdb.io/db/amisa-server) | Amisa Server was a NoSQL database-as-a-service. | Document / XML | Canada | 2014 | Commercial |  |  |
+| [AncelusDB](https://dbdb.io/db/ancelusdb) | AncelusDB is time-series DBMS. | Entity-Relationship | United States of America | 1983 | Commercial |  | Proprietary |
+| [AngstromDB](https://dbdb.io/db/angstromdb) | AngstromDB is a NoSQL key-value DBMS based on [LMDB](/db/lmdb). | Key/Value | France | 2013 | Hobby, Open Source | C | Apache v2 |
+| [AnnaDB](https://dbdb.io/db/annadb) | AnnaDB is an in-memory document-oriented NoSQL DBMS that stores data in proprietary [Typed Simple... | Document / XML | Germany | 2021 | Hobby, Open Source | Rust | Apache v2 |
+| [AnnDB](https://dbdb.io/db/anndb) | AnnDB is a distributed vector DBMS that supports approximate nearest neighbor queries. | Vector | Czechia | 2020 | Commercial, Open Source | Go | Apache v2 |
+| [AntDB](https://dbdb.io/db/antdb) | AntDB is a distributed DBMS forked from PostgreSQL. | Object-Relational | China |  | Commercial, Open Source | C | Apache v2 |
+| [Antidote](https://dbdb.io/db/antidote) | AntidoteDB is a geo-replicated key-value DBMS that uses CRDTs to synchronize changes between nodes. | Key/Value | France | 2015 | Academic, Open Source | Erlang | Apache v2 |
+| [AnuDB](https://dbdb.io/db/anudb) | AnuDB is a serverless document-oriented DBMS for C++ applications. | Document / XML | India | 2025 | Hobby, Open Source | C++ | MIT |
+| [AnzoGraph](https://dbdb.io/db/anzograph) | AnzoGraph is an in-memory distributed graph DBMS designed for analytics. | Graph | United States of America | 2007 | Commercial |  | Proprietary |
+| [AODBM](https://dbdb.io/db/aodbm) | AODBM ("append only database manager") is designed in the style of dbm. |  | United Kingdom | 2011 | Open Source | C | LGPL v3 |
+| [Apollo](https://dbdb.io/db/apollo-facebook) | Apollo is Facebook's document-oriented DBMS announced in 2014. | Document / XML | United States of America | 2014 | Commercial |  |  |
+| [Apollo](https://dbdb.io/db/apollo) | Apollo is a Windows-based desktop database management system that supports FoxPro files. |  | United States of America | 1999 | Commercial |  | Proprietary |
+| [Arakoon](https://dbdb.io/db/arakoon) | Arakoon was a distributed key-value store with strong consistency guarantees. | Key/Value | Belgium | 2010 | Open Source | Ocaml | Apache v2 |
+| [ArangoDB](https://dbdb.io/db/arangodb) | ArangoDB is a multi-model mostly-memory database. It supports key-value, documents, and graphs st... | Key/Value, Document / XML, Graph | Germany | 2011 | Commercial, Open Source | C++ | Apache v2 |
+| [ArcadeDB](https://dbdb.io/db/arcadedb) | ArcadeDB is a multi-model DBMS created as a fork from OrientDB. | Relational, Key/Value, Document / XML, Graph | United Kingdom | 2021 | Commercial, Open Source | Java | Apache v2 |
+| [ArcticDB](https://dbdb.io/db/arcticdb) | ArcticDB is an embedded, columnar datastore designed for analytical workloads on time-series data... | Relational | United Kingdom | 2018 | Open Source | C++ | Business Source License |
+| [Ardb](https://dbdb.io/db/ardb) | Ardb is a Redis-compatible NoSQL DBMS that is designed to support multiple storage backends. | Key/Value | China | 2013 | Open Source | C++ | BSD |
+| [AresDB](https://dbdb.io/db/aresdb) | AresDB is a GPU-based real-time analytics database with low memory overhead, real-time upserts wi... | Relational | United States of America | 2018 | Open Source | C, C++, Go | Apache v2 |
+| [Asami](https://dbdb.io/db/asami) | Asami is a graph-oriented DBMS written in Clojure. | Graph | United States of America | 2018 | Hobby, Open Source | Clojure | Eclipse Public License |
+| [Assassin](https://dbdb.io/db/assassin) | Assassin is a decentralized key-value DBMS written in JavaScript. It uses a peer-to-peer protocol... | Key/Value | United States of America | 2020 | Open Source | JavaScript | MIT |
+| [Aster Data](https://dbdb.io/db/aster-data) | Aster Data is a relational DBMS designed for OLAP workloads. | Object-Relational | United States of America | 2005 | Commercial |  | Proprietary |
+| [AsterixDB](https://dbdb.io/db/asterixdb) | AsterixDB is a DBMS that is highly parallel and, consequently, highly scalable. It has its own se... | Document / XML | United States of America | 2009 | Academic, Open Source | Java | Apache v2 |
+| [Atlas](https://dbdb.io/db/atlas) | Atlas is a dimensional time series data database management system for near real-time operational... |  | United States of America | 2014 | Open Source | Scala |  |
+| [AtomicDB](https://dbdb.io/db/atomicdb) | AtomicDB is an associative database. Compared with relational database, associative model stores ... | Object-Oriented | United States of America | 2011 | Commercial |  | Proprietary |
+| [Aurora](https://dbdb.io/db/aurora) | Amazon Aurora is a relational database offered as a service in Amazon's AWS. Based on the open so... | Relational | United States of America | 2014 | Commercial | C |  |
+| [Aurora DSQL](https://dbdb.io/db/aurora-dsql) | Aurora DSQL is a serverless PostgreSQL-compatible database service at Amazon. | Relational | United States of America | 2023 | Commercial |  | Proprietary |
+| [AverageDB](https://dbdb.io/db/averagedb) | AverageDB (AvgDB) is a serverless document-oriented DBMS. It is a parody DBMS that does not actua... | Document / XML | United States of America | 2024 | Hobby, Open Source | TypeScript | Apache v2 |
+| [AvionDB](https://dbdb.io/db/aviondb) | AvionDB is decentralized document DBMS built on top of [IPFS](https://ipfs.io). It uses [OrbitDB]... | Document / XML | India | 2020 | Commercial, Open Source | JavaScript | MIT |
+| [AwaDB](https://dbdb.io/db/awadb) | AwaDB is a vector DBMS written in C++ that supports nearest-neighbor search. | Document / XML, Vector | China | 2023 | Open Source | C++ | Apache v2 |
+| [Axibase](https://dbdb.io/db/axibase) | Axibase is a non-relational, time series DBMS optimized for collecting, storing, and analyzing te... |  | United States of America | 2004 | Commercial |  | Proprietary |
+| [Axion](https://dbdb.io/db/axion) | Axion is a relational database system supporting SQL and JDBC written in and for the Java program... | Relational | United States of America | 2002 | Open Source | Java |  |
+| [Azure SQL Database](https://dbdb.io/db/azure-sql-database) | Microsoft Azure SQL Database is a managed cloud database-as-a-service based. It shares the SQL Se... | Relational | United States of America | 2009 | Commercial | C++ | Proprietary |
 
 ## B
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [BabuDB](https://dbdb.io/db/babudb) | BabuDB is an embedded key-value DBMS based on log-structured merge trees. There are two implement... | Key/Value | Germany | 2008 | Academic, Open Source | C++, Java |  | 2024-05-11 |
-| [BadgerDB](https://dbdb.io/db/badgerdb) | Badger started as a key-value store, so the goal was to use the latest research to build a key-va... | Key/Value | United States of America | 2017 | Open Source | Go | Apache v2 | 2018-12-31 |
-| [BagelDB](https://dbdb.io/db/bageldb) | BagelDB is a proprietary hosted vector DBMS designed to support data sharing. | Vector | Canada | 2023 | Commercial |  | Proprietary | 2023-09-21 |
-| [Bagri](https://dbdb.io/db/bagri) | Bagri is a document-oriented DBMS designed to run on top of a distributed cache (e.g., Hazelcast,... | Document / XML | Russia | 2014 | Open Source | Java | Apache v2 | 2023-09-27 |
-| [BaikalDB](https://dbdb.io/db/baikaldb) | BaikalDB is a distributed OLTP database system created by Baidu. | Relational | China | 2018 | Open Source | C++ | Apache v2 | 2021-06-09 |
-| [BangDB](https://dbdb.io/db/bangdb) | BangDB is a NoSQL DBMS designed for real-time data processing. The DBMS supports structured, semi... | Key/Value | India | 2015 | Commercial, Open Source | C | BSD | 2024-11-06 |
-| [BaseX](https://dbdb.io/db/basex) | BaseX is a light-weight XML database management system and XQuery processor. | Document / XML | Germany | 2007 | Academic, Open Source | Java | BSD | 2022-06-27 |
-| [Basic](https://dbdb.io/db/basic) | Basic is a document-oriented database service. | Document / XML | United States of America | 2023 | Commercial |  | Proprietary | 2024-11-19 |
-| [BASIS](https://dbdb.io/db/basis) | The BASIS DBMS is a relational DBMS that supports SQL. | Relational | United States of America |  | Commercial |  | Proprietary | 2022-01-03 |
-| [BayesDB](https://dbdb.io/db/bayesdb) | BayesDB is a probabilistic programming platform that provides built-in non-parametric Bayesian mo... |  | United States of America | 2015 | Academic, Open Source | Python | Apache v2 | 2020-03-15 |
-| [bbolt](https://dbdb.io/db/bbolt) | bbolt is a fork of the abandoned [BoltDB](/db/boltdb) project. The authors are maintaining the sy... | Key/Value | United States of America | 2017 | Open Source | Go | MIT | 2020-11-05 |
-| [BBoxDB](https://dbdb.io/db/bboxdb) | BBoxDB is a distributed DBMS that supports bounding box queries on multi-dimensional data. | Array / Matrix | Germany | 2015 | Open Source | Java | Apache v2 | 2022-06-03 |
-| [Beagle SQL](https://dbdb.io/db/beagle-sql) | Beagle SQL was an object-relational DBMS from the 1990s. | Relational, Object-Relational | United States of America | 1996 | Open Source | C++ |  | 2023-10-01 |
-| [Bedrock](https://dbdb.io/db/bedrock) | Bedrock is a distributed relational DBMS built on top of SQLite. It is a distributed relational d... | Relational | United States of America | 2016 | Open Source | C++ | LGPL v3 | 2024-09-04 |
-| [BergDB](https://dbdb.io/db/bergdb) | BergDB is an embedded, document-oriented, schemaless, NoSQL DBMS for Java and .NET applications. | Document / XML | Sweden | 2013 | Open Source | Java | AGPL v3 | 2022-01-04 |
-| [Beringei](https://dbdb.io/db/beringei) | Beringei is an embedded in-memory storage engine for time series data developed by Facebook. It w... | Key/Value | United States of America | 2015 | Open Source | C++ | BSD | 2024-01-01 |
-| [Berkeley DB](https://dbdb.io/db/berkeley-db) | BerkeleyDB (sometimes referred to as simply "BDB") is an embedded open-source, database storage l... | Key/Value, Document / XML | United States of America | 1994 | Commercial, Open Source |  | AGPL v3, Apache v2 | 2024-10-31 |
-| [BerylDB](https://dbdb.io/db/beryldb) | BerylDB is a key-value DBMS that supports storing lists, sets, and maps. It uses RocksDB as its u... | Key/Value | Chile | 2021 | Hobby, Open Source | C++ | BSD | 2022-06-27 |
-| [BigchainDB](https://dbdb.io/db/bigchaindb) | BigchainDB is an open-source blockchain database. It is a NoSQL database that has blockchain prop... | Key/Value, Document / XML | Germany | 2015 | Commercial, Open Source | Python | Apache v2 | 2024-03-15 |
-| [BigQuery](https://dbdb.io/db/bigquery) | BigQuery is a cloud-based interactive query service for large datasets. It is built upon Google's... | Document / XML | United States of America | 2010 | Commercial | C++, Java, Python | Proprietary | 2023-07-10 |
-| [BinaryRage](https://dbdb.io/db/binaryrage) | BinaryRage is an embedded key-value store DBMS written for .NET environments. | Key/Value | Denmark | 2012 | Hobby, Open Source | C# |  | 2023-09-28 |
-| [Bitcask](https://dbdb.io/db/bitcask) | Bitcask is an embedded key-value DBMS that uses a log-structured storage format. The system inclu... | Key/Value | Australia | 2019 | Open Source | Go | MIT | 2022-06-27 |
-| [Bitsy](https://dbdb.io/db/bitsy) | Bitsy is a embeddable in-memory graph database that is compatible with Tinkerpop3. It is based on... | Graph | United States of America | 2013 | Open Source | Java | Apache v2 | 2022-01-04 |
-| [BitYota](https://dbdb.io/db/bityota) | BitYota was a cloud data warehouse relational DBMS. | Relational | United States of America | 2011 | Commercial |  | Proprietary | 2023-08-08 |
-| [BlackRay](https://dbdb.io/db/blackray) | BlackRay was a relational DBMS designed to offer performance features commonly associated with se... | Relational | Germany | 2005 | Commercial, Open Source | C++ | GPL v2 | 2023-07-15 |
-| [Blazegraph](https://dbdb.io/db/blazegraph) | Blazegraph is an open-source graph database system written in Java. Blazegraph is supported for u... | Graph, Triplestore / RDF | United States of America | 2006 | Commercial, Open Source | Java | GPL v2 | 2023-09-24 |
-| [BlazingSQL](https://dbdb.io/db/blazingsql) | BlazingSQL is a distributed GPU-accelerated SQL engine with data lake integration, where data lak... | Relational | Peru | 2015 | Commercial, Open Source | C++ | Apache v2, Proprietary | 2022-07-01 |
-| [BlinkDB](https://dbdb.io/db/blinkdb) | BlinkDB is an approximate query engine built on top of Hive and Shark ("Hive on Spark", the forme... | Relational | United States of America | 2012 | Academic, Open Source |  | Apache v2 | 2018-12-31 |
-| [BlobCity](https://dbdb.io/db/blobcity) | BlobCity is an in-memory relational database that supports both transaction and analytical worklo... | Relational, Document / XML | India | 2015 | Commercial |  | Proprietary | 2022-07-01 |
-| [Blueflood](https://dbdb.io/db/blueflood) |  |  | United States of America | 2013 | Open Source | Java | Apache v2 | 2018-05-06 |
-| [BoJack](https://dbdb.io/db/bojack) | BoJack is a single-node key-value store written in Crystal, largely inspired by Redis. | Key/Value | Germany | 2016 | Open Source | Crystal | MIT | 2019-12-10 |
-| [BoltDB](https://dbdb.io/db/boltdb) | BoltDB is an embedded ACID key/value database written in Go. It supports MVCC with shadow paging ... | Key/Value | United States of America | 2013 | Open Source | Go | MIT | 2023-09-29 |
-| [BonsaiDb](https://dbdb.io/db/bonsaidb) | BonsaiDb is a key-value store DBMS written in Rust. It can operate as an embedded DBMS and as a s... | Key/Value | United States of America | 2021 | Open Source | Rust | Apache v2, MIT | 2022-02-15 |
-| [BrightstarDB](https://dbdb.io/db/brightstardb) | BrightstarDB is a RDF DBMS for the .NET platform. | Triplestore / RDF | United Kingdom | 2012 | Open Source | C# | MIT | 2022-01-03 |
-| [BroDB](https://dbdb.io/db/brodb) | BroDB is a parody DBMS where applications interact with the system using a query language as if i... | Relational | India | 2024 | Hobby, Open Source | Go |  | 2024-12-09 |
-| [Brytlyt](https://dbdb.io/db/brytlyt) | Brytlyt is a GPU-accelerated DBMS built on top of Postgres. | Object-Relational | United Kingdom | 2013 | Commercial | C, C++ | Proprietary | 2024-06-17 |
-| [BTDB](https://dbdb.io/db/btdb) | BTDB is an embedded key/value DBMS designed for .NET applications. It also provides an object-ori... | Key/Value, Object-Oriented | Czechia | 2010 | Open Source | C# | MIT | 2025-01-03 |
-| [BTrDB](https://dbdb.io/db/btrdb) | BTrDB (*Berkeley Tree Database*) is a time-series database that uses K-Ary trees to store data. | Relational | United States of America | 2014 | Academic, Open Source | Go | GPL v3 | 2023-09-27 |
-| [Btrieve](https://dbdb.io/db/btrieve) | Btrieve is an embedded navigational DBMS engine. | Network | United States of America | 1982 | Commercial |  |  | 2024-10-31 |
-| [Bubba](https://dbdb.io/db/bubba) |  |  | United States of America | 1990 | Academic |  |  | 2018-06-09 |
-| [bugfruit](https://dbdb.io/db/bugfruit) | bugfruit is a embedded key-value DBMS written in Go. | Key/Value | United States of America | 2022 | Hobby, Open Source | Go | BSD | 2022-06-27 |
-| [BuntDB](https://dbdb.io/db/buntdb) | BuntDB is an embeddable, in-memory key/value database with custom indexing and geospatial support. | Key/Value | United States of America | 2016 | Open Source | Go | MIT | 2022-01-03 |
-| [BusTub](https://dbdb.io/db/bustub) | BusTub is an educational disk-oriented DBMS used for teaching [database courses](https://15445.co... | Relational | United States of America | 2019 | Academic, Educational, Open Source | C++ | MIT | 2022-11-02 |
-| [ByConity](https://dbdb.io/db/byconity) | ByConity is a cloud-native OLAP DBMS based on Clickhouse. | Relational | China | 2020 | Commercial, Open Source | C++ | Apache v2 | 2023-07-05 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [BabuDB](https://dbdb.io/db/babudb) | BabuDB is an embedded key-value DBMS based on log-structured merge trees. There are two implement... | Key/Value | Germany | 2008 | Academic, Open Source | C++, Java |  |
+| [BadgerDB](https://dbdb.io/db/badgerdb) | Badger started as a key-value store, so the goal was to use the latest research to build a key-va... | Key/Value | United States of America | 2017 | Open Source | Go | Apache v2 |
+| [BagelDB](https://dbdb.io/db/bageldb) | BagelDB is a proprietary hosted vector DBMS designed to support data sharing. | Vector | Canada | 2023 | Commercial |  | Proprietary |
+| [Bagri](https://dbdb.io/db/bagri) | Bagri is a document-oriented DBMS designed to run on top of a distributed cache (e.g., Hazelcast,... | Document / XML | Russia | 2014 | Open Source | Java | Apache v2 |
+| [BaikalDB](https://dbdb.io/db/baikaldb) | BaikalDB is a distributed OLTP database system created by Baidu. | Relational | China | 2018 | Open Source | C++ | Apache v2 |
+| [BangDB](https://dbdb.io/db/bangdb) | BangDB is a NoSQL DBMS designed for real-time data processing. The DBMS supports structured, semi... | Key/Value | India | 2015 | Commercial, Open Source | C | BSD |
+| [BaseX](https://dbdb.io/db/basex) | BaseX is a light-weight XML database management system and XQuery processor. | Document / XML | Germany | 2007 | Academic, Open Source | Java | BSD |
+| [Basic](https://dbdb.io/db/basic) | Basic is a document-oriented database service. | Document / XML | United States of America | 2023 | Commercial |  | Proprietary |
+| [BASIS](https://dbdb.io/db/basis) | The BASIS DBMS is a relational DBMS that supports SQL. | Relational | United States of America |  | Commercial |  | Proprietary |
+| [BayesDB](https://dbdb.io/db/bayesdb) | BayesDB is a probabilistic programming platform that provides built-in non-parametric Bayesian mo... |  | United States of America | 2015 | Academic, Open Source | Python | Apache v2 |
+| [bbolt](https://dbdb.io/db/bbolt) | bbolt is a fork of the abandoned [BoltDB](/db/boltdb) project. The authors are maintaining the sy... | Key/Value | United States of America | 2017 | Open Source | Go | MIT |
+| [BBoxDB](https://dbdb.io/db/bboxdb) | BBoxDB is a distributed DBMS that supports bounding box queries on multi-dimensional data. | Array / Matrix | Germany | 2015 | Open Source | Java | Apache v2 |
+| [Beagle SQL](https://dbdb.io/db/beagle-sql) | Beagle SQL was an object-relational DBMS from the 1990s. | Relational, Object-Relational | United States of America | 1996 | Open Source | C++ |  |
+| [Bedrock](https://dbdb.io/db/bedrock) | Bedrock is a distributed relational DBMS built on top of SQLite. It is a distributed relational d... | Relational | United States of America | 2016 | Open Source | C++ | LGPL v3 |
+| [BergDB](https://dbdb.io/db/bergdb) | BergDB is an embedded, document-oriented, schemaless, NoSQL DBMS for Java and .NET applications. | Document / XML | Sweden | 2013 | Open Source | Java | AGPL v3 |
+| [Beringei](https://dbdb.io/db/beringei) | Beringei is an embedded in-memory storage engine for time series data developed by Facebook. It w... | Key/Value | United States of America | 2015 | Open Source | C++ | BSD |
+| [Berkeley DB](https://dbdb.io/db/berkeley-db) | BerkeleyDB (sometimes referred to as simply "BDB") is an embedded open-source, database storage l... | Key/Value, Document / XML | United States of America | 1994 | Commercial, Open Source |  | AGPL v3, Apache v2 |
+| [BerylDB](https://dbdb.io/db/beryldb) | BerylDB is a key-value DBMS that supports storing lists, sets, and maps. It uses RocksDB as its u... | Key/Value | Chile | 2021 | Hobby, Open Source | C++ | BSD |
+| [BigchainDB](https://dbdb.io/db/bigchaindb) | BigchainDB is an open-source blockchain database. It is a NoSQL database that has blockchain prop... | Key/Value, Document / XML | Germany | 2015 | Commercial, Open Source | Python | Apache v2 |
+| [BigQuery](https://dbdb.io/db/bigquery) | BigQuery is a cloud-based interactive query service for large datasets. It is built upon Google's... | Document / XML | United States of America | 2010 | Commercial | C++, Java, Python | Proprietary |
+| [BinaryRage](https://dbdb.io/db/binaryrage) | BinaryRage is an embedded key-value store DBMS written for .NET environments. | Key/Value | Denmark | 2012 | Hobby, Open Source | C# |  |
+| [Bitcask](https://dbdb.io/db/bitcask) | Bitcask is an embedded key-value DBMS that uses a log-structured storage format. The system inclu... | Key/Value | Australia | 2019 | Open Source | Go | MIT |
+| [Bitsy](https://dbdb.io/db/bitsy) | Bitsy is a embeddable in-memory graph database that is compatible with Tinkerpop3. It is based on... | Graph | United States of America | 2013 | Open Source | Java | Apache v2 |
+| [BitYota](https://dbdb.io/db/bityota) | BitYota was a cloud data warehouse relational DBMS. | Relational | United States of America | 2011 | Commercial |  | Proprietary |
+| [BlackRay](https://dbdb.io/db/blackray) | BlackRay was a relational DBMS designed to offer performance features commonly associated with se... | Relational | Germany | 2005 | Commercial, Open Source | C++ | GPL v2 |
+| [Blazegraph](https://dbdb.io/db/blazegraph) | Blazegraph is an open-source graph database system written in Java. Blazegraph is supported for u... | Graph, Triplestore / RDF | United States of America | 2006 | Commercial, Open Source | Java | GPL v2 |
+| [BlazingSQL](https://dbdb.io/db/blazingsql) | BlazingSQL is a distributed GPU-accelerated SQL engine with data lake integration, where data lak... | Relational | Peru | 2015 | Commercial, Open Source | C++ | Apache v2, Proprietary |
+| [BlinkDB](https://dbdb.io/db/blinkdb) | BlinkDB is an approximate query engine built on top of Hive and Shark ("Hive on Spark", the forme... | Relational | United States of America | 2012 | Academic, Open Source |  | Apache v2 |
+| [BlobCity](https://dbdb.io/db/blobcity) | BlobCity is an in-memory relational database that supports both transaction and analytical worklo... | Relational, Document / XML | India | 2015 | Commercial |  | Proprietary |
+| [Blueflood](https://dbdb.io/db/blueflood) |  |  | United States of America | 2013 | Open Source | Java | Apache v2 |
+| [BoJack](https://dbdb.io/db/bojack) | BoJack is a single-node key-value store written in Crystal, largely inspired by Redis. | Key/Value | Germany | 2016 | Open Source | Crystal | MIT |
+| [BoltDB](https://dbdb.io/db/boltdb) | BoltDB is an embedded ACID key/value database written in Go. It supports MVCC with shadow paging ... | Key/Value | United States of America | 2013 | Open Source | Go | MIT |
+| [BonsaiDb](https://dbdb.io/db/bonsaidb) | BonsaiDb is a key-value store DBMS written in Rust. It can operate as an embedded DBMS and as a s... | Key/Value | United States of America | 2021 | Open Source | Rust | Apache v2, MIT |
+| [BrightstarDB](https://dbdb.io/db/brightstardb) | BrightstarDB is a RDF DBMS for the .NET platform. | Triplestore / RDF | United Kingdom | 2012 | Open Source | C# | MIT |
+| [BroDB](https://dbdb.io/db/brodb) | BroDB is a parody DBMS where applications interact with the system using a query language as if i... | Relational | India | 2024 | Hobby, Open Source | Go |  |
+| [Brytlyt](https://dbdb.io/db/brytlyt) | Brytlyt is a GPU-accelerated DBMS built on top of Postgres. | Object-Relational | United Kingdom | 2013 | Commercial | C, C++ | Proprietary |
+| [BTDB](https://dbdb.io/db/btdb) | BTDB is an embedded key/value DBMS designed for .NET applications. It also provides an object-ori... | Key/Value, Object-Oriented | Czechia | 2010 | Open Source | C# | MIT |
+| [BTrDB](https://dbdb.io/db/btrdb) | BTrDB (*Berkeley Tree Database*) is a time-series database that uses K-Ary trees to store data. | Relational | United States of America | 2014 | Academic, Open Source | Go | GPL v3 |
+| [Btrieve](https://dbdb.io/db/btrieve) | Btrieve is an embedded navigational DBMS engine. | Network | United States of America | 1982 | Commercial |  |  |
+| [Bubba](https://dbdb.io/db/bubba) |  |  | United States of America | 1990 | Academic |  |  |
+| [bugfruit](https://dbdb.io/db/bugfruit) | bugfruit is a embedded key-value DBMS written in Go. | Key/Value | United States of America | 2022 | Hobby, Open Source | Go | BSD |
+| [BuntDB](https://dbdb.io/db/buntdb) | BuntDB is an embeddable, in-memory key/value database with custom indexing and geospatial support. | Key/Value | United States of America | 2016 | Open Source | Go | MIT |
+| [BusTub](https://dbdb.io/db/bustub) | BusTub is an educational disk-oriented DBMS used for teaching [database courses](https://15445.co... | Relational | United States of America | 2019 | Academic, Educational, Open Source | C++ | MIT |
+| [ByConity](https://dbdb.io/db/byconity) | ByConity is a cloud-native OLAP DBMS based on Clickhouse. | Relational | China | 2020 | Commercial, Open Source | C++ | Apache v2 |
 
 ## C
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [C-Store](https://dbdb.io/db/c-store) | C-Store is a column-oriented DBMS designed for read-optimized OLAP workloads. It adopts a column ... | Relational | United States of America | 2005 | Academic, Open Source | C++ | BSD | 2018-06-07 |
-| [Cachegrand](https://dbdb.io/db/cachegrand) | Cachegrand is an Redis-compatible key-value DBMS designed for caching. | Key/Value | Switzerland | 2018 | Commercial, Open Source | C | BSD | 2023-03-31 |
-| [Caché](https://dbdb.io/db/cache) | Caché stores data in multidimensional arrays for storing hierarchically structured data. | Array / Matrix | United States of America | 1997 | Commercial |  | Proprietary | 2022-01-04 |
-| [Calvin](https://dbdb.io/db/calvin) | Calvin is a scalable transactional database system that leverages determinism to guarantee active... | Relational | United States of America | 2012 | Academic, Open Source | C++ |  | 2019-07-21 |
-| [CamaDB](https://dbdb.io/db/camadb) | CamaDB is an embedded document-oriented DBMS for Node, Electron and browser-based environments. | Document / XML |  | 2021 | Hobby, Open Source | TypeScript | MIT | 2024-05-07 |
-| [CapyDB](https://dbdb.io/db/capydb) | CapyDB is a document-oriented DBMS with built-in support for approximate nearest neighbor searche... | Document / XML | United States of America | 2024 | Commercial |  | Proprietary | 2025-05-09 |
-| [CaskDB](https://dbdb.io/db/caskdb) | CaskDB is an embedded and persistent key-value DBMS. It was built an educational tool for people ... | Key/Value | India | 2022 | Educational, Open Source | Python | MIT | 2022-06-27 |
-| [Cassandra](https://dbdb.io/db/cassandra) | Apache Cassandra is a free and open source NoSQL distributed database management system. It provi... | Column Family / Wide-Column, Key/Value | United States of America | 2008 | Open Source | Java | Apache v2 | 2022-06-27 |
-| [CastleDB](https://dbdb.io/db/castledb) | CastleDB is a structured static DBMS platform designed to make it easier for multiple people to c... | Document / XML | France | 2012 | Open Source | Haxe | ISC License | 2022-01-03 |
-| [Cayley](https://dbdb.io/db/cayley) | Cayley is an open-source graph database query engine inspired by the Freebase and Google's Knowle... | Triplestore / RDF | United States of America | 2014 | Open Source | Go | Apache v2 | 2019-07-18 |
-| [cdb](https://dbdb.io/db/cdb) | cdb is a simple package for creating and reading constant (i.e., immutable) databases. | Key/Value | United States of America |  | Open Source |  | Public Domain | 2018-06-07 |
-| [Cedalio](https://dbdb.io/db/cedalio) | Cedalio is a document-oriented blockchain database as a service. | Document / XML | United States of America | 2022 | Commercial |  | Proprietary | 2023-07-26 |
-| [CedarDB](https://dbdb.io/db/cedardb) | CedarDB is the commercial offering of the academic Umbra relational DBMS. |  | Germany | 2023 | Commercial | C++ | Proprietary | 2024-05-28 |
-| [chaozzDB](https://dbdb.io/db/chaozzdb) | chaozzDB is a proof-of-concept embedded, flat-file SQL DBMS written entirely in PHP. |  | Netherlands | 2008 | Hobby, Open Source | PHP | Creative Commons License | 2023-10-01 |
-| [chDB](https://dbdb.io/db/chdb) | chDB is an embedded SQL OLAP based on ClickHouse. | Relational | Singapore | 2023 | Open Source | C++ | Apache v2 | 2024-03-15 |
-| [Cheetah](https://dbdb.io/db/cheetah) | Cheetah was an embedded dBase-compatiable DBMS engine for Windows applications. | Relational | Canada | 2005 | Open Source | Visual Basic | GPL v2 | 2024-12-12 |
-| [CheetahDB](https://dbdb.io/db/cheetahdb) | CheetahDB is a relational DBMS designed to execute OLAP queries on GPUs. | Relational | United States of America | 2018 | Commercial |  | Proprietary | 2020-12-12 |
-| [Chroma](https://dbdb.io/db/chroma) | Chroma is a document-oriented DBMS designed to support the generation and searches on embeddings ... | Document / XML | United States of America | 2022 | Commercial, Open Source | Python | Apache v2 | 2023-07-20 |
-| [chromem-go](https://dbdb.io/db/chromem-go) | chromem-go is an embedded vector database for Go-lang applications. The design of the DBMS's API ... | Vector | Germany | 2023 | Hobby, Open Source | Go | AGPL v3 | 2024-04-09 |
-| [ChromoDB](https://dbdb.io/db/chromodb) | ChromoDB is a key-value DBMS based on B-epsilon (fractal) trees. | Key/Value | Canada | 2024 | Hobby, Open Source | Go | GPL v3 | 2024-08-20 |
-| [Chronicle Map](https://dbdb.io/db/chronicle-map) | Chronicle Map is an in-memory key-value DBMS designed for low-latency applications. | Key/Value | United Kingdom | 2014 | Commercial, Open Source | Java | LGPL v3 | 2022-01-03 |
-| [Chronix](https://dbdb.io/db/chronix) | Chronix is a collection of Java-based frameworks for time-series data storage and analysis. It is... |  | Germany | 2015 | Commercial, Open Source | Java | Apache v2 | 2022-07-01 |
-| [Citus](https://dbdb.io/db/citus) | Citus is an extension to Postgres to make it a distributed, shared-nothing DBMS. | Relational | Turkey | 2010 | Commercial, Open Source | C | AGPL v3 | 2023-09-24 |
-| [ClearDB](https://dbdb.io/db/cleardb) | ClearDB is a distributed, cloud-hosted, database-as-a-service version of MySQL. Its primary purpo... | Relational | United States of America | 2010 | Commercial | C++ | Proprietary | 2023-09-24 |
-| [ClickHouse](https://dbdb.io/db/clickhouse) | CilckHouse is an open-source column-oriented OLAP DBMS. It is designed to provide linear scalabil... | Relational | Russia | 2016 | Commercial, Open Source | C++ | Apache v2 | 2023-07-10 |
-| [CloseVector](https://dbdb.io/db/closevector) | CloseVector is a vector database DBMS designed for Javascript-based environments. | Document / XML, Vector | China | 2023 | Commercial, Open Source |  | Apache v2 | 2023-09-24 |
-| [Cloud BigTable](https://dbdb.io/db/cloud-bigtable) | Cloud BigTable is a distributed storage system used in Google. BigTable is designed mainly for sc... | Column Family / Wide-Column | United States of America | 2005 | Commercial |  |  | 2022-08-01 |
-| [Cloud Datastore](https://dbdb.io/db/cloud-datastore) |  |  | United States of America |  | Commercial |  | Proprietary | 2019-03-30 |
-| [Cloud Firestore](https://dbdb.io/db/cloud-firestore) | Firestore is a serverless NoSQL DBMS that runs on top of Spanner. It is the backing system for Go... | Document / XML | United States of America | 2017 | Commercial |  | Proprietary | 2022-10-11 |
-| [Cloud Memorystore](https://dbdb.io/db/cloud-memorystore) |  |  | United States of America |  | Commercial |  | Proprietary | 2019-03-30 |
-| [Cloud Spanner](https://dbdb.io/db/cloud-spanner) | Spanner is Google's globally distributed NewSQL database management system. It follows multi-vers... |  | United States of America | 2007 | Commercial |  | Proprietary | 2022-10-10 |
-| [Cloud SQL](https://dbdb.io/db/cloud-sql) |  |  | United States of America |  | Commercial |  | Proprietary | 2019-03-30 |
-| [Cloudant](https://dbdb.io/db/cloudant) | Cloudant is a non-relational, distributed database service based on CouchDB. | Document / XML | United States of America | 2008 | Commercial |  |  | 2023-09-24 |
-| [Cloudberry](https://dbdb.io/db/cloudberry) | Cloudberry (sometimes referred to as "CloudberryDB" or "CBDB") is a fork of Greenplum. | Object-Relational | China | 2023 | Commercial, Open Source | C | Apache v2 | 2025-09-03 |
-| [CloudKit](https://dbdb.io/db/cloudkit) | CloudKit provides schema-free, auto-versioned, RESTful JSON storage. | Document / XML | United States of America | 2008 | Open Source |  | MIT | 2018-05-18 |
-| [CloudSearch](https://dbdb.io/db/cloudsearch) | Amazon CloudSearch is a managed search engine service based on Apache Solr. |  | United States of America | 2012 | Commercial |  | Proprietary | 2023-07-10 |
-| [CloverDB](https://dbdb.io/db/cloverdb) | CloverDB is a document-oriented DBMS designed for Go-lang applications. | Document / XML | Italy | 2022 | Hobby, Open Source | Go | MIT | 2023-11-19 |
-| [Clusterpoint](https://dbdb.io/db/clusterpoint) | Clusterpoint is a NoSQL document database management system. | Document / XML | Latvia | 2006 | Commercial |  | Proprietary | 2022-06-30 |
-| [Clustrix](https://dbdb.io/db/clustrix) | Clustrix is a clustered relational DBMS designed to be a a drop-in MySQL replacement. It is ACID ... | Relational | United States of America | 2006 | Commercial | C | Proprietary | 2024-10-31 |
-| [CnosDB](https://dbdb.io/db/cnosdb) | CnosDB is a distributed time-series database management system written in Rust. | Relational | China | 2021 | Commercial, Open Source | Rust | AGPL v3 | 2023-01-01 |
-| [CockroachDB](https://dbdb.io/db/cockroachdb) | CockroachDB (sometimes shortened as CRDB) is a free and open source distributed SQL database buil... | Relational | United States of America | 2014 | Commercial, Open Source | Go | Business Source License | 2024-12-10 |
-| [CodernityDB](https://dbdb.io/db/codernitydb) | CodernityDB is NoSQL key-value DBMS written in Python. | Key/Value | Poland | 2011 | Open Source | Python | Apache v2 | 2022-01-09 |
-| [CoGaDB](https://dbdb.io/db/cogadb) | CoGaDB was an academic column-oriented DBMS that supported GPU acceleration. It was developed by ... | Relational | Germany | 2012 | Academic, Open Source | C++ | GPL v3 | 2023-10-10 |
-| [CogDB](https://dbdb.io/db/cogdb) | CogDB is an embedded RDF (graph) DBMS library for Python applications. | Triplestore / RDF | Canada | 2017 | Hobby, Open Source | Python | MIT | 2022-01-09 |
-| [Coherence](https://dbdb.io/db/coherence) |  | Object-Oriented | United States of America | 2000 | Commercial | Java | Proprietary | 2024-10-31 |
-| [Column](https://dbdb.io/db/column) | Column is an embedded DBMS engine that stores in-memory columnar data. | Relational | United Arab Emirates | 2021 | Hobby, Open Source | Go | MIT | 2021-06-22 |
-| [Comdb2](https://dbdb.io/db/comdb2) | Comdb2 is a consistent, synchronously replicated SQL database built by Bloomberg. | Relational | United States of America | 2004 | Open Source | C | Apache v2 | 2022-01-03 |
-| [Compass](https://dbdb.io/db/compass) | Compass is a powerful Search Engine mapping built on the Lucene API. It is designed for fast sear... | Document / XML, Object-Oriented | United Kingdom | 2006 | Open Source | Java | Apache v2 | 2023-11-20 |
-| [CompleteDB](https://dbdb.io/db/completedb) | CompleteDB is an in-memory relational DBMS for transactional workloads. | Relational | United States of America | 2012 | Commercial | C++ | Proprietary | 2025-09-15 |
-| [ComposeDB](https://dbdb.io/db/composedb) | ComposeDB is a decentralized graph DBMS running on top of IPFS. | Graph | Ireland | 2022 | Open Source | TypeScript | Apache v2, MIT | 2023-03-05 |
-| [ComputeDB](https://dbdb.io/db/computedb) | ComputeDB is a distributed, in-memory OLAP DBMS. | Relational | United States of America | 2015 | Commercial, Open Source | Java | Apache v2 | 2024-10-31 |
-| [ConceptBase.cc](https://dbdb.io/db/conceptbasecc) | ConceptBase.cc is a multi-user deductive and object-oriented database system for metamodeling and... | Object-Oriented | Germany | 1995 | Academic, Open Source |  | BSD | 2022-01-05 |
-| [Concourse](https://dbdb.io/db/concourse) | Concourse is a hybrid operational and analytics document-oriented DBMS that supported automatic i... | Document / XML | United States of America | 2012 | Commercial, Open Source | Java | Apache v2 | 2022-01-07 |
-| [Condensation](https://dbdb.io/db/condensation) | Condensation is a decentralized, encrypted block-chain database system. | Object-Oriented | Switzerland | 2020 | Open Source | Java | Apache v2 | 2022-06-27 |
-| [ConfluxDB](https://dbdb.io/db/confluxdb) |  |  | Canada | 2014 | Academic |  |  | 2018-06-09 |
-| [Consus](https://dbdb.io/db/consus) | Consus is a geo-replicated transactional key-value store. | Key/Value | United States of America | 2015 | Academic, Open Source | C++ | BSD | 2024-06-02 |
-| [Consus](https://dbdb.io/db/consus-java) | Consus is a Java embedded object-relational database management system. | Object-Relational | Russia | 2004 | Open Source | Java | BSD | 2018-06-09 |
-| [CORAL](https://dbdb.io/db/coral) | Coral is a deductive database management system that supports a rich declarative language, and an... |  | United States of America | 1988 | Academic, Open Source | C++ |  | 2018-06-09 |
-| [CoreObject](https://dbdb.io/db/coreobject) | CoreObject is a version-controlled object database for Objective-C. It uses Mercurial to manage v... | Object-Oriented | France | 2007 | Academic, Open Source | Objective-C | MIT | 2022-06-28 |
-| [CornerStone](https://dbdb.io/db/cornerstone) | Cornerstone was a relational database that supported Microsoft DOS. It was primarily marketed for... | Relational | United States of America | 1985 | Commercial |  | Proprietary | 2024-04-22 |
-| [CortexDB](https://dbdb.io/db/cortexdb) | CortexDB is a self-learning multi-model NoSQL database. | Key/Value, Document / XML | Germany | 2014 | Commercial |  | Proprietary | 2022-06-27 |
-| [Cosmos DB](https://dbdb.io/db/cosmos-db) | CosmosDB is a globally distributed, consistent, schema-less, multi-model document database that p... | Column Family / Wide-Column, Key/Value, Graph | United States of America | 2015 | Commercial | C++ | Proprietary | 2022-01-03 |
-| [Couchbase](https://dbdb.io/db/couchbase) | Couchbase is an open-source, distributed NoSQL document database. It supports the Memcached clien... | Key/Value, Document / XML | United States of America | 2010 | Commercial, Open Source | C, C++, Erlang, Go | Apache v2 | 2022-06-27 |
-| [CouchDB](https://dbdb.io/db/couchdb) | CouchDB ("**c**luster **o**f **u**nreliable **c**ommodity **h**ardware") is a document-oriented N... | Document / XML | United States of America | 2005 | Open Source | Erlang | Apache v2 | 2024-10-31 |
-| [CovenantSQL](https://dbdb.io/db/covenantsql) | CovenantSQL is a decentralized SQL database management system derived from SQLite and built on to... | Relational | China | 2018 | Commercial, Open Source | Go | Apache v2 | 2025-12-15 |
-| [CozoDB](https://dbdb.io/db/cozodb) | CozoDB is transactional, relational DBMS that supports Datalog queries on graph data. | Relational | United Kingdom | 2022 | Hobby, Open Source | Rust | Mozilla Public License | 2023-04-24 |
-| [CQL++](https://dbdb.io/db/cql) | CQL++ is a SQL and B+tree/ISAM database management system providing a single user or client/server. | Relational | United States of America | 1994 | Commercial, Open Source | C++ | GPL v2, Proprietary | 2023-10-01 |
-| [CQLite](https://dbdb.io/db/cqlite) | CQLite is an embedded graph DBMS implemented in Rust. | Graph | United Kingdom | 2021 | Hobby, Open Source | Rust | MIT | 2022-05-08 |
-| [CrateDB](https://dbdb.io/db/cratedb) | CrateDB is an open-source, distributed, shared-nothing SQL database system developed by Crate.io,... |  | Austria | 2014 | Commercial, Open Source | Java | Apache v2 | 2025-05-10 |
-| [Crescando](https://dbdb.io/db/crescando) | Crescando is a distributed relational table implementation designed to perform execute queries an... | Relational | Switzerland | 2009 | Academic |  |  | 2022-06-27 |
-| [CrossDB](https://dbdb.io/db/crossdb) | CrossDB is a proprietary embedded DBMS for C/C++ applications. | Relational | China | 2019 | Hobby | C++ | Proprietary | 2023-06-05 |
-| [CrowdDB](https://dbdb.io/db/crowddb) | CrowdDb is a hybrid computer-human database that processes queries using crowd-sourcing if the da... | Relational | United States of America | 2011 | Academic |  |  | 2018-06-10 |
-| [CSQL](https://dbdb.io/db/csql) | CSQL is an open-source in-memory relational DBMS. | Relational | India | 2005 | Commercial, Open Source |  | GPL v2 | 2022-06-30 |
-| [CSV Comp DB](https://dbdb.io/db/csv-comp-db) | CSV Comp DB is a proprietary desktop DBMS based on CSV files. It is designed for Windows applicat... | Relational | Brazil | 2007 | Hobby | Pascal | Proprietary | 2023-03-08 |
-| [cubeSQL](https://dbdb.io/db/cubesql) | cubeSQL is wrapper system that provides remote access to a SQLite DBMS. | Relational | Italy | 2003 | Commercial |  | Proprietary | 2024-11-06 |
-| [CubicWeb](https://dbdb.io/db/cubicweb) |  | Graph | France | 2000 | Open Source | Python | LGPL v2 | 2022-06-29 |
-| [Cubrick](https://dbdb.io/db/cubrick) | Cubrick is a distributed multidimensional in-memory DBMS developed for internal use at Facebook. ... | Column Family / Wide-Column | United States of America | 2016 | Industrial Research |  | Proprietary | 2019-12-08 |
-| [Cubrid](https://dbdb.io/db/cubrid) | CUBRID is an open-source object-relational OLTP database management system under GPL/BSD license,... | Object-Relational | South Korea | 2008 | Open Source | C | BSD, GPL v2 | 2022-01-03 |
-| [CurioDB](https://dbdb.io/db/curiodb) | CurioDB is a distributed and persistent NoSQL database that is compatible with Redis. It uses [Ak... | Key/Value | Australia | 2015 | Open Source | Scala | BSD | 2023-09-28 |
-| [CursusDB](https://dbdb.io/db/cursusdb) | CursusDB is an in-memory document-oriented DBMS that supports SQL. | Document / XML | Canada | 2023 | Hobby, Open Source | Go | GPL v3 | 2023-12-07 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [C-Store](https://dbdb.io/db/c-store) | C-Store is a column-oriented DBMS designed for read-optimized OLAP workloads. It adopts a column ... | Relational | United States of America | 2005 | Academic, Open Source | C++ | BSD |
+| [Cachegrand](https://dbdb.io/db/cachegrand) | Cachegrand is an Redis-compatible key-value DBMS designed for caching. | Key/Value | Switzerland | 2018 | Commercial, Open Source | C | BSD |
+| [Caché](https://dbdb.io/db/cache) | Caché stores data in multidimensional arrays for storing hierarchically structured data. | Array / Matrix | United States of America | 1997 | Commercial |  | Proprietary |
+| [Calvin](https://dbdb.io/db/calvin) | Calvin is a scalable transactional database system that leverages determinism to guarantee active... | Relational | United States of America | 2012 | Academic, Open Source | C++ |  |
+| [CamaDB](https://dbdb.io/db/camadb) | CamaDB is an embedded document-oriented DBMS for Node, Electron and browser-based environments. | Document / XML |  | 2021 | Hobby, Open Source | TypeScript | MIT |
+| [CapyDB](https://dbdb.io/db/capydb) | CapyDB is a document-oriented DBMS with built-in support for approximate nearest neighbor searche... | Document / XML | United States of America | 2024 | Commercial |  | Proprietary |
+| [CaskDB](https://dbdb.io/db/caskdb) | CaskDB is an embedded and persistent key-value DBMS. It was built an educational tool for people ... | Key/Value | India | 2022 | Educational, Open Source | Python | MIT |
+| [Cassandra](https://dbdb.io/db/cassandra) | Apache Cassandra is a free and open source NoSQL distributed database management system. It provi... | Column Family / Wide-Column, Key/Value | United States of America | 2008 | Open Source | Java | Apache v2 |
+| [CastleDB](https://dbdb.io/db/castledb) | CastleDB is a structured static DBMS platform designed to make it easier for multiple people to c... | Document / XML | France | 2012 | Open Source | Haxe | ISC License |
+| [Cayley](https://dbdb.io/db/cayley) | Cayley is an open-source graph database query engine inspired by the Freebase and Google's Knowle... | Triplestore / RDF | United States of America | 2014 | Open Source | Go | Apache v2 |
+| [cdb](https://dbdb.io/db/cdb) | cdb is a simple package for creating and reading constant (i.e., immutable) databases. | Key/Value | United States of America |  | Open Source |  | Public Domain |
+| [Cedalio](https://dbdb.io/db/cedalio) | Cedalio is a document-oriented blockchain database as a service. | Document / XML | United States of America | 2022 | Commercial |  | Proprietary |
+| [CedarDB](https://dbdb.io/db/cedardb) | CedarDB is the commercial offering of the academic Umbra relational DBMS. |  | Germany | 2023 | Commercial | C++ | Proprietary |
+| [chaozzDB](https://dbdb.io/db/chaozzdb) | chaozzDB is a proof-of-concept embedded, flat-file SQL DBMS written entirely in PHP. |  | Netherlands | 2008 | Hobby, Open Source | PHP | Creative Commons License |
+| [chDB](https://dbdb.io/db/chdb) | chDB is an embedded SQL OLAP based on ClickHouse. | Relational | Singapore | 2023 | Open Source | C++ | Apache v2 |
+| [Cheetah](https://dbdb.io/db/cheetah) | Cheetah was an embedded dBase-compatiable DBMS engine for Windows applications. | Relational | Canada | 2005 | Open Source | Visual Basic | GPL v2 |
+| [CheetahDB](https://dbdb.io/db/cheetahdb) | CheetahDB is a relational DBMS designed to execute OLAP queries on GPUs. | Relational | United States of America | 2018 | Commercial |  | Proprietary |
+| [Chroma](https://dbdb.io/db/chroma) | Chroma is a document-oriented DBMS designed to support the generation and searches on embeddings ... | Document / XML | United States of America | 2022 | Commercial, Open Source | Python | Apache v2 |
+| [chromem-go](https://dbdb.io/db/chromem-go) | chromem-go is an embedded vector database for Go-lang applications. The design of the DBMS's API ... | Vector | Germany | 2023 | Hobby, Open Source | Go | AGPL v3 |
+| [ChromoDB](https://dbdb.io/db/chromodb) | ChromoDB is a key-value DBMS based on B-epsilon (fractal) trees. | Key/Value | Canada | 2024 | Hobby, Open Source | Go | GPL v3 |
+| [Chronicle Map](https://dbdb.io/db/chronicle-map) | Chronicle Map is an in-memory key-value DBMS designed for low-latency applications. | Key/Value | United Kingdom | 2014 | Commercial, Open Source | Java | LGPL v3 |
+| [Chronix](https://dbdb.io/db/chronix) | Chronix is a collection of Java-based frameworks for time-series data storage and analysis. It is... |  | Germany | 2015 | Commercial, Open Source | Java | Apache v2 |
+| [Citus](https://dbdb.io/db/citus) | Citus is an extension to Postgres to make it a distributed, shared-nothing DBMS. | Relational | Turkey | 2010 | Commercial, Open Source | C | AGPL v3 |
+| [ClearDB](https://dbdb.io/db/cleardb) | ClearDB is a distributed, cloud-hosted, database-as-a-service version of MySQL. Its primary purpo... | Relational | United States of America | 2010 | Commercial | C++ | Proprietary |
+| [ClickHouse](https://dbdb.io/db/clickhouse) | CilckHouse is an open-source column-oriented OLAP DBMS. It is designed to provide linear scalabil... | Relational | Russia | 2016 | Commercial, Open Source | C++ | Apache v2 |
+| [CloseVector](https://dbdb.io/db/closevector) | CloseVector is a vector database DBMS designed for Javascript-based environments. | Document / XML, Vector | China | 2023 | Commercial, Open Source |  | Apache v2 |
+| [Cloud BigTable](https://dbdb.io/db/cloud-bigtable) | Cloud BigTable is a distributed storage system used in Google. BigTable is designed mainly for sc... | Column Family / Wide-Column | United States of America | 2005 | Commercial |  |  |
+| [Cloud Datastore](https://dbdb.io/db/cloud-datastore) |  |  | United States of America |  | Commercial |  | Proprietary |
+| [Cloud Firestore](https://dbdb.io/db/cloud-firestore) | Firestore is a serverless NoSQL DBMS that runs on top of Spanner. It is the backing system for Go... | Document / XML | United States of America | 2017 | Commercial |  | Proprietary |
+| [Cloud Memorystore](https://dbdb.io/db/cloud-memorystore) |  |  | United States of America |  | Commercial |  | Proprietary |
+| [Cloud Spanner](https://dbdb.io/db/cloud-spanner) | Spanner is Google's globally distributed NewSQL database management system. It follows multi-vers... |  | United States of America | 2007 | Commercial |  | Proprietary |
+| [Cloud SQL](https://dbdb.io/db/cloud-sql) |  |  | United States of America |  | Commercial |  | Proprietary |
+| [Cloudant](https://dbdb.io/db/cloudant) | Cloudant is a non-relational, distributed database service based on CouchDB. | Document / XML | United States of America | 2008 | Commercial |  |  |
+| [Cloudberry](https://dbdb.io/db/cloudberry) | Cloudberry (sometimes referred to as "CloudberryDB" or "CBDB") is a fork of Greenplum. | Object-Relational | China | 2023 | Commercial, Open Source | C | Apache v2 |
+| [CloudKit](https://dbdb.io/db/cloudkit) | CloudKit provides schema-free, auto-versioned, RESTful JSON storage. | Document / XML | United States of America | 2008 | Open Source |  | MIT |
+| [CloudSearch](https://dbdb.io/db/cloudsearch) | Amazon CloudSearch is a managed search engine service based on Apache Solr. |  | United States of America | 2012 | Commercial |  | Proprietary |
+| [CloverDB](https://dbdb.io/db/cloverdb) | CloverDB is a document-oriented DBMS designed for Go-lang applications. | Document / XML | Italy | 2022 | Hobby, Open Source | Go | MIT |
+| [Clusterpoint](https://dbdb.io/db/clusterpoint) | Clusterpoint is a NoSQL document database management system. | Document / XML | Latvia | 2006 | Commercial |  | Proprietary |
+| [Clustrix](https://dbdb.io/db/clustrix) | Clustrix is a clustered relational DBMS designed to be a a drop-in MySQL replacement. It is ACID ... | Relational | United States of America | 2006 | Commercial | C | Proprietary |
+| [CnosDB](https://dbdb.io/db/cnosdb) | CnosDB is a distributed time-series database management system written in Rust. | Relational | China | 2021 | Commercial, Open Source | Rust | AGPL v3 |
+| [CockroachDB](https://dbdb.io/db/cockroachdb) | CockroachDB (sometimes shortened as CRDB) is a free and open source distributed SQL database buil... | Relational | United States of America | 2014 | Commercial, Open Source | Go | Business Source License |
+| [CodernityDB](https://dbdb.io/db/codernitydb) | CodernityDB is NoSQL key-value DBMS written in Python. | Key/Value | Poland | 2011 | Open Source | Python | Apache v2 |
+| [CoGaDB](https://dbdb.io/db/cogadb) | CoGaDB was an academic column-oriented DBMS that supported GPU acceleration. It was developed by ... | Relational | Germany | 2012 | Academic, Open Source | C++ | GPL v3 |
+| [CogDB](https://dbdb.io/db/cogdb) | CogDB is an embedded RDF (graph) DBMS library for Python applications. | Triplestore / RDF | Canada | 2017 | Hobby, Open Source | Python | MIT |
+| [Coherence](https://dbdb.io/db/coherence) |  | Object-Oriented | United States of America | 2000 | Commercial | Java | Proprietary |
+| [Column](https://dbdb.io/db/column) | Column is an embedded DBMS engine that stores in-memory columnar data. | Relational | United Arab Emirates | 2021 | Hobby, Open Source | Go | MIT |
+| [Comdb2](https://dbdb.io/db/comdb2) | Comdb2 is a consistent, synchronously replicated SQL database built by Bloomberg. | Relational | United States of America | 2004 | Open Source | C | Apache v2 |
+| [Compass](https://dbdb.io/db/compass) | Compass is a powerful Search Engine mapping built on the Lucene API. It is designed for fast sear... | Document / XML, Object-Oriented | United Kingdom | 2006 | Open Source | Java | Apache v2 |
+| [CompleteDB](https://dbdb.io/db/completedb) | CompleteDB is an in-memory relational DBMS for transactional workloads. | Relational | United States of America | 2012 | Commercial | C++ | Proprietary |
+| [ComposeDB](https://dbdb.io/db/composedb) | ComposeDB is a decentralized graph DBMS running on top of IPFS. | Graph | Ireland | 2022 | Open Source | TypeScript | Apache v2, MIT |
+| [ComputeDB](https://dbdb.io/db/computedb) | ComputeDB is a distributed, in-memory OLAP DBMS. | Relational | United States of America | 2015 | Commercial, Open Source | Java | Apache v2 |
+| [ConceptBase.cc](https://dbdb.io/db/conceptbasecc) | ConceptBase.cc is a multi-user deductive and object-oriented database system for metamodeling and... | Object-Oriented | Germany | 1995 | Academic, Open Source |  | BSD |
+| [Concourse](https://dbdb.io/db/concourse) | Concourse is a hybrid operational and analytics document-oriented DBMS that supported automatic i... | Document / XML | United States of America | 2012 | Commercial, Open Source | Java | Apache v2 |
+| [Condensation](https://dbdb.io/db/condensation) | Condensation is a decentralized, encrypted block-chain database system. | Object-Oriented | Switzerland | 2020 | Open Source | Java | Apache v2 |
+| [ConfluxDB](https://dbdb.io/db/confluxdb) |  |  | Canada | 2014 | Academic |  |  |
+| [Consus](https://dbdb.io/db/consus) | Consus is a geo-replicated transactional key-value store. | Key/Value | United States of America | 2015 | Academic, Open Source | C++ | BSD |
+| [Consus](https://dbdb.io/db/consus-java) | Consus is a Java embedded object-relational database management system. | Object-Relational | Russia | 2004 | Open Source | Java | BSD |
+| [CORAL](https://dbdb.io/db/coral) | Coral is a deductive database management system that supports a rich declarative language, and an... |  | United States of America | 1988 | Academic, Open Source | C++ |  |
+| [CoreObject](https://dbdb.io/db/coreobject) | CoreObject is a version-controlled object database for Objective-C. It uses Mercurial to manage v... | Object-Oriented | France | 2007 | Academic, Open Source | Objective-C | MIT |
+| [CornerStone](https://dbdb.io/db/cornerstone) | Cornerstone was a relational database that supported Microsoft DOS. It was primarily marketed for... | Relational | United States of America | 1985 | Commercial |  | Proprietary |
+| [CortexDB](https://dbdb.io/db/cortexdb) | CortexDB is a self-learning multi-model NoSQL database. | Key/Value, Document / XML | Germany | 2014 | Commercial |  | Proprietary |
+| [Cosmos DB](https://dbdb.io/db/cosmos-db) | CosmosDB is a globally distributed, consistent, schema-less, multi-model document database that p... | Column Family / Wide-Column, Key/Value, Graph | United States of America | 2015 | Commercial | C++ | Proprietary |
+| [Couchbase](https://dbdb.io/db/couchbase) | Couchbase is an open-source, distributed NoSQL document database. It supports the Memcached clien... | Key/Value, Document / XML | United States of America | 2010 | Commercial, Open Source | C, C++, Erlang, Go | Apache v2 |
+| [CouchDB](https://dbdb.io/db/couchdb) | CouchDB ("**c**luster **o**f **u**nreliable **c**ommodity **h**ardware") is a document-oriented N... | Document / XML | United States of America | 2005 | Open Source | Erlang | Apache v2 |
+| [CovenantSQL](https://dbdb.io/db/covenantsql) | CovenantSQL is a decentralized SQL database management system derived from SQLite and built on to... | Relational | China | 2018 | Commercial, Open Source | Go | Apache v2 |
+| [CozoDB](https://dbdb.io/db/cozodb) | CozoDB is transactional, relational DBMS that supports Datalog queries on graph data. | Relational | United Kingdom | 2022 | Hobby, Open Source | Rust | Mozilla Public License |
+| [CQL++](https://dbdb.io/db/cql) | CQL++ is a SQL and B+tree/ISAM database management system providing a single user or client/server. | Relational | United States of America | 1994 | Commercial, Open Source | C++ | GPL v2, Proprietary |
+| [CQLite](https://dbdb.io/db/cqlite) | CQLite is an embedded graph DBMS implemented in Rust. | Graph | United Kingdom | 2021 | Hobby, Open Source | Rust | MIT |
+| [CrateDB](https://dbdb.io/db/cratedb) | CrateDB is an open-source, distributed, shared-nothing SQL database system developed by Crate.io,... |  | Austria | 2014 | Commercial, Open Source | Java | Apache v2 |
+| [Crescando](https://dbdb.io/db/crescando) | Crescando is a distributed relational table implementation designed to perform execute queries an... | Relational | Switzerland | 2009 | Academic |  |  |
+| [CrossDB](https://dbdb.io/db/crossdb) | CrossDB is a proprietary embedded DBMS for C/C++ applications. | Relational | China | 2019 | Hobby | C++ | Proprietary |
+| [CrowdDB](https://dbdb.io/db/crowddb) | CrowdDb is a hybrid computer-human database that processes queries using crowd-sourcing if the da... | Relational | United States of America | 2011 | Academic |  |  |
+| [CSQL](https://dbdb.io/db/csql) | CSQL is an open-source in-memory relational DBMS. | Relational | India | 2005 | Commercial, Open Source |  | GPL v2 |
+| [CSV Comp DB](https://dbdb.io/db/csv-comp-db) | CSV Comp DB is a proprietary desktop DBMS based on CSV files. It is designed for Windows applicat... | Relational | Brazil | 2007 | Hobby | Pascal | Proprietary |
+| [cubeSQL](https://dbdb.io/db/cubesql) | cubeSQL is wrapper system that provides remote access to a SQLite DBMS. | Relational | Italy | 2003 | Commercial |  | Proprietary |
+| [CubicWeb](https://dbdb.io/db/cubicweb) |  | Graph | France | 2000 | Open Source | Python | LGPL v2 |
+| [Cubrick](https://dbdb.io/db/cubrick) | Cubrick is a distributed multidimensional in-memory DBMS developed for internal use at Facebook. ... | Column Family / Wide-Column | United States of America | 2016 | Industrial Research |  | Proprietary |
+| [Cubrid](https://dbdb.io/db/cubrid) | CUBRID is an open-source object-relational OLTP database management system under GPL/BSD license,... | Object-Relational | South Korea | 2008 | Open Source | C | BSD, GPL v2 |
+| [CurioDB](https://dbdb.io/db/curiodb) | CurioDB is a distributed and persistent NoSQL database that is compatible with Redis. It uses [Ak... | Key/Value | Australia | 2015 | Open Source | Scala | BSD |
+| [CursusDB](https://dbdb.io/db/cursusdb) | CursusDB is an in-memory document-oriented DBMS that supports SQL. | Document / XML | Canada | 2023 | Hobby, Open Source | Go | GPL v3 |
 
 ## D
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [D3](https://dbdb.io/db/d3) | D3 is a multi-dimensional relational database management system. | Relational | United States of America | 1999 | Commercial |  |  | 2024-10-31 |
-| [Daffodil DB](https://dbdb.io/db/daffodil-db) |  | Relational | India | 2003 | Commercial | Java | Proprietary | 2022-01-04 |
-| [DaggerDB](https://dbdb.io/db/daggerdb) | DaggerDB is an ACID column store / OLAP database management system for .Net environments. | Relational | Sweden | 2014 | Commercial |  |  | 2018-06-09 |
-| [DalmatinerDB](https://dbdb.io/db/dalmatinerdb) | DalmatinerDB is a metric database built on Riak. |  | Germany | 2014 | Open Source | Erlang | MIT | 2022-01-04 |
-| [Dare-DB](https://dbdb.io/db/dare-db) | Dare-DB (sometimes referred to as "DareDB") is an in-memory DBMS written in Go based on hash tabl... | Key/Value | Italy | 2024 | Hobby, Open Source | Go | MIT | 2024-11-05 |
-| [dashDB](https://dbdb.io/db/dashdb) | dashDB is a cloud-based data warehousing service based on IBM DB2. | Relational | United States of America | 2014 | Commercial |  | Proprietary | 2022-01-04 |
-| [Databend](https://dbdb.io/db/databend) | Databend is distributed SQL execution engine for shared-disk storage. | Relational | China | 2020 | Commercial, Open Source | Rust | Apache v2 | 2022-06-27 |
-| [DataBlitz](https://dbdb.io/db/datablitz) |  |  | United States of America | 1993 | Industrial Research |  | Proprietary | 2018-11-06 |
-| [DataEase](https://dbdb.io/db/dataease) |  | Relational | United States of America | 1981 | Commercial |  |  | 2022-01-03 |
-| [DataFusion](https://dbdb.io/db/datafusion) | DataFusion is an extensible framework for planning and executing SQL queries. | Relational | United States of America | 2016 | Open Source | Rust | Apache v2 | 2024-10-04 |
-| [Datahike](https://dbdb.io/db/datahike) | Datahike is a Datalog DBMS designed to be similar to [Datomic](/db/datomic). |  | Germany | 2018 | Open Source | Clojure | Eclipse Public License | 2022-06-27 |
-| [Datalevin](https://dbdb.io/db/datalevin) | Datalevin is a Datalog DBMS written in Clojure. It started out as a port of Datascript using LMDB. | Document / XML | United States of America | 2020 | Hobby, Open Source | Clojure | Eclipse Public License | 2024-02-13 |
-| [DATAllegro](https://dbdb.io/db/datallegro) | DATAllegro was a data warehouse appliance based on Ingres. | Relational | United States of America | 2003 | Commercial |  | Proprietary | 2024-10-31 |
-| [Datameer](https://dbdb.io/db/datameer) |  |  | United States of America | 2009 | Commercial |  |  | 2018-05-16 |
-| [Datascope](https://dbdb.io/db/datascope) | Datascope is a relational database system in which tables are represented by fixed-format files. ... | Relational | United States of America | 1996 | Academic, Commercial |  |  | 2019-04-21 |
-| [DataScript](https://dbdb.io/db/datascript) | DataScript is an immutable in-memory database and Datalog query engine in Clojure and ClojureScript. | Key/Value | Russia | 2014 | Open Source | Clojure | Eclipse Public License | 2022-06-27 |
-| [DataStax](https://dbdb.io/db/datastax) |  |  | United States of America | 2010 | Commercial |  | Proprietary | 2022-01-03 |
-| [Dataupia](https://dbdb.io/db/dataupia) | Dataupia was a relational data warehouse appliance that was compatible with SQL Server and Oracle. | Relational | United States of America | 2005 | Commercial |  | Proprietary | 2022-07-01 |
-| [Datomic](https://dbdb.io/db/datomic) | Datomic is a proprietary database management system. It is an operational DBMS, in other words, i... | Key/Value | United States of America | 2012 | Commercial | Clojure | Proprietary | 2023-09-24 |
-| [Db2](https://dbdb.io/db/db2) | IBM Db2 is a relational database management system that is focused on transactional and warehousi... | Relational, Document / XML | United States of America | 1983 | Commercial | C, C++ | Proprietary | 2022-06-27 |
-| [DB4IoT](https://dbdb.io/db/db4iot) | DB4IoT is a time-series geospatial database-as-a-service. | Document / XML | United States of America | 2016 | Commercial |  | Proprietary | 2022-01-05 |
-| [db4o](https://dbdb.io/db/db4o) | db4o ("database for objects") was an embeddable open-source object DBMS for Java and .NET environ... | Object-Oriented | United States of America | 2000 | Commercial, Open Source |  | GPL v2, Proprietary | 2024-10-31 |
-| [DB5](https://dbdb.io/db/db5) | DB5 (sometimes referred to as "Vector5db") is an embedded vector DBMS that supports nearest-neigh... | Document / XML, Vector | Poland | 2023 | Open Source | TypeScript | MIT | 2023-09-22 |
-| [dBASE](https://dbdb.io/db/dbase) | dBase is one of the first DBMSs for microcomputers. | Relational | United States of America | 1979 | Commercial | Assembly, C | Proprietary | 2025-12-19 |
-| [dbeel](https://dbdb.io/db/dbeel) | dbeel is a hobby project to build a document-oriented DBMS in Rust. | Document / XML | Israel | 2023 | Hobby, Open Source | Rust | Apache v2 | 2023-12-15 |
-| [DBIX](https://dbdb.io/db/dbix) | DBIX is a full-featured, multi-user SQL database server for Windows 3.x/NT/95 and Unix environments. |  | United States of America | 1996 | Commercial |  |  | 2018-05-18 |
-| [DBMaker](https://dbdb.io/db/dbmaker) | DBMaker is an ANSI SQL database that fully integrates into COBOL. | Relational | Taiwan | 1994 | Commercial |  |  | 2018-06-09 |
-| [DBMS-20](https://dbdb.io/db/dbms-20) | DBMS-20 was a network data model DBMS build by DEC for [TOPS-20](https://en.wikipedia.org/wiki/TO... | Network | United States of America |  | Commercial |  | Proprietary | 2019-04-18 |
-| [DBOMP](https://dbdb.io/db/dbomp) | DBOMP ("Database Organization and Maintenance Processor") was an early hierarchical database syst... | Hierarchical | United States of America | 1968 | Commercial |  | Proprietary | 2022-08-17 |
-| [DBreeze](https://dbdb.io/db/dbreeze) | DBreeze is a C# multi-model NoSQL DBMS. | Key/Value, Document / XML | Germany | 2012 | Open Source | C# | BSD | 2020-09-19 |
-| [DBx1000](https://dbdb.io/db/dbx1000) | DBx1000 is an experimental single-node OLTP DBMS designed to evaluate concurrency control protoco... | Relational | United States of America | 2014 | Academic, Open Source | Assembly, C++ | ISC License | 2022-06-27 |
-| [DeepDB](https://dbdb.io/db/deepdb) | DeepDB (also sometimes called DeepSQL near the end of the project) was a proprietary MySQL storag... | Relational | United States of America | 2010 | Commercial, Open Source | C++ | AGPL v3, Proprietary | 2023-09-24 |
-| [DefraDB](https://dbdb.io/db/defradb) | DefraDB is a document-oriented database based on CRDTs. | Document / XML | Canada | 2019 | Commercial, Open Source | Go | Business Source License | 2024-02-06 |
-| [DegDB](https://dbdb.io/db/degdb) | DegDB ("Distributed Economic Graph Database") is a graph database management system where every r... | Graph | Canada | 2015 | Open Source | Go | MIT | 2018-05-28 |
-| [Delta Lake](https://dbdb.io/db/delta-lake) | Delta Lake is an open-source storage layer for big data workloads. It provides ACID transactions ... | Column Family / Wide-Column | United States of America | 2019 | Commercial, Open Source | Scala | Apache v2 | 2023-04-12 |
-| [DensoDB](https://dbdb.io/db/densodb) | DensoDB (DotNet NoSQL DataBase) is NoSQL document database written for .Net environment. | Document / XML | Italy | 2012 | Open Source | C# |  | 2022-01-08 |
-| [Derby](https://dbdb.io/db/derby) | Derby is a lightweight embedded relational database implemented completely in Java. It is an embe... | Relational | United States of America | 1997 | Open Source | Java | Apache v2 | 2025-10-20 |
-| [DeveelDB](https://dbdb.io/db/deveeldb) | DeveelDB is an embedded relational DBMS for .NET/Mono frameworks. | Relational | Norway | 2009 | Open Source |  | Apache v2 | 2024-11-06 |
-| [DeviceSQL](https://dbdb.io/db/devicesql) | DeviceSQL is low-footprint relational DBMS designed for embedded devices. | Relational | United States of America | 1998 | Commercial | C | Proprietary | 2022-07-14 |
-| [DGraph](https://dbdb.io/db/dgraph) | Dgraph is a distributed graph database that supports GraphQL. It emphasizes concurrency in distri... | Graph | United States of America | 2015 | Commercial, Open Source | Go | Apache v2 | 2025-12-15 |
-| [DiceDB](https://dbdb.io/db/dicedb) | DiceDB is an in-memory, multi-threaded key-value DBMS that supports the Redis protocol. | Key/Value | India | 2022 | Hobby, Open Source |  | Business Source License | 2024-10-04 |
-| [DiggyDB](https://dbdb.io/db/diggydb) | DiggyDB is a proof-of-concept document-oriented DBMS stores data in DNS TXT records. | Document / XML | United Kingdom | 2021 | Hobby | JavaScript |  | 2022-01-04 |
-| [DIRECT](https://dbdb.io/db/direct) |  |  | United States of America | 1978 | Academic |  |  | 2018-06-09 |
-| [DittoBitto](https://dbdb.io/db/dittobitto) | DittoBitto is a multi-user relational DBMS based off of the Microsoft Access file format. | Relational | South Korea | 2001 | Commercial |  | Proprietary | 2019-06-05 |
-| [Djondb](https://dbdb.io/db/djondb) | Djondb is a document-oriented DBMS from Colombia. | Document / XML | Colombia | 2012 | Commercial |  |  | 2025-12-19 |
-| [DMSII](https://dbdb.io/db/dmsii) | The Unisys Data Management System II (DMSII) is a network-model DBMS created by the Burroughs Cor... | Network | United States of America | 1972 | Commercial |  | Proprietary | 2020-04-12 |
-| [Dnaerys](https://dbdb.io/db/dnaerys) | Dnaerys is a distributed in-memory DBMS designed to store genetic variations and execute algorith... |  | Australia |  | Academic, Commercial | Scala | Proprietary | 2022-11-01 |
-| [DocumentDB](https://dbdb.io/db/documentdb) | Amazon DocumentDB is a document database service that supports MongoDB workloads. | Document / XML | United States of America | 2019 | Commercial |  | Proprietary | 2019-05-15 |
-| [DolphinDB](https://dbdb.io/db/dolphindb) | DolphinDB is a time-series and analytics database management system. | Relational | China | 2018 | Commercial | C++ | Proprietary | 2023-11-16 |
-| [Dolt](https://dbdb.io/db/dolt) | Dolt is a single-node and embedded DBMS that incorporates Git-style versioning as a first-class e... | Relational | United States of America | 2018 | Open Source | Go | Apache v2 | 2022-06-27 |
-| [Doris](https://dbdb.io/db/doris) | Doris is a parallel SQL data warehouse developed by Baidu. | Relational | China | 2017 | Open Source | C++ | Apache v2 | 2023-09-13 |
-| [Doxa](https://dbdb.io/db/doxa) | Doxa is an in-memory document-oriented DBMS. | Document / XML | Poland | 2021 | Hobby, Open Source | Clojure | Public Domain | 2022-06-27 |
-| [Dqlite](https://dbdb.io/db/dqlite) | Dqlite ("distributed SQLite") is a portable C library that provides a shared-nothing DBMS. It use... | Relational | Italy | 2017 | Open Source | C | Apache v2 | 2023-07-07 |
-| [Dragonfly](https://dbdb.io/db/dragonfly) | Dragonfly is an in-memory key-value store designed to be a multi-threaded version of Redis. | Key/Value | Israel | 2021 | Commercial, Open Source | C++ | Business Source License | 2023-10-19 |
-| [Dremio](https://dbdb.io/db/dremio) | Dremio is a distributed OLAP system inspired by Google's Dremel / BigQuery system. | Relational | United States of America | 2015 | Commercial, Open Source | Java | Apache v2 | 2024-10-21 |
-| [DriftDB](https://dbdb.io/db/driftdb) | DriftDB is a PostgreSQL-compatible DBMS that supports time-travel queries on an append-only, immu... | Relational | United States of America | 2025 | Hobby, Open Source | Rust | MIT | 2026-01-20 |
-| [Drill](https://dbdb.io/db/drill) | Drill is a database system designed for Big Data exploration. It is an open-source, distributed S... | Column Family / Wide-Column | United States of America | 2012 | Open Source | Java | Apache v2 | 2022-07-01 |
-| [Drizzle](https://dbdb.io/db/drizzle) | Drizzle was a fork of MySQL that has now since been abandoned. | Relational | United States of America | 2008 | Open Source | C++ | BSD, GPL v2, GPL v3 | 2023-10-01 |
-| [Druid](https://dbdb.io/db/druid) | Apache Druid is an open-source distributed real-time analytics database designed for business int... | Column Family / Wide-Column | United States of America | 2011 | Open Source | Java | Apache v2 | 2022-06-27 |
-| [DuckDB](https://dbdb.io/db/duckdb) | DuckDB is a relational embeddable analytical DBMS that focuses on supporting analytical query wor... | Relational | Netherlands | 2018 | Academic, Open Source | C++ | MIT | 2025-01-26 |
-| [DuctileDB](https://dbdb.io/db/ductiledb) | DuctileDB is a graph-oriented DBMS built on top HBase. | Graph | Germany | 2015 | Open Source | Java | Apache v2 | 2023-09-27 |
-| [DyBASE](https://dbdb.io/db/dybase) | DyBASE is a object-oriented embedded DBMS for languages with dynamic type checking. | Object-Oriented | Russia |  | Open Source | C++ |  | 2022-06-29 |
-| [Dydra](https://dbdb.io/db/dydra) | Dydra is a cloud-hosted graph database service. | Triplestore / RDF | Germany | 2010 | Commercial |  | Proprietary | 2022-01-04 |
-| [DynamoDB](https://dbdb.io/db/dynamodb) | DynamoDB is a managed NoSQL database service provided by Amazon Web Services. As it is managed by... | Key/Value, Document / XML | United States of America | 2012 | Commercial | Java | Proprietary | 2022-01-04 |
-| [DynomiteDB](https://dbdb.io/db/dynomitedb) |  |  | United States of America | 2012 | Open Source | C | Apache v2 | 2018-05-17 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [D3](https://dbdb.io/db/d3) | D3 is a multi-dimensional relational database management system. | Relational | United States of America | 1999 | Commercial |  |  |
+| [Daffodil DB](https://dbdb.io/db/daffodil-db) |  | Relational | India | 2003 | Commercial | Java | Proprietary |
+| [DaggerDB](https://dbdb.io/db/daggerdb) | DaggerDB is an ACID column store / OLAP database management system for .Net environments. | Relational | Sweden | 2014 | Commercial |  |  |
+| [DalmatinerDB](https://dbdb.io/db/dalmatinerdb) | DalmatinerDB is a metric database built on Riak. |  | Germany | 2014 | Open Source | Erlang | MIT |
+| [Dare-DB](https://dbdb.io/db/dare-db) | Dare-DB (sometimes referred to as "DareDB") is an in-memory DBMS written in Go based on hash tabl... | Key/Value | Italy | 2024 | Hobby, Open Source | Go | MIT |
+| [dashDB](https://dbdb.io/db/dashdb) | dashDB is a cloud-based data warehousing service based on IBM DB2. | Relational | United States of America | 2014 | Commercial |  | Proprietary |
+| [Databend](https://dbdb.io/db/databend) | Databend is distributed SQL execution engine for shared-disk storage. | Relational | China | 2020 | Commercial, Open Source | Rust | Apache v2 |
+| [DataBlitz](https://dbdb.io/db/datablitz) |  |  | United States of America | 1993 | Industrial Research |  | Proprietary |
+| [DataEase](https://dbdb.io/db/dataease) |  | Relational | United States of America | 1981 | Commercial |  |  |
+| [DataFusion](https://dbdb.io/db/datafusion) | DataFusion is an extensible framework for planning and executing SQL queries. | Relational | United States of America | 2016 | Open Source | Rust | Apache v2 |
+| [Datahike](https://dbdb.io/db/datahike) | Datahike is a Datalog DBMS designed to be similar to [Datomic](/db/datomic). |  | Germany | 2018 | Open Source | Clojure | Eclipse Public License |
+| [Datalevin](https://dbdb.io/db/datalevin) | Datalevin is a Datalog DBMS written in Clojure. It started out as a port of Datascript using LMDB. | Document / XML | United States of America | 2020 | Hobby, Open Source | Clojure | Eclipse Public License |
+| [DATAllegro](https://dbdb.io/db/datallegro) | DATAllegro was a data warehouse appliance based on Ingres. | Relational | United States of America | 2003 | Commercial |  | Proprietary |
+| [Datameer](https://dbdb.io/db/datameer) |  |  | United States of America | 2009 | Commercial |  |  |
+| [Datascope](https://dbdb.io/db/datascope) | Datascope is a relational database system in which tables are represented by fixed-format files. ... | Relational | United States of America | 1996 | Academic, Commercial |  |  |
+| [DataScript](https://dbdb.io/db/datascript) | DataScript is an immutable in-memory database and Datalog query engine in Clojure and ClojureScript. | Key/Value | Russia | 2014 | Open Source | Clojure | Eclipse Public License |
+| [DataStax](https://dbdb.io/db/datastax) |  |  | United States of America | 2010 | Commercial |  | Proprietary |
+| [Dataupia](https://dbdb.io/db/dataupia) | Dataupia was a relational data warehouse appliance that was compatible with SQL Server and Oracle. | Relational | United States of America | 2005 | Commercial |  | Proprietary |
+| [Datomic](https://dbdb.io/db/datomic) | Datomic is a proprietary database management system. It is an operational DBMS, in other words, i... | Key/Value | United States of America | 2012 | Commercial | Clojure | Proprietary |
+| [Db2](https://dbdb.io/db/db2) | IBM Db2 is a relational database management system that is focused on transactional and warehousi... | Relational, Document / XML | United States of America | 1983 | Commercial | C, C++ | Proprietary |
+| [DB4IoT](https://dbdb.io/db/db4iot) | DB4IoT is a time-series geospatial database-as-a-service. | Document / XML | United States of America | 2016 | Commercial |  | Proprietary |
+| [db4o](https://dbdb.io/db/db4o) | db4o ("database for objects") was an embeddable open-source object DBMS for Java and .NET environ... | Object-Oriented | United States of America | 2000 | Commercial, Open Source |  | GPL v2, Proprietary |
+| [DB5](https://dbdb.io/db/db5) | DB5 (sometimes referred to as "Vector5db") is an embedded vector DBMS that supports nearest-neigh... | Document / XML, Vector | Poland | 2023 | Open Source | TypeScript | MIT |
+| [dBASE](https://dbdb.io/db/dbase) | dBase is one of the first DBMSs for microcomputers. | Relational | United States of America | 1979 | Commercial | Assembly, C | Proprietary |
+| [dbeel](https://dbdb.io/db/dbeel) | dbeel is a hobby project to build a document-oriented DBMS in Rust. | Document / XML | Israel | 2023 | Hobby, Open Source | Rust | Apache v2 |
+| [DBIX](https://dbdb.io/db/dbix) | DBIX is a full-featured, multi-user SQL database server for Windows 3.x/NT/95 and Unix environments. |  | United States of America | 1996 | Commercial |  |  |
+| [DBMaker](https://dbdb.io/db/dbmaker) | DBMaker is an ANSI SQL database that fully integrates into COBOL. | Relational | Taiwan | 1994 | Commercial |  |  |
+| [DBMS-20](https://dbdb.io/db/dbms-20) | DBMS-20 was a network data model DBMS build by DEC for [TOPS-20](https://en.wikipedia.org/wiki/TO... | Network | United States of America |  | Commercial |  | Proprietary |
+| [DBOMP](https://dbdb.io/db/dbomp) | DBOMP ("Database Organization and Maintenance Processor") was an early hierarchical database syst... | Hierarchical | United States of America | 1968 | Commercial |  | Proprietary |
+| [DBreeze](https://dbdb.io/db/dbreeze) | DBreeze is a C# multi-model NoSQL DBMS. | Key/Value, Document / XML | Germany | 2012 | Open Source | C# | BSD |
+| [DBx1000](https://dbdb.io/db/dbx1000) | DBx1000 is an experimental single-node OLTP DBMS designed to evaluate concurrency control protoco... | Relational | United States of America | 2014 | Academic, Open Source | Assembly, C++ | ISC License |
+| [DeepDB](https://dbdb.io/db/deepdb) | DeepDB (also sometimes called DeepSQL near the end of the project) was a proprietary MySQL storag... | Relational | United States of America | 2010 | Commercial, Open Source | C++ | AGPL v3, Proprietary |
+| [DefraDB](https://dbdb.io/db/defradb) | DefraDB is a document-oriented database based on CRDTs. | Document / XML | Canada | 2019 | Commercial, Open Source | Go | Business Source License |
+| [DegDB](https://dbdb.io/db/degdb) | DegDB ("Distributed Economic Graph Database") is a graph database management system where every r... | Graph | Canada | 2015 | Open Source | Go | MIT |
+| [Delta Lake](https://dbdb.io/db/delta-lake) | Delta Lake is an open-source storage layer for big data workloads. It provides ACID transactions ... | Column Family / Wide-Column | United States of America | 2019 | Commercial, Open Source | Scala | Apache v2 |
+| [DensoDB](https://dbdb.io/db/densodb) | DensoDB (DotNet NoSQL DataBase) is NoSQL document database written for .Net environment. | Document / XML | Italy | 2012 | Open Source | C# |  |
+| [Derby](https://dbdb.io/db/derby) | Derby is a lightweight embedded relational database implemented completely in Java. It is an embe... | Relational | United States of America | 1997 | Open Source | Java | Apache v2 |
+| [DeveelDB](https://dbdb.io/db/deveeldb) | DeveelDB is an embedded relational DBMS for .NET/Mono frameworks. | Relational | Norway | 2009 | Open Source |  | Apache v2 |
+| [DeviceSQL](https://dbdb.io/db/devicesql) | DeviceSQL is low-footprint relational DBMS designed for embedded devices. | Relational | United States of America | 1998 | Commercial | C | Proprietary |
+| [DGraph](https://dbdb.io/db/dgraph) | Dgraph is a distributed graph database that supports GraphQL. It emphasizes concurrency in distri... | Graph | United States of America | 2015 | Commercial, Open Source | Go | Apache v2 |
+| [DiceDB](https://dbdb.io/db/dicedb) | DiceDB is an in-memory, multi-threaded key-value DBMS that supports the Redis protocol. | Key/Value | India | 2022 | Hobby, Open Source |  | Business Source License |
+| [DiggyDB](https://dbdb.io/db/diggydb) | DiggyDB is a proof-of-concept document-oriented DBMS stores data in DNS TXT records. | Document / XML | United Kingdom | 2021 | Hobby | JavaScript |  |
+| [DIRECT](https://dbdb.io/db/direct) |  |  | United States of America | 1978 | Academic |  |  |
+| [DittoBitto](https://dbdb.io/db/dittobitto) | DittoBitto is a multi-user relational DBMS based off of the Microsoft Access file format. | Relational | South Korea | 2001 | Commercial |  | Proprietary |
+| [Djondb](https://dbdb.io/db/djondb) | Djondb is a document-oriented DBMS from Colombia. | Document / XML | Colombia | 2012 | Commercial |  |  |
+| [DMSII](https://dbdb.io/db/dmsii) | The Unisys Data Management System II (DMSII) is a network-model DBMS created by the Burroughs Cor... | Network | United States of America | 1972 | Commercial |  | Proprietary |
+| [Dnaerys](https://dbdb.io/db/dnaerys) | Dnaerys is a distributed in-memory DBMS designed to store genetic variations and execute algorith... |  | Australia |  | Academic, Commercial | Scala | Proprietary |
+| [DocumentDB](https://dbdb.io/db/documentdb) | Amazon DocumentDB is a document database service that supports MongoDB workloads. | Document / XML | United States of America | 2019 | Commercial |  | Proprietary |
+| [DolphinDB](https://dbdb.io/db/dolphindb) | DolphinDB is a time-series and analytics database management system. | Relational | China | 2018 | Commercial | C++ | Proprietary |
+| [Dolt](https://dbdb.io/db/dolt) | Dolt is a single-node and embedded DBMS that incorporates Git-style versioning as a first-class e... | Relational | United States of America | 2018 | Open Source | Go | Apache v2 |
+| [Doris](https://dbdb.io/db/doris) | Doris is a parallel SQL data warehouse developed by Baidu. | Relational | China | 2017 | Open Source | C++ | Apache v2 |
+| [Doxa](https://dbdb.io/db/doxa) | Doxa is an in-memory document-oriented DBMS. | Document / XML | Poland | 2021 | Hobby, Open Source | Clojure | Public Domain |
+| [Dqlite](https://dbdb.io/db/dqlite) | Dqlite ("distributed SQLite") is a portable C library that provides a shared-nothing DBMS. It use... | Relational | Italy | 2017 | Open Source | C | Apache v2 |
+| [Dragonfly](https://dbdb.io/db/dragonfly) | Dragonfly is an in-memory key-value store designed to be a multi-threaded version of Redis. | Key/Value | Israel | 2021 | Commercial, Open Source | C++ | Business Source License |
+| [Dremio](https://dbdb.io/db/dremio) | Dremio is a distributed OLAP system inspired by Google's Dremel / BigQuery system. | Relational | United States of America | 2015 | Commercial, Open Source | Java | Apache v2 |
+| [DriftDB](https://dbdb.io/db/driftdb) | DriftDB is a PostgreSQL-compatible DBMS that supports time-travel queries on an append-only, immu... | Relational | United States of America | 2025 | Hobby, Open Source | Rust | MIT |
+| [Drill](https://dbdb.io/db/drill) | Drill is a database system designed for Big Data exploration. It is an open-source, distributed S... | Column Family / Wide-Column | United States of America | 2012 | Open Source | Java | Apache v2 |
+| [Drizzle](https://dbdb.io/db/drizzle) | Drizzle was a fork of MySQL that has now since been abandoned. | Relational | United States of America | 2008 | Open Source | C++ | BSD, GPL v2, GPL v3 |
+| [Druid](https://dbdb.io/db/druid) | Apache Druid is an open-source distributed real-time analytics database designed for business int... | Column Family / Wide-Column | United States of America | 2011 | Open Source | Java | Apache v2 |
+| [DuckDB](https://dbdb.io/db/duckdb) | DuckDB is a relational embeddable analytical DBMS that focuses on supporting analytical query wor... | Relational | Netherlands | 2018 | Academic, Open Source | C++ | MIT |
+| [DuctileDB](https://dbdb.io/db/ductiledb) | DuctileDB is a graph-oriented DBMS built on top HBase. | Graph | Germany | 2015 | Open Source | Java | Apache v2 |
+| [DyBASE](https://dbdb.io/db/dybase) | DyBASE is a object-oriented embedded DBMS for languages with dynamic type checking. | Object-Oriented | Russia |  | Open Source | C++ |  |
+| [Dydra](https://dbdb.io/db/dydra) | Dydra is a cloud-hosted graph database service. | Triplestore / RDF | Germany | 2010 | Commercial |  | Proprietary |
+| [DynamoDB](https://dbdb.io/db/dynamodb) | DynamoDB is a managed NoSQL database service provided by Amazon Web Services. As it is managed by... | Key/Value, Document / XML | United States of America | 2012 | Commercial | Java | Proprietary |
+| [DynomiteDB](https://dbdb.io/db/dynomitedb) |  |  | United States of America | 2012 | Open Source | C | Apache v2 |
 
 ## E
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [Earthstar](https://dbdb.io/db/earthstar) | Earthstar is a peer-to-peer (P2P) document-oriented database. | Document / XML | United States of America | 2020 | Academic, Open Source | TypeScript | LGPL v3 | 2022-06-27 |
-| [EaseDB](https://dbdb.io/db/easedb) | EaseDB is a small database system for storing hierarchical data with a REST interface. | Document / XML | Russia | 2013 | Open Source | Ruby | MIT | 2023-09-28 |
-| [EasyDB](https://dbdb.io/db/easydb) | EasyDB is an serverless ephemeral database-as-a-service where databases are dropped after a certa... | Document / XML | United States of America | 2019 | Commercial |  | Proprietary | 2024-12-09 |
-| [EchoDB](https://dbdb.io/db/echodb) | EchoDB is an in-memory, multi-versioned key-value embedded DBMS. | Key/Value | United Kingdom | 2021 | Open Source | Rust | Apache v2 | 2022-08-21 |
-| [EcoDB](https://dbdb.io/db/ecodb) | EcoDB is a document database system with a REST API. | Document / XML | Canada | 2018 | Commercial |  | Proprietary | 2022-06-30 |
-| [EdgelessDB](https://dbdb.io/db/edgelessdb) | EdgelessDB is a MySQL-compatible DBMS designed to run inside Intel's SGX secure enclave. It is a ... | Relational | Germany | 2021 | Commercial, Open Source |  | GPL v2 | 2022-06-27 |
-| [Edis](https://dbdb.io/db/edis) | Edis is an Erlang re-implementation of Redis. It uses LevelDB as its backing data store. | Key/Value | United States of America | 2010 | Hobby, Open Source | Erlang |  | 2023-09-28 |
-| [EffiProz](https://dbdb.io/db/effiproz) | EffiProz is an embedded DBMS written in C#. It supports a SQL dialect that is similar to HSQLDB. | Relational | United States of America |  | Commercial, Open Source | C# |  | 2023-10-10 |
-| [Ehcache](https://dbdb.io/db/ehcache) | Ehcache is an open source Java distributed cache for general purpose caching. | Key/Value | United States of America | 2003 | Open Source | Java | Apache v2 | 2023-10-10 |
-| [EinsteinDB](https://dbdb.io/db/einsteindb) | EinsteinDB is a key-value store DBMS that supports partially ordered events. | Key/Value | United States of America | 2019 | Open Source | Rust |  | 2023-09-28 |
-| [EJDB](https://dbdb.io/db/ejdb) | EJDB2 is an embeddable JSON database engine | Key/Value, Document / XML | Russia | 2012 | Open Source | C | MIT | 2021-07-19 |
-| [ekoDB](https://dbdb.io/db/ekodb) | ekoDB is a hosted document-oriented DBMS. | Document / XML | United States of America | 2024 | Commercial | Rust | Proprietary | 2025-09-26 |
-| [Elara DB](https://dbdb.io/db/elara-db) | Elara DB is a key-value embedded DBMS written in Python. | Key/Value | India | 2021 | Hobby, Open Source | Python | BSD | 2022-01-07 |
-| [ElaSQL](https://dbdb.io/db/elasql) | ElaSQL is a distributed relational experimental DBMS. | Relational | Taiwan | 2016 | Academic, Open Source | Java | Apache v2 | 2023-09-14 |
-| [Elasticsearch](https://dbdb.io/db/elasticsearch) | Elasticsearch is an open-source full-text search and analytics engine based on Lucene. A few samp... | Document / XML | United States of America | 2004 | Open Source | Java | Apache v2 | 2025-09-24 |
-| [ElephantDB](https://dbdb.io/db/elephantdb) | ElephantDB is a database that provides an API for reading key/value data from Hadoop. ElephantDB ... | Key/Value | United States of America | 2011 | Open Source | Clojure | BSD | 2018-06-02 |
-| [ElevateDB](https://dbdb.io/db/elevatedb) | ElevateDB is a database application that can be integrated with various usages. One user or numer... | Relational | United States of America | 2006 | Commercial | SQL | Proprietary | 2019-12-11 |
-| [Elevator](https://dbdb.io/db/elevator) | Elevator is an open-source, on-disk key-value store. | Key/Value | Germany | 2012 | Open Source |  | MIT | 2023-10-10 |
-| [EliasDB](https://dbdb.io/db/eliasdb) | EliasDB is a lightweight graph-based database written in Go. | Graph | United Kingdom | 2016 | Open Source | Go | Mozilla Public License | 2021-01-01 |
-| [Elliptics](https://dbdb.io/db/elliptics) | Elliptics is a fault-tolerant distributed key/value (no-relational) database system. The core sto... | Key/Value | Russia | 2009 | Commercial, Open Source | C++, Python | LGPL v3 | 2023-11-10 |
-| [Eloquera](https://dbdb.io/db/eloquera) | Eloquera Database is a pure .NET object database. | Object-Oriented | Australia | 2008 | Commercial | C# | Proprietary | 2022-01-03 |
-| [Empress](https://dbdb.io/db/empress) | Empress is an embedded relational DBMS that supports SQL. | Relational | Canada | 1979 | Commercial |  | Proprietary | 2019-12-08 |
-| [Encompass](https://dbdb.io/db/encompass) | Tandem's initial database support was only for hierarchical, non-relational databases via the ENS... | Relational | United States of America | 1981 | Commercial |  |  | 2018-06-09 |
-| [Endatabas](https://dbdb.io/db/endatabas) | Endatabas is a columnar DBMS that supports SQL. | Relational, Document / XML | Sweden | 2023 | Commercial, Open Source | Lisp, Rust | AGPL v3 | 2023-09-21 |
-| [Endeca](https://dbdb.io/db/endeca) | Endeca is a document-oriented DBMS designed for analytical workloads. | Document / XML | United States of America | 1999 | Commercial |  | Proprietary | 2023-10-10 |
-| [Engula](https://dbdb.io/db/engula) | Engula is a distributed key-value DBMS. | Key/Value | China | 2022 | Hobby, Open Source | Rust | Apache v2 | 2022-08-17 |
-| [EnnoDB](https://dbdb.io/db/ennodb) | EnnoDB was a key/value NoSQL database designed to run on a web server. | Key/Value | Norway | 2012 | Hobby, Open Source | C | ISC License | 2022-01-05 |
-| [Epsilla](https://dbdb.io/db/epsilla) | Epsilla is vector DBMS designed to support LLMs. | Array / Matrix | United States of America | 2023 | Commercial, Open Source | C++ | GPL v3 | 2023-09-04 |
-| [EraDB](https://dbdb.io/db/eradb) | EraDB is a timeseries DBMS that supports SQL on top of document databases. | Document / XML | United States of America | 2019 | Commercial | Rust | Proprietary | 2024-10-31 |
-| [EsgynDB](https://dbdb.io/db/esgyndb) | EsgynDB is a hybrid transactional database management system built on Apache Trafodion. It is a d... | Relational | United States of America | 2015 | Commercial | C++, Java |  | 2022-07-01 |
-| [Espresso](https://dbdb.io/db/espresso) | Espresso is an internal distributed document-oriented database management system written by Linke... | Document / XML | United States of America | 2011 | Internal / Non-Public | Java |  | 2022-01-09 |
-| [Essbase](https://dbdb.io/db/essbase) | Essbase ("extended spreadsheet database") is a multidimensional database management system that p... | Array / Matrix | United States of America | 1992 | Commercial |  | Proprietary | 2025-12-01 |
-| [Essentia](https://dbdb.io/db/essentia) | Essentia was a database management system from Argentina designed to support desktop applications. | Relational, Object-Oriented | Argentina |  | Commercial |  | Proprietary | 2023-10-01 |
-| [etcd](https://dbdb.io/db/etcd) | etcd is a distributed key-value store which is highly available, strongly consistent, and watchab... | Key/Value | United States of America | 2013 | Open Source | Go | Apache v2 | 2024-10-31 |
-| [EuclidesDB](https://dbdb.io/db/euclidesdb) | EuclidesDB is a multi-model machine learning feature DBMS designed to interoperate with PyTorch a... | Array / Matrix | Portugal | 2018 | Open Source | C++ | Apache v2 | 2020-09-18 |
-| [EuclidOLAP](https://dbdb.io/db/euclidolap) | EuclidOLAP is an in-memory multi-dimensional database management system for data cubes. | Array / Matrix | China | 2022 | Hobby, Open Source | C | Apache v2 | 2023-06-09 |
-| [Eva](https://dbdb.io/db/eva) | Eva is a distributed DBMS with an entity-attribute-value data-model that is time-aware, accumulat... | Entity-Attribute-Value | Netherlands |  |  | Clojure | Eclipse Public License | 2022-06-27 |
-| [EVA DB](https://dbdb.io/db/eva-db) | EVA DB is a relational DBMS designed to operate on both structured (tables, feature vectors) and ... | Relational | United States of America | 2018 | Academic, Open Source | Python | Apache v2 | 2023-05-05 |
-| [EVCache](https://dbdb.io/db/evcache) | EVCache is a distributed in-memory data store based on Memcached. | Key/Value | United States of America | 2012 | Open Source |  | Apache v2 | 2023-06-15 |
-| [Event Store](https://dbdb.io/db/event-store) | Event Store is an open-source, functional database designed for complex event processing workloads. |  | United Kingdom | 2012 | Commercial, Open Source | C#, C++, JavaScript | BSD | 2022-06-27 |
-| [EventQL](https://dbdb.io/db/eventql) | EventQL is a distributed, column-oriented database built for large-scale event collection and ana... | Relational | Germany | 2014 | Commercial, Open Source | C++ | AGPL v3 | 2023-10-10 |
-| [EventSourcingDB](https://dbdb.io/db/eventsourcingdb) | EventSourcingDB is an cloud-hosted DBMS that models data as immutable, append-only log of events. | Document / XML | Germany | 2022 | Commercial | Go | Proprietary | 2025-10-26 |
-| [evitaDB](https://dbdb.io/db/evitadb) | evitaDB is a DBMS designed specifically for online storefront and catalog applications. | Document / XML | Czechia | 2020 | Commercial, Open Source | Java | Business Source License | 2023-10-29 |
-| [Exasol](https://dbdb.io/db/exasol) |  | Relational | Germany | 2000 | Commercial |  | Proprietary | 2022-02-10 |
-| [eXist-db](https://dbdb.io/db/exist-db) | eXist-db is an open-source XML DBMS. | Document / XML | Germany | 2000 | Commercial, Open Source | Java | LGPL v2 | 2022-07-01 |
-| [Exorbyte](https://dbdb.io/db/exorbyte) |  |  | Germany | 2000 | Commercial |  | Proprietary | 2022-01-04 |
-| [Express](https://dbdb.io/db/express) | Oracle Express was a multi-dimensional DBMS designed for building OLAP applications. It was avail... | Array / Matrix | United States of America | 1970 | Commercial |  | Proprietary | 2024-10-31 |
-| [Extensible Storage Engine](https://dbdb.io/db/extensible-storage-engine) | Extensible Storage Engine (ESE) is an embedded key-value ISAM DBMS used in various Microsoft prod... | Key/Value | United States of America | 1994 | Commercial, Open Source | C++ | MIT | 2022-05-08 |
-| [eXtremeDB](https://dbdb.io/db/extremedb) | eXtremeDB is a DBMS that supports both on-disk and in-memory databases. There are multiple editio... | Column Family / Wide-Column, Relational, Key/Value, Entity-Relationship | United States of America | 2001 | Commercial | C, C++ | Proprietary | 2023-11-20 |
-| [EyeDB](https://dbdb.io/db/eyedb) | EyeDB is an object-oriented DBMS written for Java and C++ applications. | Object-Oriented | France | 1992 | Academic, Open Source | C++ | LGPL v2 | 2023-10-08 |
-| [eyros](https://dbdb.io/db/eyros) | eyros is a multi-dimensional interval DBMS designed for geospatial and time-series databases. | Array / Matrix | United States of America | 2018 | Open Source | Rust | Parity Public License | 2022-06-27 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [Earthstar](https://dbdb.io/db/earthstar) | Earthstar is a peer-to-peer (P2P) document-oriented database. | Document / XML | United States of America | 2020 | Academic, Open Source | TypeScript | LGPL v3 |
+| [EaseDB](https://dbdb.io/db/easedb) | EaseDB is a small database system for storing hierarchical data with a REST interface. | Document / XML | Russia | 2013 | Open Source | Ruby | MIT |
+| [EasyDB](https://dbdb.io/db/easydb) | EasyDB is an serverless ephemeral database-as-a-service where databases are dropped after a certa... | Document / XML | United States of America | 2019 | Commercial |  | Proprietary |
+| [EchoDB](https://dbdb.io/db/echodb) | EchoDB is an in-memory, multi-versioned key-value embedded DBMS. | Key/Value | United Kingdom | 2021 | Open Source | Rust | Apache v2 |
+| [EcoDB](https://dbdb.io/db/ecodb) | EcoDB is a document database system with a REST API. | Document / XML | Canada | 2018 | Commercial |  | Proprietary |
+| [EdgelessDB](https://dbdb.io/db/edgelessdb) | EdgelessDB is a MySQL-compatible DBMS designed to run inside Intel's SGX secure enclave. It is a ... | Relational | Germany | 2021 | Commercial, Open Source |  | GPL v2 |
+| [Edis](https://dbdb.io/db/edis) | Edis is an Erlang re-implementation of Redis. It uses LevelDB as its backing data store. | Key/Value | United States of America | 2010 | Hobby, Open Source | Erlang |  |
+| [EffiProz](https://dbdb.io/db/effiproz) | EffiProz is an embedded DBMS written in C#. It supports a SQL dialect that is similar to HSQLDB. | Relational | United States of America |  | Commercial, Open Source | C# |  |
+| [Ehcache](https://dbdb.io/db/ehcache) | Ehcache is an open source Java distributed cache for general purpose caching. | Key/Value | United States of America | 2003 | Open Source | Java | Apache v2 |
+| [EinsteinDB](https://dbdb.io/db/einsteindb) | EinsteinDB is a key-value store DBMS that supports partially ordered events. | Key/Value | United States of America | 2019 | Open Source | Rust |  |
+| [EJDB](https://dbdb.io/db/ejdb) | EJDB2 is an embeddable JSON database engine | Key/Value, Document / XML | Russia | 2012 | Open Source | C | MIT |
+| [ekoDB](https://dbdb.io/db/ekodb) | ekoDB is a hosted document-oriented DBMS. | Document / XML | United States of America | 2024 | Commercial | Rust | Proprietary |
+| [Elara DB](https://dbdb.io/db/elara-db) | Elara DB is a key-value embedded DBMS written in Python. | Key/Value | India | 2021 | Hobby, Open Source | Python | BSD |
+| [ElaSQL](https://dbdb.io/db/elasql) | ElaSQL is a distributed relational experimental DBMS. | Relational | Taiwan | 2016 | Academic, Open Source | Java | Apache v2 |
+| [Elasticsearch](https://dbdb.io/db/elasticsearch) | Elasticsearch is an open-source full-text search and analytics engine based on Lucene. A few samp... | Document / XML | United States of America | 2004 | Open Source | Java | Apache v2 |
+| [ElephantDB](https://dbdb.io/db/elephantdb) | ElephantDB is a database that provides an API for reading key/value data from Hadoop. ElephantDB ... | Key/Value | United States of America | 2011 | Open Source | Clojure | BSD |
+| [ElevateDB](https://dbdb.io/db/elevatedb) | ElevateDB is a database application that can be integrated with various usages. One user or numer... | Relational | United States of America | 2006 | Commercial | SQL | Proprietary |
+| [Elevator](https://dbdb.io/db/elevator) | Elevator is an open-source, on-disk key-value store. | Key/Value | Germany | 2012 | Open Source |  | MIT |
+| [EliasDB](https://dbdb.io/db/eliasdb) | EliasDB is a lightweight graph-based database written in Go. | Graph | United Kingdom | 2016 | Open Source | Go | Mozilla Public License |
+| [Elliptics](https://dbdb.io/db/elliptics) | Elliptics is a fault-tolerant distributed key/value (no-relational) database system. The core sto... | Key/Value | Russia | 2009 | Commercial, Open Source | C++, Python | LGPL v3 |
+| [Eloquera](https://dbdb.io/db/eloquera) | Eloquera Database is a pure .NET object database. | Object-Oriented | Australia | 2008 | Commercial | C# | Proprietary |
+| [Empress](https://dbdb.io/db/empress) | Empress is an embedded relational DBMS that supports SQL. | Relational | Canada | 1979 | Commercial |  | Proprietary |
+| [Encompass](https://dbdb.io/db/encompass) | Tandem's initial database support was only for hierarchical, non-relational databases via the ENS... | Relational | United States of America | 1981 | Commercial |  |  |
+| [Endatabas](https://dbdb.io/db/endatabas) | Endatabas is a columnar DBMS that supports SQL. | Relational, Document / XML | Sweden | 2023 | Commercial, Open Source | Lisp, Rust | AGPL v3 |
+| [Endeca](https://dbdb.io/db/endeca) | Endeca is a document-oriented DBMS designed for analytical workloads. | Document / XML | United States of America | 1999 | Commercial |  | Proprietary |
+| [Engula](https://dbdb.io/db/engula) | Engula is a distributed key-value DBMS. | Key/Value | China | 2022 | Hobby, Open Source | Rust | Apache v2 |
+| [EnnoDB](https://dbdb.io/db/ennodb) | EnnoDB was a key/value NoSQL database designed to run on a web server. | Key/Value | Norway | 2012 | Hobby, Open Source | C | ISC License |
+| [Epsilla](https://dbdb.io/db/epsilla) | Epsilla is vector DBMS designed to support LLMs. | Array / Matrix | United States of America | 2023 | Commercial, Open Source | C++ | GPL v3 |
+| [EraDB](https://dbdb.io/db/eradb) | EraDB is a timeseries DBMS that supports SQL on top of document databases. | Document / XML | United States of America | 2019 | Commercial | Rust | Proprietary |
+| [EsgynDB](https://dbdb.io/db/esgyndb) | EsgynDB is a hybrid transactional database management system built on Apache Trafodion. It is a d... | Relational | United States of America | 2015 | Commercial | C++, Java |  |
+| [Espresso](https://dbdb.io/db/espresso) | Espresso is an internal distributed document-oriented database management system written by Linke... | Document / XML | United States of America | 2011 | Internal / Non-Public | Java |  |
+| [Essbase](https://dbdb.io/db/essbase) | Essbase ("extended spreadsheet database") is a multidimensional database management system that p... | Array / Matrix | United States of America | 1992 | Commercial |  | Proprietary |
+| [Essentia](https://dbdb.io/db/essentia) | Essentia was a database management system from Argentina designed to support desktop applications. | Relational, Object-Oriented | Argentina |  | Commercial |  | Proprietary |
+| [etcd](https://dbdb.io/db/etcd) | etcd is a distributed key-value store which is highly available, strongly consistent, and watchab... | Key/Value | United States of America | 2013 | Open Source | Go | Apache v2 |
+| [EuclidesDB](https://dbdb.io/db/euclidesdb) | EuclidesDB is a multi-model machine learning feature DBMS designed to interoperate with PyTorch a... | Array / Matrix | Portugal | 2018 | Open Source | C++ | Apache v2 |
+| [EuclidOLAP](https://dbdb.io/db/euclidolap) | EuclidOLAP is an in-memory multi-dimensional database management system for data cubes. | Array / Matrix | China | 2022 | Hobby, Open Source | C | Apache v2 |
+| [Eva](https://dbdb.io/db/eva) | Eva is a distributed DBMS with an entity-attribute-value data-model that is time-aware, accumulat... | Entity-Attribute-Value | Netherlands |  |  | Clojure | Eclipse Public License |
+| [EVA DB](https://dbdb.io/db/eva-db) | EVA DB is a relational DBMS designed to operate on both structured (tables, feature vectors) and ... | Relational | United States of America | 2018 | Academic, Open Source | Python | Apache v2 |
+| [EVCache](https://dbdb.io/db/evcache) | EVCache is a distributed in-memory data store based on Memcached. | Key/Value | United States of America | 2012 | Open Source |  | Apache v2 |
+| [Event Store](https://dbdb.io/db/event-store) | Event Store is an open-source, functional database designed for complex event processing workloads. |  | United Kingdom | 2012 | Commercial, Open Source | C#, C++, JavaScript | BSD |
+| [EventQL](https://dbdb.io/db/eventql) | EventQL is a distributed, column-oriented database built for large-scale event collection and ana... | Relational | Germany | 2014 | Commercial, Open Source | C++ | AGPL v3 |
+| [EventSourcingDB](https://dbdb.io/db/eventsourcingdb) | EventSourcingDB is an cloud-hosted DBMS that models data as immutable, append-only log of events. | Document / XML | Germany | 2022 | Commercial | Go | Proprietary |
+| [evitaDB](https://dbdb.io/db/evitadb) | evitaDB is a DBMS designed specifically for online storefront and catalog applications. | Document / XML | Czechia | 2020 | Commercial, Open Source | Java | Business Source License |
+| [Exasol](https://dbdb.io/db/exasol) |  | Relational | Germany | 2000 | Commercial |  | Proprietary |
+| [eXist-db](https://dbdb.io/db/exist-db) | eXist-db is an open-source XML DBMS. | Document / XML | Germany | 2000 | Commercial, Open Source | Java | LGPL v2 |
+| [Exorbyte](https://dbdb.io/db/exorbyte) |  |  | Germany | 2000 | Commercial |  | Proprietary |
+| [Express](https://dbdb.io/db/express) | Oracle Express was a multi-dimensional DBMS designed for building OLAP applications. It was avail... | Array / Matrix | United States of America | 1970 | Commercial |  | Proprietary |
+| [Extensible Storage Engine](https://dbdb.io/db/extensible-storage-engine) | Extensible Storage Engine (ESE) is an embedded key-value ISAM DBMS used in various Microsoft prod... | Key/Value | United States of America | 1994 | Commercial, Open Source | C++ | MIT |
+| [eXtremeDB](https://dbdb.io/db/extremedb) | eXtremeDB is a DBMS that supports both on-disk and in-memory databases. There are multiple editio... | Column Family / Wide-Column, Relational, Key/Value, Entity-Relationship | United States of America | 2001 | Commercial | C, C++ | Proprietary |
+| [EyeDB](https://dbdb.io/db/eyedb) | EyeDB is an object-oriented DBMS written for Java and C++ applications. | Object-Oriented | France | 1992 | Academic, Open Source | C++ | LGPL v2 |
+| [eyros](https://dbdb.io/db/eyros) | eyros is a multi-dimensional interval DBMS designed for geospatial and time-series databases. | Array / Matrix | United States of America | 2018 | Open Source | Rust | Parity Public License |
 
 ## F
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [FairCom DB](https://dbdb.io/db/faircom-db) | FairCom DB is an embedded key-value store DBMS engine. |  | United States of America | 1984 | Commercial | C | Proprietary | 2022-06-27 |
-| [Falcon](https://dbdb.io/db/falcon) | Falcon was a transactional storage engine being developed for the MySQL relational database manag... |  | United States of America | 2006 | Commercial, Open Source |  |  | 2023-10-01 |
-| [FalkorDB](https://dbdb.io/db/falkordb) | FalkorDB is a property graph DBMS that runs on top of Redis. It uses GraphBLAS for its sparse adj... | Graph | Israel | 2023 | Commercial, Open Source | C | Server Side Public License | 2024-12-13 |
-| [Fallen-8](https://dbdb.io/db/fallen-8) | Fallen-8 is an in-memory graph DBMS implemented in C#. | Graph | Germany | 2011 | Hobby, Open Source | C# | MIT | 2022-06-27 |
-| [FastDB](https://dbdb.io/db/fastdb) |  | Relational | Russia | 2011 | Open Source | C++ |  | 2022-06-29 |
-| [FASTER](https://dbdb.io/db/faster) | FASTER is a embedded transactional key-value storage manager from Microsoft. | Key/Value | United States of America | 2018 | Commercial, Open Source | C#, C++ | MIT | 2021-01-11 |
-| [FastObjects](https://dbdb.io/db/fastobjects) | FastObjects is an object-oriented database management system designed to store C++ and Java objec... | Object-Oriented | Germany | 1993 | Commercial | C++ | Proprietary | 2024-10-31 |
-| [FatDB](https://dbdb.io/db/fatdb) |  |  | United States of America | 2012 | Commercial | C# |  | 2022-06-30 |
-| [FathomDB](https://dbdb.io/db/fathomdb) | FathomDB was a relational database-as-a-service (based on MySQL) that supported Amazon and Racksp... |  | United States of America | 2009 | Commercial |  |  | 2023-10-01 |
-| [FaunaDB](https://dbdb.io/db/faunadb) | FaunaDB is a cloud-native OLTP database with distributed ACID transactions using the Calvin proto... | Relational, Key/Value, Document / XML, Graph | United States of America | 2012 | Commercial | Scala | Proprietary | 2025-04-10 |
-| [FBase](https://dbdb.io/db/fbase) | FBase is a time-series columnar DBMS written in Java. | Relational | Russia | 2022 | Hobby | Java | Apache v2 | 2023-03-08 |
-| [FeatureBase](https://dbdb.io/db/featurebase) | FeatureBase is a relational DBMS designed for automated featured extraction for analytical worklo... | Relational | United States of America | 2017 | Open Source | Go | Apache v2 | 2023-07-11 |
-| [FeatureForm](https://dbdb.io/db/featureform) | Embeddinghub is a vector DBMS designed for performing nearest neighbor searches. | Vector | United States of America | 2020 | Commercial, Open Source | Go | Mozilla Public License | 2023-09-12 |
-| [FerretDB](https://dbdb.io/db/ferretdb) | FerretDB is a document-oriented query middleware on top of PostgreSQL. | Document / XML | United States of America | 2021 | Open Source | Go |  | 2022-06-27 |
-| [FileDb](https://dbdb.io/db/filedb-dotnet) | FileDb was a embedded relational DBMS for for .NET, Silverlight, and Windows Phone applications. | Relational | Australia | 2011 | Commercial, Open Source | C# | Mozilla Public License | 2024-04-23 |
-| [FileDB](https://dbdb.io/db/filedb) | FileDB is a lightweight C# library to store, retrieve, and delete named blobs using a single arch... | Key/Value | Brazil | 2010 | Hobby, Open Source | C# | MIT | 2024-04-22 |
-| [FileMaker](https://dbdb.io/db/filemaker) | FileMaker is a proprietary relational database application which can be used in a cross-platform ... | Relational | United States of America | 1985 | Commercial |  | Proprietary | 2024-10-31 |
-| [FiloDB](https://dbdb.io/db/filodb) | FiloDB is an open-source distributed, versioned, and columnar analytical database designed for mo... |  | United States of America | 2015 | Open Source | Scala | Apache v2 | 2022-01-07 |
-| [FinchDB](https://dbdb.io/db/finchdb) | FinchDB is a proprietary in-memory, distributed document-oriented DBMS. | Document / XML | United States of America | 2015 | Commercial |  | Proprietary | 2019-04-20 |
-| [FineDB](https://dbdb.io/db/finedb) | FineDB is a multi-threaded NoSQL DBMS written in C, founded by Amaury Bouchard in 2013. It is bas... | Key/Value | France | 2013 | Hobby, Open Source | C | Apache v2 | 2023-11-20 |
-| [Firebase](https://dbdb.io/db/firebase) | The Firebase Realtime Database is a cloud-hosted NoSQL DBMS. | Document / XML | United States of America | 2011 | Commercial |  | Proprietary | 2023-09-24 |
-| [Firebird](https://dbdb.io/db/firebird) | Firebird is a free, open-source, SQL relational database management system based on the open sour... | Relational | United States of America | 2000 | Open Source | C, C++ | Mozilla Public License | 2025-11-15 |
-| [Firebolt](https://dbdb.io/db/firebolt) | Firebolt is a cloud-based data warehouse designed for analytical workloads. | Relational | Israel | 2020 | Commercial |  | Proprietary | 2022-06-27 |
-| [Fireproof](https://dbdb.io/db/fireproof) | Fireproof is an embedded document-oriented database based on CRDTs and IPFS. It is designed for J... | Document / XML | United Kingdom | 2022 | Commercial, Open Source | JavaScript | Apache v2 | 2024-04-09 |
-| [FirstSQL/J](https://dbdb.io/db/firstsqlj) | FirstSQL/J is an Object-Relational Database Management System (ORDBMS) written fully in Java. It ... | Object-Relational | United States of America | 2001 | Commercial | Java | Proprietary | 2023-10-03 |
-| [Fjall](https://dbdb.io/db/fjall) | Fjall is a log-structured, embedded key-value DBMS written in Rust. | Key/Value | Germany | 2023 | Hobby, Open Source | Rust | Apache v2, MIT | 2026-03-02 |
-| [FlashDB](https://dbdb.io/db/flashdb) | FlashDB is an embedded key-value DBMS. | Key/Value | China | 2020 | Hobby, Open Source | C | Apache v2 | 2021-05-30 |
-| [FleetDB](https://dbdb.io/db/fleetdb) | FleetDB is an in-memory, document-oriented DBMS. | Document / XML | United States of America | 2009 | Academic, Open Source | Clojure | MIT | 2022-01-07 |
-| [FlockDB](https://dbdb.io/db/flockdb) | FlockDB was a distributed, fault-tolerant graph database. | Graph | United States of America | 2010 | Open Source | Scala | Apache v2 | 2018-06-03 |
-| [Fluree](https://dbdb.io/db/fluree) | Fluree is a ledger-backed semantic graph database with a cloud-native architecture. | Relational, Document / XML, Graph, Triplestore / RDF | United States of America | 2017 | Commercial, Open Source | Clojure | AGPL v3 | 2022-07-01 |
-| [Fongo](https://dbdb.io/db/fongo) | Fongo ("Fake Mongo") is a in-memory re-implementation of MongoDB written in Java. The goal of the... | Document / XML | United States of America | 2012 | Open Source | Java | Apache v2 | 2022-07-01 |
-| [ForestDB](https://dbdb.io/db/forestdb) | ForestDB is a single-node key-value storage engine Couchbase server. It addresses the performance... | Key/Value | United States of America | 2013 | Open Source | C++ | Apache v2 | 2019-05-12 |
-| [FoundationDB](https://dbdb.io/db/foundationdb) | FoundationDB is a distributed non-relational database that supports ACID transactions and OLTP wo... | Key/Value | United States of America | 2009 | Open Source | C++ | Apache v2 | 2024-10-31 |
-| [FoxPro](https://dbdb.io/db/foxpro) | FoxPro was relational database management system for desktop applications. | Relational | United States of America | 1984 | Commercial | C++ | Proprietary | 2024-12-12 |
-| [FramerD](https://dbdb.io/db/framerd) | FramerD is a distributed object-oriented DBMS designed to support the maintenance of knowledge ba... | Object-Oriented | United States of America | 1996 | Academic, Open Source | C | GPL v2 | 2019-06-08 |
-| [Frigatebird](https://dbdb.io/db/frigatebird) | Frigatebird is an embedded columnar database that implements a push-based Volcano execution model... | Relational | Netherlands | 2025 | Hobby, Open Source | Rust | MIT | 2026-01-21 |
-| [FrontBase](https://dbdb.io/db/frontbase) |  | Relational | Denmark | 1993 | Commercial | C | Proprietary | 2018-05-29 |
-| [FrostDB](https://dbdb.io/db/frostdb) | FrostDB is an embedded columnar DBMS written in Go designed for observability time-series data sets. | Column Family / Wide-Column | United States of America | 2022 | Open Source | Go | Apache v2 | 2023-10-17 |
-| [FuelDB](https://dbdb.io/db/fueldb) | FuelDB is a real-time document-oriented database management system designed to run Node.js. | Document / XML | France | 2014 | Open Source | Java | MIT | 2022-06-27 |
-| [FusionDB](https://dbdb.io/db/fusiondb) | FusionDB was a document-oriented DBMS that supported XQuery statements. | Document / XML | United Kingdom | 2019 | Commercial |  | Proprietary | 2024-02-29 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [FairCom DB](https://dbdb.io/db/faircom-db) | FairCom DB is an embedded key-value store DBMS engine. |  | United States of America | 1984 | Commercial | C | Proprietary |
+| [Falcon](https://dbdb.io/db/falcon) | Falcon was a transactional storage engine being developed for the MySQL relational database manag... |  | United States of America | 2006 | Commercial, Open Source |  |  |
+| [FalkorDB](https://dbdb.io/db/falkordb) | FalkorDB is a property graph DBMS that runs on top of Redis. It uses GraphBLAS for its sparse adj... | Graph | Israel | 2023 | Commercial, Open Source | C | Server Side Public License |
+| [Fallen-8](https://dbdb.io/db/fallen-8) | Fallen-8 is an in-memory graph DBMS implemented in C#. | Graph | Germany | 2011 | Hobby, Open Source | C# | MIT |
+| [FastDB](https://dbdb.io/db/fastdb) |  | Relational | Russia | 2011 | Open Source | C++ |  |
+| [FASTER](https://dbdb.io/db/faster) | FASTER is a embedded transactional key-value storage manager from Microsoft. | Key/Value | United States of America | 2018 | Commercial, Open Source | C#, C++ | MIT |
+| [FastObjects](https://dbdb.io/db/fastobjects) | FastObjects is an object-oriented database management system designed to store C++ and Java objec... | Object-Oriented | Germany | 1993 | Commercial | C++ | Proprietary |
+| [FatDB](https://dbdb.io/db/fatdb) |  |  | United States of America | 2012 | Commercial | C# |  |
+| [FathomDB](https://dbdb.io/db/fathomdb) | FathomDB was a relational database-as-a-service (based on MySQL) that supported Amazon and Racksp... |  | United States of America | 2009 | Commercial |  |  |
+| [FaunaDB](https://dbdb.io/db/faunadb) | FaunaDB is a cloud-native OLTP database with distributed ACID transactions using the Calvin proto... | Relational, Key/Value, Document / XML, Graph | United States of America | 2012 | Commercial | Scala | Proprietary |
+| [FBase](https://dbdb.io/db/fbase) | FBase is a time-series columnar DBMS written in Java. | Relational | Russia | 2022 | Hobby | Java | Apache v2 |
+| [FeatureBase](https://dbdb.io/db/featurebase) | FeatureBase is a relational DBMS designed for automated featured extraction for analytical worklo... | Relational | United States of America | 2017 | Open Source | Go | Apache v2 |
+| [FeatureForm](https://dbdb.io/db/featureform) | Embeddinghub is a vector DBMS designed for performing nearest neighbor searches. | Vector | United States of America | 2020 | Commercial, Open Source | Go | Mozilla Public License |
+| [FerretDB](https://dbdb.io/db/ferretdb) | FerretDB is a document-oriented query middleware on top of PostgreSQL. | Document / XML | United States of America | 2021 | Open Source | Go |  |
+| [FileDb](https://dbdb.io/db/filedb-dotnet) | FileDb was a embedded relational DBMS for for .NET, Silverlight, and Windows Phone applications. | Relational | Australia | 2011 | Commercial, Open Source | C# | Mozilla Public License |
+| [FileDB](https://dbdb.io/db/filedb) | FileDB is a lightweight C# library to store, retrieve, and delete named blobs using a single arch... | Key/Value | Brazil | 2010 | Hobby, Open Source | C# | MIT |
+| [FileMaker](https://dbdb.io/db/filemaker) | FileMaker is a proprietary relational database application which can be used in a cross-platform ... | Relational | United States of America | 1985 | Commercial |  | Proprietary |
+| [FiloDB](https://dbdb.io/db/filodb) | FiloDB is an open-source distributed, versioned, and columnar analytical database designed for mo... |  | United States of America | 2015 | Open Source | Scala | Apache v2 |
+| [FinchDB](https://dbdb.io/db/finchdb) | FinchDB is a proprietary in-memory, distributed document-oriented DBMS. | Document / XML | United States of America | 2015 | Commercial |  | Proprietary |
+| [FineDB](https://dbdb.io/db/finedb) | FineDB is a multi-threaded NoSQL DBMS written in C, founded by Amaury Bouchard in 2013. It is bas... | Key/Value | France | 2013 | Hobby, Open Source | C | Apache v2 |
+| [Firebase](https://dbdb.io/db/firebase) | The Firebase Realtime Database is a cloud-hosted NoSQL DBMS. | Document / XML | United States of America | 2011 | Commercial |  | Proprietary |
+| [Firebird](https://dbdb.io/db/firebird) | Firebird is a free, open-source, SQL relational database management system based on the open sour... | Relational | United States of America | 2000 | Open Source | C, C++ | Mozilla Public License |
+| [Firebolt](https://dbdb.io/db/firebolt) | Firebolt is a cloud-based data warehouse designed for analytical workloads. | Relational | Israel | 2020 | Commercial |  | Proprietary |
+| [Fireproof](https://dbdb.io/db/fireproof) | Fireproof is an embedded document-oriented database based on CRDTs and IPFS. It is designed for J... | Document / XML | United Kingdom | 2022 | Commercial, Open Source | JavaScript | Apache v2 |
+| [FirstSQL/J](https://dbdb.io/db/firstsqlj) | FirstSQL/J is an Object-Relational Database Management System (ORDBMS) written fully in Java. It ... | Object-Relational | United States of America | 2001 | Commercial | Java | Proprietary |
+| [Fjall](https://dbdb.io/db/fjall) | Fjall is a log-structured, embedded key-value DBMS written in Rust. | Key/Value | Germany | 2023 | Hobby, Open Source | Rust | Apache v2, MIT |
+| [FlashDB](https://dbdb.io/db/flashdb) | FlashDB is an embedded key-value DBMS. | Key/Value | China | 2020 | Hobby, Open Source | C | Apache v2 |
+| [FleetDB](https://dbdb.io/db/fleetdb) | FleetDB is an in-memory, document-oriented DBMS. | Document / XML | United States of America | 2009 | Academic, Open Source | Clojure | MIT |
+| [FlockDB](https://dbdb.io/db/flockdb) | FlockDB was a distributed, fault-tolerant graph database. | Graph | United States of America | 2010 | Open Source | Scala | Apache v2 |
+| [Fluree](https://dbdb.io/db/fluree) | Fluree is a ledger-backed semantic graph database with a cloud-native architecture. | Relational, Document / XML, Graph, Triplestore / RDF | United States of America | 2017 | Commercial, Open Source | Clojure | AGPL v3 |
+| [Fongo](https://dbdb.io/db/fongo) | Fongo ("Fake Mongo") is a in-memory re-implementation of MongoDB written in Java. The goal of the... | Document / XML | United States of America | 2012 | Open Source | Java | Apache v2 |
+| [ForestDB](https://dbdb.io/db/forestdb) | ForestDB is a single-node key-value storage engine Couchbase server. It addresses the performance... | Key/Value | United States of America | 2013 | Open Source | C++ | Apache v2 |
+| [FoundationDB](https://dbdb.io/db/foundationdb) | FoundationDB is a distributed non-relational database that supports ACID transactions and OLTP wo... | Key/Value | United States of America | 2009 | Open Source | C++ | Apache v2 |
+| [FoxPro](https://dbdb.io/db/foxpro) | FoxPro was relational database management system for desktop applications. | Relational | United States of America | 1984 | Commercial | C++ | Proprietary |
+| [FramerD](https://dbdb.io/db/framerd) | FramerD is a distributed object-oriented DBMS designed to support the maintenance of knowledge ba... | Object-Oriented | United States of America | 1996 | Academic, Open Source | C | GPL v2 |
+| [Frigatebird](https://dbdb.io/db/frigatebird) | Frigatebird is an embedded columnar database that implements a push-based Volcano execution model... | Relational | Netherlands | 2025 | Hobby, Open Source | Rust | MIT |
+| [FrontBase](https://dbdb.io/db/frontbase) |  | Relational | Denmark | 1993 | Commercial | C | Proprietary |
+| [FrostDB](https://dbdb.io/db/frostdb) | FrostDB is an embedded columnar DBMS written in Go designed for observability time-series data sets. | Column Family / Wide-Column | United States of America | 2022 | Open Source | Go | Apache v2 |
+| [FuelDB](https://dbdb.io/db/fueldb) | FuelDB is a real-time document-oriented database management system designed to run Node.js. | Document / XML | France | 2014 | Open Source | Java | MIT |
+| [FusionDB](https://dbdb.io/db/fusiondb) | FusionDB was a document-oriented DBMS that supported XQuery statements. | Document / XML | United Kingdom | 2019 | Commercial |  | Proprietary |
 
 ## G
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [Gadfly](https://dbdb.io/db/gadfly) | Gadfly is a relational database management system written using Python modules and optional Pytho... | Relational | United States of America | 1994 | Open Source | Python | Python License | 2023-10-01 |
-| [Gaffer](https://dbdb.io/db/gaffer) | Gaffer is a ER database written in Java. | Entity-Relationship | United Kingdom | 2016 | Open Source | Java | Apache v2 | 2022-01-04 |
-| [Gaia](https://dbdb.io/db/gaia) | Gaia is an in-memory DBMS designed for embedded devices. | Object-Oriented | United States of America | 2020 | Commercial, Open Source | C++ | MIT | 2023-09-24 |
-| [Galaxybase](https://dbdb.io/db/galaxybase) | Galaxybase is a distributed graph database system written in Java. | Graph | China | 2013 | Commercial | Java | Proprietary | 2021-07-30 |
-| [GAMMA](https://dbdb.io/db/gamma) |  |  | United States of America |  | Academic |  |  | 2018-06-08 |
-| [Garnet](https://dbdb.io/db/garnet) | Garnet is a Redis-compatible key-value store cache developed by Microsoft Research. | Key/Value | United States of America | 2021 | Industrial Research, Open Source | C# | MIT | 2024-12-25 |
-| [GaussDB](https://dbdb.io/db/gaussdb) | GaussDB is a distributed DBMS based on Postgres developed by Huawei. | Object-Relational | China | 2011 | Commercial |  | Proprietary | 2022-01-04 |
-| [GBase](https://dbdb.io/db/gbase) | GBase is a distributed column store DBMS. |  | China | 2010 | Commercial |  | Proprietary | 2019-04-20 |
-| [GDBM](https://dbdb.io/db/gdbm) | GDBM (GNU dbm) is an embedded DBMS library that provides a key/value storage manager using extens... | Key/Value | United States of America | 1990 | Open Source | C | GPL v2 | 2025-09-24 |
-| [Gel](https://dbdb.io/db/gel) | Gel is a "graph-relational" database that aims to solve design problems posed by relational model... | Object-Relational | Canada | 2018 | Commercial, Open Source | C, Python, Rust | Apache v2 | 2025-02-27 |
-| [GemFire](https://dbdb.io/db/gemfire) |  |  | United States of America |  | Commercial |  |  | 2018-12-13 |
-| [GemStone/S](https://dbdb.io/db/gemstones) | GemStone/S is an object-oriented DBMS designed for Smalltalk applications. | Object-Oriented | United States of America | 1986 | Commercial | Smalltalk | Proprietary | 2022-07-12 |
-| [Genesis DB](https://dbdb.io/db/genesis-db) | Genesis DB is a document-oriented DBMS for streaming workloads. | Document / XML | Austria | 2025 | Commercial | Go | Proprietary | 2025-10-08 |
-| [GenieDB](https://dbdb.io/db/geniedb) | GenieDB was a cloud-based database-as-a-service for MySQL. | Relational | United States of America | 2008 | Commercial |  | Proprietary | 2022-11-20 |
-| [Genji](https://dbdb.io/db/genji) | Genji is an embedded DBMS written in Go that supports SQL over document-oriented databases. | Document / XML | United Arab Emirates | 2018 | Open Source | Go |  | 2022-06-27 |
-| [GenomicsDB](https://dbdb.io/db/genomicsdb) | GenomicsDB is an embedded storage engine for sparse array data, specifically for genomic data. | Array / Matrix | United States of America | 2016 | Industrial Research | C++ | MIT | 2022-01-06 |
-| [Geode](https://dbdb.io/db/geode) | Apache Geode is an open-source, in-memory distributed database designed to support transactional ... | Key/Value | United States of America | 2015 | Open Source | Java | Apache v2 | 2023-07-11 |
-| [GeoSpock DB](https://dbdb.io/db/geospock-db) | GeoSpock DB is geospatial analytics database build on top of PrestoDB. | Relational | United Kingdom | 2013 | Commercial |  | Proprietary | 2025-04-10 |
-| [GhostDB](https://dbdb.io/db/ghostdb) | GhostDB is a distributed in-memory key-value DBMS designed for caching. | Key/Value | Ireland | 2020 | Open Source | Go | BSD | 2023-06-15 |
-| [GigaBASE](https://dbdb.io/db/gigabase) | GigaBASE is object-relational embedded database engine for C++ applications. It provides SQL-like... | Object-Relational | Russia |  | Hobby, Open Source | C++ |  | 2022-06-29 |
-| [GlareDB](https://dbdb.io/db/glaredb) | GlareDB is a federated database middleware that supports query execution across multiple DBMS and... | Relational | United States of America | 2022 | Commercial, Open Source | Rust | AGPL v3 | 2024-07-21 |
-| [GlobalsDB](https://dbdb.io/db/globalsdb) | GlobalsDB was a closed-source NoSQL DBMS written in Java. It supported programming APIs for Java,... | Array / Matrix | United States of America | 2011 | Commercial | Java | Proprietary | 2019-08-07 |
-| [Glowdust](https://dbdb.io/db/glowdust) | Glowdust is a database management system based on functions. | Relational | Sweden | 2023 | Hobby, Open Source | Rust | GPL v3 | 2024-06-23 |
-| [Gnocchi](https://dbdb.io/db/gnocchi) | Gnocchi is an open-source time series database service for the OpenStack platform. It supports st... | Relational | France | 2014 | Open Source | Python | Apache v2 | 2023-06-09 |
-| [GNU SQL Server](https://dbdb.io/db/gnu-sql-server) | Portable multiuser relational database management system. It supports the full SQL89 dialect and ... | Relational | Russia | 1997 | Open Source | C | GPL v2 | 2018-05-18 |
-| [GoatDB](https://dbdb.io/db/goatdb) | GoatDB is an embedded document-oriented DBMS designed for JavaScript environments. | Document / XML | Israel | 2024 | Open Source | TypeScript | Apache v2 | 2025-04-11 |
-| [GOLD STAR](https://dbdb.io/db/gold-star) |  |  | United States of America | 1970 | Academic |  |  | 2018-06-09 |
-| [Goldilocks](https://dbdb.io/db/goldilocks) | Goldilocks is an in-memory relational DBMS from South Korea. | Relational | South Korea | 2010 | Commercial |  | Proprietary | 2022-06-27 |
-| [GOODS](https://dbdb.io/db/goods) | GOODS ("Generic Object Oriented Database System") is an object-oriented distributed DBMS using an... | Object-Oriented | Russia |  | Open Source |  | MIT | 2018-05-24 |
-| [Google F1](https://dbdb.io/db/google-f1) | F1 is a relational distributed transactional database. And it's built on Google's Spanner so that... | Relational | United States of America | 2013 | Commercial | C++ |  | 2018-11-06 |
-| [GoshawkDB](https://dbdb.io/db/goshawkdb) | GoshawkDB is an object-oriented database management system. | Object-Oriented | United Kingdom | 2015 | Commercial, Open Source | Go | AGPL v3 | 2023-09-29 |
-| [GRACE](https://dbdb.io/db/grace) |  |  | Japan | 1981 | Academic |  |  | 2018-05-16 |
-| [GraphBase](https://dbdb.io/db/graphbase) |  | Graph | Australia |  | Commercial |  | Proprietary | 2022-01-04 |
-| [GraphDB](https://dbdb.io/db/graphdb) | GraphDB is a distributed RDF graph database that supports SPARQL queries. It is implemented as a ... | Triplestore / RDF | Bulgaria | 2000 | Commercial | Java | Proprietary | 2023-08-01 |
-| [GrapheekDB](https://dbdb.io/db/grapheekdb) | GrapheekDB is a lightweight graph database with support for multiple back-end storage managers. I... | Key/Value, Graph | France | 2014 | Open Source | Python | GPL v3 | 2020-04-17 |
-| [GrapheneDB](https://dbdb.io/db/graphenedb) | GrapheneDB is a cloud-based Database-as-a-Service provider for graph databases based on Neo4j. Th... | Graph | Spain | 2012 | Commercial |  | Proprietary | 2023-11-10 |
-| [Graphik](https://dbdb.io/db/graphik) | Graphik is a document DBMS written in Go. | Document / XML | United States of America | 2020 | Hobby, Open Source | Go | Apache v2 | 2021-01-29 |
-| [Graviton](https://dbdb.io/db/graviton) | Graviton Database is an embedded key-value DBMS that supports snapshot versioning. | Key/Value | France | 2020 | Open Source | Go | GPL v3 | 2023-09-28 |
-| [GreatSQL](https://dbdb.io/db/greatsql) | GreatSQL (GreatDB) is a fork of Percona's MySQL Server. | Relational | China | 2020 | Commercial, Open Source | C++ | GPL v2 | 2023-11-01 |
-| [Greenplum](https://dbdb.io/db/greenplum) | Greenplum is an open-source data warehouse. It uses massive parallel processing to provide large-... | Relational | United States of America | 2003 | Commercial | C | Apache v2, Proprietary | 2025-06-16 |
-| [GreptimeDB](https://dbdb.io/db/greptimedb) | GreptimeDB is a distributed time-series DBMS written in Rust. | Relational | China | 2022 | Commercial, Open Source | Rust | Apache v2 | 2022-11-19 |
-| [GridDB](https://dbdb.io/db/griddb) | GridDB is a distributed key-value DBMS built by Toshiba. It has Key-Container data model and time... | Key/Value | Japan | 2011 | Commercial, Open Source | C++ | AGPL v3, Apache v2 | 2022-01-04 |
-| [GridGain](https://dbdb.io/db/gridgain) | GridGain is the commercial version of Apache Ignite. | Key/Value | United States of America | 2007 | Commercial, Open Source | Java | Apache v2 | 2022-07-01 |
-| [Groonga](https://dbdb.io/db/groonga) | Groonga is a column-oriented DBMS with a full-text search index. |  | Japan | 2009 | Commercial | C | LGPL v2 | 2022-07-01 |
-| [GT.M](https://dbdb.io/db/gtm) |  | Key/Value | United States of America | 1986 | Commercial |  | Proprietary | 2022-01-04 |
-| [GUN](https://dbdb.io/db/gun) | Gun is an open-source and realtime, decentralized, offline-first, graph database engine written i... | Graph | United States of America | 2014 | Commercial, Open Source | JavaScript | Apache v2 | 2022-06-27 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [Gadfly](https://dbdb.io/db/gadfly) | Gadfly is a relational database management system written using Python modules and optional Pytho... | Relational | United States of America | 1994 | Open Source | Python | Python License |
+| [Gaffer](https://dbdb.io/db/gaffer) | Gaffer is a ER database written in Java. | Entity-Relationship | United Kingdom | 2016 | Open Source | Java | Apache v2 |
+| [Gaia](https://dbdb.io/db/gaia) | Gaia is an in-memory DBMS designed for embedded devices. | Object-Oriented | United States of America | 2020 | Commercial, Open Source | C++ | MIT |
+| [Galaxybase](https://dbdb.io/db/galaxybase) | Galaxybase is a distributed graph database system written in Java. | Graph | China | 2013 | Commercial | Java | Proprietary |
+| [GAMMA](https://dbdb.io/db/gamma) |  |  | United States of America |  | Academic |  |  |
+| [Garnet](https://dbdb.io/db/garnet) | Garnet is a Redis-compatible key-value store cache developed by Microsoft Research. | Key/Value | United States of America | 2021 | Industrial Research, Open Source | C# | MIT |
+| [GaussDB](https://dbdb.io/db/gaussdb) | GaussDB is a distributed DBMS based on Postgres developed by Huawei. | Object-Relational | China | 2011 | Commercial |  | Proprietary |
+| [GBase](https://dbdb.io/db/gbase) | GBase is a distributed column store DBMS. |  | China | 2010 | Commercial |  | Proprietary |
+| [GDBM](https://dbdb.io/db/gdbm) | GDBM (GNU dbm) is an embedded DBMS library that provides a key/value storage manager using extens... | Key/Value | United States of America | 1990 | Open Source | C | GPL v2 |
+| [Gel](https://dbdb.io/db/gel) | Gel is a "graph-relational" database that aims to solve design problems posed by relational model... | Object-Relational | Canada | 2018 | Commercial, Open Source | C, Python, Rust | Apache v2 |
+| [GemFire](https://dbdb.io/db/gemfire) |  |  | United States of America |  | Commercial |  |  |
+| [GemStone/S](https://dbdb.io/db/gemstones) | GemStone/S is an object-oriented DBMS designed for Smalltalk applications. | Object-Oriented | United States of America | 1986 | Commercial | Smalltalk | Proprietary |
+| [Genesis DB](https://dbdb.io/db/genesis-db) | Genesis DB is a document-oriented DBMS for streaming workloads. | Document / XML | Austria | 2025 | Commercial | Go | Proprietary |
+| [GenieDB](https://dbdb.io/db/geniedb) | GenieDB was a cloud-based database-as-a-service for MySQL. | Relational | United States of America | 2008 | Commercial |  | Proprietary |
+| [Genji](https://dbdb.io/db/genji) | Genji is an embedded DBMS written in Go that supports SQL over document-oriented databases. | Document / XML | United Arab Emirates | 2018 | Open Source | Go |  |
+| [GenomicsDB](https://dbdb.io/db/genomicsdb) | GenomicsDB is an embedded storage engine for sparse array data, specifically for genomic data. | Array / Matrix | United States of America | 2016 | Industrial Research | C++ | MIT |
+| [Geode](https://dbdb.io/db/geode) | Apache Geode is an open-source, in-memory distributed database designed to support transactional ... | Key/Value | United States of America | 2015 | Open Source | Java | Apache v2 |
+| [GeoSpock DB](https://dbdb.io/db/geospock-db) | GeoSpock DB is geospatial analytics database build on top of PrestoDB. | Relational | United Kingdom | 2013 | Commercial |  | Proprietary |
+| [GhostDB](https://dbdb.io/db/ghostdb) | GhostDB is a distributed in-memory key-value DBMS designed for caching. | Key/Value | Ireland | 2020 | Open Source | Go | BSD |
+| [GigaBASE](https://dbdb.io/db/gigabase) | GigaBASE is object-relational embedded database engine for C++ applications. It provides SQL-like... | Object-Relational | Russia |  | Hobby, Open Source | C++ |  |
+| [GlareDB](https://dbdb.io/db/glaredb) | GlareDB is a federated database middleware that supports query execution across multiple DBMS and... | Relational | United States of America | 2022 | Commercial, Open Source | Rust | AGPL v3 |
+| [GlobalsDB](https://dbdb.io/db/globalsdb) | GlobalsDB was a closed-source NoSQL DBMS written in Java. It supported programming APIs for Java,... | Array / Matrix | United States of America | 2011 | Commercial | Java | Proprietary |
+| [Glowdust](https://dbdb.io/db/glowdust) | Glowdust is a database management system based on functions. | Relational | Sweden | 2023 | Hobby, Open Source | Rust | GPL v3 |
+| [Gnocchi](https://dbdb.io/db/gnocchi) | Gnocchi is an open-source time series database service for the OpenStack platform. It supports st... | Relational | France | 2014 | Open Source | Python | Apache v2 |
+| [GNU SQL Server](https://dbdb.io/db/gnu-sql-server) | Portable multiuser relational database management system. It supports the full SQL89 dialect and ... | Relational | Russia | 1997 | Open Source | C | GPL v2 |
+| [GoatDB](https://dbdb.io/db/goatdb) | GoatDB is an embedded document-oriented DBMS designed for JavaScript environments. | Document / XML | Israel | 2024 | Open Source | TypeScript | Apache v2 |
+| [GOLD STAR](https://dbdb.io/db/gold-star) |  |  | United States of America | 1970 | Academic |  |  |
+| [Goldilocks](https://dbdb.io/db/goldilocks) | Goldilocks is an in-memory relational DBMS from South Korea. | Relational | South Korea | 2010 | Commercial |  | Proprietary |
+| [GOODS](https://dbdb.io/db/goods) | GOODS ("Generic Object Oriented Database System") is an object-oriented distributed DBMS using an... | Object-Oriented | Russia |  | Open Source |  | MIT |
+| [Google F1](https://dbdb.io/db/google-f1) | F1 is a relational distributed transactional database. And it's built on Google's Spanner so that... | Relational | United States of America | 2013 | Commercial | C++ |  |
+| [GoshawkDB](https://dbdb.io/db/goshawkdb) | GoshawkDB is an object-oriented database management system. | Object-Oriented | United Kingdom | 2015 | Commercial, Open Source | Go | AGPL v3 |
+| [GRACE](https://dbdb.io/db/grace) |  |  | Japan | 1981 | Academic |  |  |
+| [GraphBase](https://dbdb.io/db/graphbase) |  | Graph | Australia |  | Commercial |  | Proprietary |
+| [GraphDB](https://dbdb.io/db/graphdb) | GraphDB is a distributed RDF graph database that supports SPARQL queries. It is implemented as a ... | Triplestore / RDF | Bulgaria | 2000 | Commercial | Java | Proprietary |
+| [GrapheekDB](https://dbdb.io/db/grapheekdb) | GrapheekDB is a lightweight graph database with support for multiple back-end storage managers. I... | Key/Value, Graph | France | 2014 | Open Source | Python | GPL v3 |
+| [GrapheneDB](https://dbdb.io/db/graphenedb) | GrapheneDB is a cloud-based Database-as-a-Service provider for graph databases based on Neo4j. Th... | Graph | Spain | 2012 | Commercial |  | Proprietary |
+| [Graphik](https://dbdb.io/db/graphik) | Graphik is a document DBMS written in Go. | Document / XML | United States of America | 2020 | Hobby, Open Source | Go | Apache v2 |
+| [Graviton](https://dbdb.io/db/graviton) | Graviton Database is an embedded key-value DBMS that supports snapshot versioning. | Key/Value | France | 2020 | Open Source | Go | GPL v3 |
+| [GreatSQL](https://dbdb.io/db/greatsql) | GreatSQL (GreatDB) is a fork of Percona's MySQL Server. | Relational | China | 2020 | Commercial, Open Source | C++ | GPL v2 |
+| [Greenplum](https://dbdb.io/db/greenplum) | Greenplum is an open-source data warehouse. It uses massive parallel processing to provide large-... | Relational | United States of America | 2003 | Commercial | C | Apache v2, Proprietary |
+| [GreptimeDB](https://dbdb.io/db/greptimedb) | GreptimeDB is a distributed time-series DBMS written in Rust. | Relational | China | 2022 | Commercial, Open Source | Rust | Apache v2 |
+| [GridDB](https://dbdb.io/db/griddb) | GridDB is a distributed key-value DBMS built by Toshiba. It has Key-Container data model and time... | Key/Value | Japan | 2011 | Commercial, Open Source | C++ | AGPL v3, Apache v2 |
+| [GridGain](https://dbdb.io/db/gridgain) | GridGain is the commercial version of Apache Ignite. | Key/Value | United States of America | 2007 | Commercial, Open Source | Java | Apache v2 |
+| [Groonga](https://dbdb.io/db/groonga) | Groonga is a column-oriented DBMS with a full-text search index. |  | Japan | 2009 | Commercial | C | LGPL v2 |
+| [GT.M](https://dbdb.io/db/gtm) |  | Key/Value | United States of America | 1986 | Commercial |  | Proprietary |
+| [GUN](https://dbdb.io/db/gun) | Gun is an open-source and realtime, decentralized, offline-first, graph database engine written i... | Graph | United States of America | 2014 | Commercial, Open Source | JavaScript | Apache v2 |
 
 ## H
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [H-Store](https://dbdb.io/db/h-store) | H-Store was an experimental database management system designed for on-line transaction processin... | Relational | United States of America | 2006 | Academic, Open Source | C++, Java | BSD, GPL v3 | 2022-06-30 |
-| [H2](https://dbdb.io/db/h2) | H2 ("Hypersonic 2") is an open-source lightweight relational database management system implement... | Relational | Switzerland | 2004 | Open Source | Java | Eclipse Public License, Mozilla Public License | 2022-11-17 |
-| [Hadapt](https://dbdb.io/db/hadapt) |  |  | United States of America | 2009 | Commercial | Java |  | 2023-10-01 |
-| [Hadoop](https://dbdb.io/db/hadoop) | Hadoop is a compute and storage framework for executing queries over shared-disk storage using th... |  | United States of America | 2006 | Open Source | Java | Apache v2 | 2024-02-13 |
-| [HailDB](https://dbdb.io/db/haildb) | HailDB was a fork of MySQL's InnoDB storage engine to provide it as a shared library with NoSQL A... | Key/Value | Australia | 2010 | Open Source |  |  | 2023-10-03 |
-| [Haixun](https://dbdb.io/db/haixun) |  |  | China |  |  |  |  | 2018-05-19 |
-| [HaloDB](https://dbdb.io/db/halodb) | HaloDB is an embedded key-value store written in Java. | Key/Value | United States of America | 2017 | Industrial Research, Open Source | Java | Apache v2 | 2019-04-23 |
-| [HampusDB](https://dbdb.io/db/hampusdb) | HampusDB (HDB) is a key-value DBMS that combines concepts from filesystems and databases. It prov... | Key/Value | Sweden | 2006 | Hobby, Open Source | C | LGPL v2 | 2020-05-04 |
-| [HANA](https://dbdb.io/db/hana) | SAP HANA is a column-oriented, in-memory relational DBMS developed by SAP SE that is designed for... | Column Family / Wide-Column | Germany | 2010 | Commercial | C++ | Proprietary | 2026-02-02 |
-| [HanoiDB](https://dbdb.io/db/hanoidb) | HanoiDB is an indexed, key/value storage engine. The primary index is a log-structured merge tree. | Key/Value | Denmark | 2012 | Open Source | Erlang |  | 2018-06-09 |
-| [HarperDB](https://dbdb.io/db/harperdb) | HarperDB is a serverless document DBMS that supports SQL. | Document / XML | United States of America | 2017 | Commercial | JavaScript | Proprietary | 2023-07-10 |
-| [HAWQ](https://dbdb.io/db/hawq) | HAWQ ("Hadoop With Query") is a distributed SQL execution engine that runs on top of Hadoop. | Relational | United States of America | 2015 | Open Source | Java | Apache v2 | 2023-09-26 |
-| [HaystackDB](https://dbdb.io/db/haystackdb) | HaystackDB is a vector DBMS based on MMAP storage. | Vector | United States of America | 2024 | Hobby, Open Source | Rust | Apache v2 | 2024-05-09 |
-| [Hazelcast](https://dbdb.io/db/hazelcast) | Hazelcast IMDG (In Memory Data Grid) is a Java-based NoSQL open-source distributed in-memory data... | Key/Value | United States of America | 2008 | Commercial, Open Source | Java | Apache v2 | 2022-06-27 |
-| [HBase](https://dbdb.io/db/hbase) | HBase is an open source, distributed, non-relational, scalable big data store that runs on top of... | Column Family / Wide-Column | United States of America | 2007 | Open Source | Java | Apache v2 | 2022-06-27 |
-| [HeavyDB](https://dbdb.io/db/heavydb) | HeavyDB is a relational, columnar database engine that uses GPUs to accelerate query execution. | Relational | United States of America | 2013 | Commercial, Open Source | C++ | Apache v2 | 2025-12-29 |
-| [Hekaton](https://dbdb.io/db/hekaton) | Hekaton is a memory-optimized OLTP engine integrated in SQL Server 2014 and is also known as The ... | Relational | United States of America | 2012 | Commercial |  | Proprietary | 2025-11-10 |
-| [Helium](https://dbdb.io/db/helium) | Helium is a key-value storage engine that uses kernel bypass methods for reading/writing from SSDs. | Key/Value | United States of America | 2017 | Commercial |  | Proprietary | 2023-07-04 |
-| [HelixDB](https://dbdb.io/db/helixdb) | HelixDB is a graph-oriented DBMS designed for nearest-neighbor searches over vectors. It uses LMD... | Graph, Vector | United States of America | 2024 | Commercial, Open Source | Rust | GPL v3 | 2025-04-12 |
-| [HerdDB](https://dbdb.io/db/herddb) | HerdDB is a distributed SQL DBMS implemented in Java, optimized for primary key read/update acces... | Relational | Italy | 2016 | Open Source | Java | Apache v2 | 2019-09-10 |
-| [Heroic](https://dbdb.io/db/heroic) | Heroic is an open-source time-series DBMS built at Spotify to more effectively compute and analyz... | Key/Value | Sweden | 2015 | Open Source | Java | Apache v2 | 2019-12-11 |
-| [HexaDB](https://dbdb.io/db/hexadb) | HexaDB is an HTAP system that is compatible with Postgres. | Relational | China | 2023 | Commercial |  | Proprietary | 2025-10-29 |
-| [HFSQL](https://dbdb.io/db/hfsql) | HFSQL is an embedded relational DBMS for the [WINDEV](https://www.windev.com/windev/index.html) d... |  | France |  | Commercial |  | Proprietary | 2019-04-20 |
-| [Hibari](https://dbdb.io/db/hibari) | Hibari is a distributed, ordered key-value, storage engine. | Key/Value | Japan | 2005 | Open Source | Erlang | Apache v2 | 2024-10-31 |
-| [HighContext](https://dbdb.io/db/highcontext) | HighContext is a database-as-a-service system that provides a key/value REST API for storing JSON... | Key/Value | United States of America | 2023 | Commercial | Ruby | Proprietary | 2023-11-15 |
-| [hipsterDB](https://dbdb.io/db/hipsterdb) | hipsterDB is a toy key/value DBMS project that is designed to only return data as long as that da... | Key/Value | United States of America | 2013 | Hobby, Open Source | Go |  | 2024-08-03 |
-| [HiRDB](https://dbdb.io/db/hirdb) | HiRDB is a distributed relational DBMS built by Hitachi. | Relational, Document / XML | Japan | 1994 | Commercial |  | Proprietary | 2022-06-27 |
-| [Histore](https://dbdb.io/db/histore) | Histore is a JavaScript-based key-value storage engine backed by navigation state. | Key/Value | United States of America | 2018 | Hobby, Open Source | JavaScript | Apache v2 | 2023-09-29 |
-| [Hive](https://dbdb.io/db/hive) | Apache Hive is a data warehouse software built on top of Hadoop that facilitates reading, writing... | Relational | United States of America | 2010 | Open Source | Java | Apache v2 | 2024-02-13 |
-| [Hive (Dart)](https://dbdb.io/db/hive-dart) | Hive is an embedded key-value data store written in Dart. | Key/Value | Germany | 2019 | Open Source | Dart | Apache v2 | 2022-06-27 |
-| [HollowDB](https://dbdb.io/db/hollowdb) | HollowDB is a decentralized key-value DBMS using the Arweave blockchain. | Key/Value | Turkey | 2023 | Hobby, Open Source | TypeScript | MIT | 2023-06-15 |
-| [HoraeDB](https://dbdb.io/db/horaedb) | HoraeDB is a distributed, schema-less, time-series DBMS. | Relational | China | 2021 | Open Source | Rust | Apache v2 | 2024-12-09 |
-| [hss.db](https://dbdb.io/db/hssdb) | hss.db is an embedded object-relational DBMS with a LINQ-based query engine. | Object-Relational | United States of America | 2009 | Commercial | C# | Proprietary | 2019-06-09 |
-| [HStreamDB](https://dbdb.io/db/hstreamdb) | HStreamDB is an open source distributed streaming database designed for accessing, storing, and p... | Relational | China | 2020 | Commercial, Open Source | Haskell | BSD | 2023-05-07 |
-| [HugeGraph](https://dbdb.io/db/hugegraph) | HugeGraph is a graph database middleware. | Graph | China | 2017 | Open Source | Java | Apache v2 | 2023-09-24 |
-| [Husky](https://dbdb.io/db/husky) | Husky is an internal event-store DBMS built by Datadog. | Document / XML | United States of America | 2020 | Internal / Non-Public | Go | Proprietary | 2022-11-09 |
-| [Hydra](https://dbdb.io/db/hydra) | Hydra is a data warehouse using PostgreSQL as its frontend and Citus' c-store extension for colum... | Object-Relational | Canada | 2022 | Commercial, Open Source | C | AGPL v3, Apache v2 | 2022-12-14 |
-| [HyPer](https://dbdb.io/db/hyper) | The HyPer DBMS is an in-memory database which aims to achieve high performance for both OLTP and ... | Relational | Germany | 2010 | Academic | C++ | Proprietary | 2024-12-25 |
-| [HyperDB](https://dbdb.io/db/hyperdb) | HyperDB is a parody vector DBMS written in Python. | Document / XML, Vector | United States of America | 2023 | Hobby, Open Source | Python | MIT | 2024-08-03 |
-| [HyperDex](https://dbdb.io/db/hyperdex) | HyperDex is a distributed, searchable, and consistent key-value store. It is mainly developed by ... | Key/Value | United States of America | 2011 | Academic, Open Source | C++ | BSD | 2022-06-27 |
-| [HyperGraphDB](https://dbdb.io/db/hypergraphdb) | HyperGraphDB is an extensible open-source graph-based data storage engine. It implements the abil... | Graph | United States of America | 2007 | Open Source | Java | Apache v2 | 2022-01-04 |
-| [HyperSQL](https://dbdb.io/db/hypersql) | HSQLDB (**Hyper SQL Database**) is a relational database management system written in Java. | Relational | United States of America | 2001 | Open Source | Java | BSD | 2022-01-04 |
-| [Hypertable](https://dbdb.io/db/hypertable) | Hypertable is an open source database modeled after Bigtable, Google's massively scalable databas... | Column Family / Wide-Column | United States of America | 2008 | Commercial, Open Source | C++ | GPL v3 | 2024-10-31 |
-| [Hyrise](https://dbdb.io/db/hyrise) | Hyrise is a platform for research and education in the area of relational in-memory databases. Th... | Relational | Germany | 2009 | Academic, Open Source | C++ | MIT | 2022-01-04 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [H-Store](https://dbdb.io/db/h-store) | H-Store was an experimental database management system designed for on-line transaction processin... | Relational | United States of America | 2006 | Academic, Open Source | C++, Java | BSD, GPL v3 |
+| [H2](https://dbdb.io/db/h2) | H2 ("Hypersonic 2") is an open-source lightweight relational database management system implement... | Relational | Switzerland | 2004 | Open Source | Java | Eclipse Public License, Mozilla Public License |
+| [Hadapt](https://dbdb.io/db/hadapt) |  |  | United States of America | 2009 | Commercial | Java |  |
+| [Hadoop](https://dbdb.io/db/hadoop) | Hadoop is a compute and storage framework for executing queries over shared-disk storage using th... |  | United States of America | 2006 | Open Source | Java | Apache v2 |
+| [HailDB](https://dbdb.io/db/haildb) | HailDB was a fork of MySQL's InnoDB storage engine to provide it as a shared library with NoSQL A... | Key/Value | Australia | 2010 | Open Source |  |  |
+| [Haixun](https://dbdb.io/db/haixun) |  |  | China |  |  |  |  |
+| [HaloDB](https://dbdb.io/db/halodb) | HaloDB is an embedded key-value store written in Java. | Key/Value | United States of America | 2017 | Industrial Research, Open Source | Java | Apache v2 |
+| [HampusDB](https://dbdb.io/db/hampusdb) | HampusDB (HDB) is a key-value DBMS that combines concepts from filesystems and databases. It prov... | Key/Value | Sweden | 2006 | Hobby, Open Source | C | LGPL v2 |
+| [HANA](https://dbdb.io/db/hana) | SAP HANA is a column-oriented, in-memory relational DBMS developed by SAP SE that is designed for... | Column Family / Wide-Column | Germany | 2010 | Commercial | C++ | Proprietary |
+| [HanoiDB](https://dbdb.io/db/hanoidb) | HanoiDB is an indexed, key/value storage engine. The primary index is a log-structured merge tree. | Key/Value | Denmark | 2012 | Open Source | Erlang |  |
+| [HarperDB](https://dbdb.io/db/harperdb) | HarperDB is a serverless document DBMS that supports SQL. | Document / XML | United States of America | 2017 | Commercial | JavaScript | Proprietary |
+| [HAWQ](https://dbdb.io/db/hawq) | HAWQ ("Hadoop With Query") is a distributed SQL execution engine that runs on top of Hadoop. | Relational | United States of America | 2015 | Open Source | Java | Apache v2 |
+| [HaystackDB](https://dbdb.io/db/haystackdb) | HaystackDB is a vector DBMS based on MMAP storage. | Vector | United States of America | 2024 | Hobby, Open Source | Rust | Apache v2 |
+| [Hazelcast](https://dbdb.io/db/hazelcast) | Hazelcast IMDG (In Memory Data Grid) is a Java-based NoSQL open-source distributed in-memory data... | Key/Value | United States of America | 2008 | Commercial, Open Source | Java | Apache v2 |
+| [HBase](https://dbdb.io/db/hbase) | HBase is an open source, distributed, non-relational, scalable big data store that runs on top of... | Column Family / Wide-Column | United States of America | 2007 | Open Source | Java | Apache v2 |
+| [HeavyDB](https://dbdb.io/db/heavydb) | HeavyDB is a relational, columnar database engine that uses GPUs to accelerate query execution. | Relational | United States of America | 2013 | Commercial, Open Source | C++ | Apache v2 |
+| [Hekaton](https://dbdb.io/db/hekaton) | Hekaton is a memory-optimized OLTP engine integrated in SQL Server 2014 and is also known as The ... | Relational | United States of America | 2012 | Commercial |  | Proprietary |
+| [Helium](https://dbdb.io/db/helium) | Helium is a key-value storage engine that uses kernel bypass methods for reading/writing from SSDs. | Key/Value | United States of America | 2017 | Commercial |  | Proprietary |
+| [HelixDB](https://dbdb.io/db/helixdb) | HelixDB is a graph-oriented DBMS designed for nearest-neighbor searches over vectors. It uses LMD... | Graph, Vector | United States of America | 2024 | Commercial, Open Source | Rust | GPL v3 |
+| [HerdDB](https://dbdb.io/db/herddb) | HerdDB is a distributed SQL DBMS implemented in Java, optimized for primary key read/update acces... | Relational | Italy | 2016 | Open Source | Java | Apache v2 |
+| [Heroic](https://dbdb.io/db/heroic) | Heroic is an open-source time-series DBMS built at Spotify to more effectively compute and analyz... | Key/Value | Sweden | 2015 | Open Source | Java | Apache v2 |
+| [HexaDB](https://dbdb.io/db/hexadb) | HexaDB is an HTAP system that is compatible with Postgres. | Relational | China | 2023 | Commercial |  | Proprietary |
+| [HFSQL](https://dbdb.io/db/hfsql) | HFSQL is an embedded relational DBMS for the [WINDEV](https://www.windev.com/windev/index.html) d... |  | France |  | Commercial |  | Proprietary |
+| [Hibari](https://dbdb.io/db/hibari) | Hibari is a distributed, ordered key-value, storage engine. | Key/Value | Japan | 2005 | Open Source | Erlang | Apache v2 |
+| [HighContext](https://dbdb.io/db/highcontext) | HighContext is a database-as-a-service system that provides a key/value REST API for storing JSON... | Key/Value | United States of America | 2023 | Commercial | Ruby | Proprietary |
+| [hipsterDB](https://dbdb.io/db/hipsterdb) | hipsterDB is a toy key/value DBMS project that is designed to only return data as long as that da... | Key/Value | United States of America | 2013 | Hobby, Open Source | Go |  |
+| [HiRDB](https://dbdb.io/db/hirdb) | HiRDB is a distributed relational DBMS built by Hitachi. | Relational, Document / XML | Japan | 1994 | Commercial |  | Proprietary |
+| [Histore](https://dbdb.io/db/histore) | Histore is a JavaScript-based key-value storage engine backed by navigation state. | Key/Value | United States of America | 2018 | Hobby, Open Source | JavaScript | Apache v2 |
+| [Hive](https://dbdb.io/db/hive) | Apache Hive is a data warehouse software built on top of Hadoop that facilitates reading, writing... | Relational | United States of America | 2010 | Open Source | Java | Apache v2 |
+| [Hive (Dart)](https://dbdb.io/db/hive-dart) | Hive is an embedded key-value data store written in Dart. | Key/Value | Germany | 2019 | Open Source | Dart | Apache v2 |
+| [HollowDB](https://dbdb.io/db/hollowdb) | HollowDB is a decentralized key-value DBMS using the Arweave blockchain. | Key/Value | Turkey | 2023 | Hobby, Open Source | TypeScript | MIT |
+| [HoraeDB](https://dbdb.io/db/horaedb) | HoraeDB is a distributed, schema-less, time-series DBMS. | Relational | China | 2021 | Open Source | Rust | Apache v2 |
+| [hss.db](https://dbdb.io/db/hssdb) | hss.db is an embedded object-relational DBMS with a LINQ-based query engine. | Object-Relational | United States of America | 2009 | Commercial | C# | Proprietary |
+| [HStreamDB](https://dbdb.io/db/hstreamdb) | HStreamDB is an open source distributed streaming database designed for accessing, storing, and p... | Relational | China | 2020 | Commercial, Open Source | Haskell | BSD |
+| [HugeGraph](https://dbdb.io/db/hugegraph) | HugeGraph is a graph database middleware. | Graph | China | 2017 | Open Source | Java | Apache v2 |
+| [Husky](https://dbdb.io/db/husky) | Husky is an internal event-store DBMS built by Datadog. | Document / XML | United States of America | 2020 | Internal / Non-Public | Go | Proprietary |
+| [Hydra](https://dbdb.io/db/hydra) | Hydra is a data warehouse using PostgreSQL as its frontend and Citus' c-store extension for colum... | Object-Relational | Canada | 2022 | Commercial, Open Source | C | AGPL v3, Apache v2 |
+| [HyPer](https://dbdb.io/db/hyper) | The HyPer DBMS is an in-memory database which aims to achieve high performance for both OLTP and ... | Relational | Germany | 2010 | Academic | C++ | Proprietary |
+| [HyperDB](https://dbdb.io/db/hyperdb) | HyperDB is a parody vector DBMS written in Python. | Document / XML, Vector | United States of America | 2023 | Hobby, Open Source | Python | MIT |
+| [HyperDex](https://dbdb.io/db/hyperdex) | HyperDex is a distributed, searchable, and consistent key-value store. It is mainly developed by ... | Key/Value | United States of America | 2011 | Academic, Open Source | C++ | BSD |
+| [HyperGraphDB](https://dbdb.io/db/hypergraphdb) | HyperGraphDB is an extensible open-source graph-based data storage engine. It implements the abil... | Graph | United States of America | 2007 | Open Source | Java | Apache v2 |
+| [HyperSQL](https://dbdb.io/db/hypersql) | HSQLDB (**Hyper SQL Database**) is a relational database management system written in Java. | Relational | United States of America | 2001 | Open Source | Java | BSD |
+| [Hypertable](https://dbdb.io/db/hypertable) | Hypertable is an open source database modeled after Bigtable, Google's massively scalable databas... | Column Family / Wide-Column | United States of America | 2008 | Commercial, Open Source | C++ | GPL v3 |
+| [Hyrise](https://dbdb.io/db/hyrise) | Hyrise is a platform for research and education in the area of relational in-memory databases. Th... | Relational | Germany | 2009 | Academic, Open Source | C++ | MIT |
 
 ## I
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [iBoxDB](https://dbdb.io/db/iboxdb) | iBoxDB is a transactional document-oriented NoSQL database management system. | Document / XML | China | 2014 | Commercial | C#, Java | Proprietary | 2023-08-20 |
-| [Icecoal](https://dbdb.io/db/icecoal) | Icecoal is an embedded SQL DBMS written in Python. It stores all data as plain-text CSV files. | Relational | India | 2020 | Hobby, Open Source | Python | MIT | 2023-07-07 |
-| [IceFireDB](https://dbdb.io/db/icefiredb) | IceFireDB is as distributed NoSQL key/value DBMS that supports the Redis wire protocol. | Key/Value | China | 2021 | Hobby, Open Source | Go | Apache v2 | 2021-12-30 |
-| [IDMS](https://dbdb.io/db/idms) | IDMS ("Integrated Database Management System") is a network model (CODASYL) DBMS for mainframes. ... | Network | United States of America | 1973 | Commercial |  | Proprietary | 2018-06-03 |
-| [Ignite](https://dbdb.io/db/ignite) | Ignite is an in-memory, distributed key-value store which uses a shared-nothing, node-based clust... | Key/Value | United States of America | 2014 | Open Source | Java | Apache v2 | 2022-07-01 |
-| [ImmortalDB](https://dbdb.io/db/immortaldb) | ImmortalDB is a key-value store for the browser that stores data in redundant locations (e.g., co... | Key/Value | United States of America | 2018 | Open Source | JavaScript | MIT | 2023-11-16 |
-| [Immudb](https://dbdb.io/db/immudb) | immudb is a immutable key-value DBMS written in Go. | Key/Value | United States of America | 2019 | Open Source | Go | Apache v2 | 2022-01-04 |
-| [Impala](https://dbdb.io/db/impala) | Impala is an open source SQL engine that offers interactive query processing on data stored in Ap... | Relational | United States of America | 2013 | Commercial, Open Source | C++ | Apache v2 | 2023-04-10 |
-| [IMS](https://dbdb.io/db/ims) |  | Hierarchical | United States of America | 1968 | Commercial |  | Proprietary | 2018-06-03 |
-| [Indica](https://dbdb.io/db/indica) |  |  | Netherlands | 2014 | Commercial |  | Proprietary | 2018-05-30 |
-| [IndraDB](https://dbdb.io/db/indradb) | IndraDB is a graph database system written in Rust. | Graph | United States of America | 2016 |  | Rust | Mozilla Public License | 2019-07-18 |
-| [InfiniDB](https://dbdb.io/db/infinidb) | InfiniDB is a column-store DBMS optimized for OLAP workloads. It has a distributed architecture t... | Relational | United States of America | 2000 | Commercial, Open Source | C++ | GPL v2 | 2022-07-01 |
-| [Infinispan](https://dbdb.io/db/infinispan) | Infinispan is a distributed cache and key-value NoSQL storage system developed by Red Hat. | Key/Value | United States of America | 2009 | Commercial, Open Source | Java | Apache v2 | 2023-09-26 |
-| [InfiniSQL](https://dbdb.io/db/infinisql) |  | Relational | United States of America | 2013 | Open Source | C++ | GPL v3 | 2022-01-05 |
-| [InfiniteGraph](https://dbdb.io/db/infinitegraph) | InfiniteGraph is a graph-oriented DBMS. | Graph | United States of America | 2010 | Commercial | C++, Java | Proprietary | 2022-01-04 |
-| [Infinity](https://dbdb.io/db/infinity) | Infinity is a relational DBMS built that provides vector search, full-text search, and structured... | Relational | China | 2022 |  | C++ | Apache v2 | 2024-03-05 |
-| [InfinityDB](https://dbdb.io/db/infinitydb) | InfinityDB is an embedded database engine based on a B+Tree written in Java. It supports relation... | Relational, Key/Value, Graph, Hierarchical, Array / Matrix | United States of America | 2002 | Commercial | Java | Proprietary | 2022-01-04 |
-| [InfluxDB](https://dbdb.io/db/influxdb) | InfluxDB is an open source time series database built by InfluxData. Optimized for the storage an... | Column Family / Wide-Column | United States of America | 2013 | Commercial, Open Source | Go | MIT | 2023-04-24 |
-| [Infobright](https://dbdb.io/db/infobright) | Infobright is a column-oriented analytical DBMS engine for MySQL. The internal architecture of In... | Relational | Canada | 2005 | Commercial |  | Proprietary | 2023-08-08 |
-| [InfoFrame](https://dbdb.io/db/infoframe) | InfoFrame Elastic Relational Store (IERS) is a distributed database management system for OLTP wo... | Relational | Japan | 2013 | Commercial |  | Proprietary | 2023-10-10 |
-| [InfoGrid](https://dbdb.io/db/infogrid) | InfoGrid is a web graph database with additional software components that make the development of... | Graph | United States of America | 2008 | Open Source |  | AGPL v3 | 2022-01-04 |
-| [Informix](https://dbdb.io/db/informix) | Informix is one the original commercial relational DBMS from the 1980s. | Relational | United States of America | 1980 | Commercial |  | Proprietary | 2023-09-24 |
-| [Ingres](https://dbdb.io/db/ingres) | Ingres is one of the first ever relational database management systems (DBMSs). Actian Corporatio... | Relational | United States of America | 1974 | Academic, Commercial, Open Source | C | Proprietary | 2024-02-05 |
-| [InMemory.Net](https://dbdb.io/db/inmemorynet) | InMemory.Net is a database for the .Net environment. It is designed to run as a standalone Window... | Relational | Ireland | 2014 | Commercial |  |  | 2018-06-03 |
-| [InstantDB](https://dbdb.io/db/instantdb) |  | Relational | United States of America | 1997 | Commercial | Java | Proprietary | 2022-06-30 |
-| [Integrated Data Store](https://dbdb.io/db/integrated-data-store) |  | Network | United States of America | 1964 | Commercial |  |  | 2018-06-03 |
-| [InterBase](https://dbdb.io/db/interbase) | InterBase is a light-weight, embeddable, cross-platform Relational Database Management System. In... | Relational | United States of America | 1984 | Commercial | C | Proprietary | 2024-10-31 |
-| [IonDB](https://dbdb.io/db/iondb) | IonDB is an key-value DBMS designed for embedded devices. | Key/Value | Canada | 2015 | Academic, Open Source | C | BSD | 2022-06-27 |
-| [IoTDB](https://dbdb.io/db/iotdb) | IoTDB is a specialized database management system for time series data generated by a network of ... | Hierarchical | China | 2017 | Academic, Open Source | Java | Apache v2 | 2024-02-14 |
-| [IQrypt](https://dbdb.io/db/iqrypt) | IQrypt is built from scratch with privacy and security in mind. It encrypts the data on client co... | Document / XML | Romania | 2015 | Commercial |  | Proprietary | 2023-08-08 |
-| [Irmin](https://dbdb.io/db/irmin) | Irmin is an embedded database storage library for decentralized databases that are mergeable and ... | Document / XML | France | 2013 | Open Source | Ocaml | ISC License | 2022-06-27 |
-| [ITTIA DB SQL](https://dbdb.io/db/ittia-db-sql) |  | Relational | United States of America | 2000 | Commercial |  | Proprietary | 2022-01-05 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [iBoxDB](https://dbdb.io/db/iboxdb) | iBoxDB is a transactional document-oriented NoSQL database management system. | Document / XML | China | 2014 | Commercial | C#, Java | Proprietary |
+| [Icecoal](https://dbdb.io/db/icecoal) | Icecoal is an embedded SQL DBMS written in Python. It stores all data as plain-text CSV files. | Relational | India | 2020 | Hobby, Open Source | Python | MIT |
+| [IceFireDB](https://dbdb.io/db/icefiredb) | IceFireDB is as distributed NoSQL key/value DBMS that supports the Redis wire protocol. | Key/Value | China | 2021 | Hobby, Open Source | Go | Apache v2 |
+| [IDMS](https://dbdb.io/db/idms) | IDMS ("Integrated Database Management System") is a network model (CODASYL) DBMS for mainframes. ... | Network | United States of America | 1973 | Commercial |  | Proprietary |
+| [Ignite](https://dbdb.io/db/ignite) | Ignite is an in-memory, distributed key-value store which uses a shared-nothing, node-based clust... | Key/Value | United States of America | 2014 | Open Source | Java | Apache v2 |
+| [ImmortalDB](https://dbdb.io/db/immortaldb) | ImmortalDB is a key-value store for the browser that stores data in redundant locations (e.g., co... | Key/Value | United States of America | 2018 | Open Source | JavaScript | MIT |
+| [Immudb](https://dbdb.io/db/immudb) | immudb is a immutable key-value DBMS written in Go. | Key/Value | United States of America | 2019 | Open Source | Go | Apache v2 |
+| [Impala](https://dbdb.io/db/impala) | Impala is an open source SQL engine that offers interactive query processing on data stored in Ap... | Relational | United States of America | 2013 | Commercial, Open Source | C++ | Apache v2 |
+| [IMS](https://dbdb.io/db/ims) |  | Hierarchical | United States of America | 1968 | Commercial |  | Proprietary |
+| [Indica](https://dbdb.io/db/indica) |  |  | Netherlands | 2014 | Commercial |  | Proprietary |
+| [IndraDB](https://dbdb.io/db/indradb) | IndraDB is a graph database system written in Rust. | Graph | United States of America | 2016 |  | Rust | Mozilla Public License |
+| [InfiniDB](https://dbdb.io/db/infinidb) | InfiniDB is a column-store DBMS optimized for OLAP workloads. It has a distributed architecture t... | Relational | United States of America | 2000 | Commercial, Open Source | C++ | GPL v2 |
+| [Infinispan](https://dbdb.io/db/infinispan) | Infinispan is a distributed cache and key-value NoSQL storage system developed by Red Hat. | Key/Value | United States of America | 2009 | Commercial, Open Source | Java | Apache v2 |
+| [InfiniSQL](https://dbdb.io/db/infinisql) |  | Relational | United States of America | 2013 | Open Source | C++ | GPL v3 |
+| [InfiniteGraph](https://dbdb.io/db/infinitegraph) | InfiniteGraph is a graph-oriented DBMS. | Graph | United States of America | 2010 | Commercial | C++, Java | Proprietary |
+| [Infinity](https://dbdb.io/db/infinity) | Infinity is a relational DBMS built that provides vector search, full-text search, and structured... | Relational | China | 2022 |  | C++ | Apache v2 |
+| [InfinityDB](https://dbdb.io/db/infinitydb) | InfinityDB is an embedded database engine based on a B+Tree written in Java. It supports relation... | Relational, Key/Value, Graph, Hierarchical, Array / Matrix | United States of America | 2002 | Commercial | Java | Proprietary |
+| [InfluxDB](https://dbdb.io/db/influxdb) | InfluxDB is an open source time series database built by InfluxData. Optimized for the storage an... | Column Family / Wide-Column | United States of America | 2013 | Commercial, Open Source | Go | MIT |
+| [Infobright](https://dbdb.io/db/infobright) | Infobright is a column-oriented analytical DBMS engine for MySQL. The internal architecture of In... | Relational | Canada | 2005 | Commercial |  | Proprietary |
+| [InfoFrame](https://dbdb.io/db/infoframe) | InfoFrame Elastic Relational Store (IERS) is a distributed database management system for OLTP wo... | Relational | Japan | 2013 | Commercial |  | Proprietary |
+| [InfoGrid](https://dbdb.io/db/infogrid) | InfoGrid is a web graph database with additional software components that make the development of... | Graph | United States of America | 2008 | Open Source |  | AGPL v3 |
+| [Informix](https://dbdb.io/db/informix) | Informix is one the original commercial relational DBMS from the 1980s. | Relational | United States of America | 1980 | Commercial |  | Proprietary |
+| [Ingres](https://dbdb.io/db/ingres) | Ingres is one of the first ever relational database management systems (DBMSs). Actian Corporatio... | Relational | United States of America | 1974 | Academic, Commercial, Open Source | C | Proprietary |
+| [InMemory.Net](https://dbdb.io/db/inmemorynet) | InMemory.Net is a database for the .Net environment. It is designed to run as a standalone Window... | Relational | Ireland | 2014 | Commercial |  |  |
+| [InstantDB](https://dbdb.io/db/instantdb) |  | Relational | United States of America | 1997 | Commercial | Java | Proprietary |
+| [Integrated Data Store](https://dbdb.io/db/integrated-data-store) |  | Network | United States of America | 1964 | Commercial |  |  |
+| [InterBase](https://dbdb.io/db/interbase) | InterBase is a light-weight, embeddable, cross-platform Relational Database Management System. In... | Relational | United States of America | 1984 | Commercial | C | Proprietary |
+| [IonDB](https://dbdb.io/db/iondb) | IonDB is an key-value DBMS designed for embedded devices. | Key/Value | Canada | 2015 | Academic, Open Source | C | BSD |
+| [IoTDB](https://dbdb.io/db/iotdb) | IoTDB is a specialized database management system for time series data generated by a network of ... | Hierarchical | China | 2017 | Academic, Open Source | Java | Apache v2 |
+| [IQrypt](https://dbdb.io/db/iqrypt) | IQrypt is built from scratch with privacy and security in mind. It encrypts the data on client co... | Document / XML | Romania | 2015 | Commercial |  | Proprietary |
+| [Irmin](https://dbdb.io/db/irmin) | Irmin is an embedded database storage library for decentralized databases that are mergeable and ... | Document / XML | France | 2013 | Open Source | Ocaml | ISC License |
+| [ITTIA DB SQL](https://dbdb.io/db/ittia-db-sql) |  | Relational | United States of America | 2000 | Commercial |  | Proprietary |
 
 ## J
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [Jackrabbit](https://dbdb.io/db/jackrabbit) | Apache Jackrabbit is an content repository database for the Java platform. | Object-Oriented | Switzerland | 2004 | Open Source | Java | Apache v2 | 2022-07-01 |
-| [Jade](https://dbdb.io/db/jade) |  | Object-Oriented | New Zealand | 1996 | Commercial |  |  | 2022-06-27 |
-| [JaguarDB](https://dbdb.io/db/jaguardb) | JaguarDB is a distributed SQL DBMS that stores data as a flat array containing records of fixed-l... | Key/Value, Array / Matrix | United States of America | 2017 | Commercial, Open Source | C++ | MIT | 2023-09-04 |
-| [JameSQL](https://dbdb.io/db/jamesql) | JameSQL is an in-memory document-oriented DBMS that supports full-text search indexes. | Document / XML | United Kingdom | 2024 | Hobby, Open Source | Python | MIT | 2024-12-06 |
-| [JanusGraph](https://dbdb.io/db/janusgraph) | JanusGraph is a transactional graph DBMS optimized for storing and querying graphs distributed ac... | Graph | United States of America | 2012 | Open Source | Java | Apache v2 | 2024-10-31 |
-| [JasDB](https://dbdb.io/db/jasdb) | JasDB is a NoSQL document-oriented DBMS for Android devices. | Document / XML | Netherlands | 2013 | Commercial, Open Source | Java | MIT | 2022-01-05 |
-| [jasonisnthappy](https://dbdb.io/db/jasonisnthappy) | jasonisnthappy is an embedded, single-file document-oriented DBMS that supports MVCC concurrency ... | Document / XML | India | 2025 | Hobby, Open Source | Rust | MIT | 2026-02-06 |
-| [jBASE](https://dbdb.io/db/jbase) |  |  | United Kingdom | 1989 |  |  |  | 2024-10-31 |
-| [Jena](https://dbdb.io/db/jena) | Apache Jena is an open-source data framework for Java. It provides an API to extract data from an... | Triplestore / RDF | United Kingdom | 2000 | Open Source | Java | Apache v2 | 2022-01-07 |
-| [JinDB](https://dbdb.io/db/jindb) | JinDB is a prototype relational DBMS written in Rust. |  | Japan | 2019 | Hobby, Open Source | Rust | MIT | 2023-09-28 |
-| [Joedb](https://dbdb.io/db/joedb) | Joedb ("Journal-Only Embedded Database") is an embedded DBMS engine for C++ applications. | Relational | France | 2014 | Hobby, Open Source | C++ | MIT | 2025-05-30 |
-| [JoinBase](https://dbdb.io/db/joinbase) | JoinBase is a closed-source proprietary DBMS designed for time-series workloads. | Relational | China |  |  |  | Proprietary | 2022-11-18 |
-| [JSDB](https://dbdb.io/db/jsdb) | JSDB (**JavaScript Database**) is an in-memory DBMS designed for Node.js. | Document / XML | Ireland | 2020 | Hobby, Open Source | JavaScript | AGPL v3 | 2020-11-20 |
-| [JSONBin.io](https://dbdb.io/db/jsonbinio) | JSONbin.io is a document-oriented database-as-a-service. | Document / XML | India | 2017 | Commercial |  | Proprietary | 2022-06-29 |
-| [jsonstore.io](https://dbdb.io/db/jsonstoreio) | jsonstore.io is a free JSON cloud hosted DBMS for small projects. | Document / XML | Israel | 2018 | Open Source | JavaScript | MIT | 2022-01-04 |
-| [JSqlDb](https://dbdb.io/db/jsqldb) | JSqlDb is a Javascript database engine. | Document / XML | South Africa | 2017 | Open Source | C++ | LGPL v3 | 2022-06-27 |
-| [JuliaDB](https://dbdb.io/db/juliadb) | JuliaDB is parallel analytical DBMS for processing data sets. It is written in pure Julia. | Relational | United States of America | 2017 | Open Source | Julia | MIT | 2022-06-27 |
-| [JunoDB](https://dbdb.io/db/junodb) | JunoDB is a distributed key-value store developed at PayPal. | Key/Value | United States of America |  | Open Source | Go | Apache v2 | 2023-05-27 |
-| [Just Logic/SQL](https://dbdb.io/db/just-logicsql) |  | Relational | Canada | 1994 | Commercial |  | Proprietary | 2018-05-12 |
-| [JustinDB](https://dbdb.io/db/justindb) | JustinDB KV is an eventually consistent key-value DBMS inspired by Amazon's DynamoDB. | Key/Value | Poland | 2015 | Open Source | Scala | Apache v2 | 2019-12-09 |
-| [JustOneDB](https://dbdb.io/db/justonedb) | JustOneDB was a forked of PostgreSQL designed to support analytical workloads. | Object-Relational | United Kingdom | 2010 | Commercial |  |  | 2023-10-25 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [Jackrabbit](https://dbdb.io/db/jackrabbit) | Apache Jackrabbit is an content repository database for the Java platform. | Object-Oriented | Switzerland | 2004 | Open Source | Java | Apache v2 |
+| [Jade](https://dbdb.io/db/jade) |  | Object-Oriented | New Zealand | 1996 | Commercial |  |  |
+| [JaguarDB](https://dbdb.io/db/jaguardb) | JaguarDB is a distributed SQL DBMS that stores data as a flat array containing records of fixed-l... | Key/Value, Array / Matrix | United States of America | 2017 | Commercial, Open Source | C++ | MIT |
+| [JameSQL](https://dbdb.io/db/jamesql) | JameSQL is an in-memory document-oriented DBMS that supports full-text search indexes. | Document / XML | United Kingdom | 2024 | Hobby, Open Source | Python | MIT |
+| [JanusGraph](https://dbdb.io/db/janusgraph) | JanusGraph is a transactional graph DBMS optimized for storing and querying graphs distributed ac... | Graph | United States of America | 2012 | Open Source | Java | Apache v2 |
+| [JasDB](https://dbdb.io/db/jasdb) | JasDB is a NoSQL document-oriented DBMS for Android devices. | Document / XML | Netherlands | 2013 | Commercial, Open Source | Java | MIT |
+| [jasonisnthappy](https://dbdb.io/db/jasonisnthappy) | jasonisnthappy is an embedded, single-file document-oriented DBMS that supports MVCC concurrency ... | Document / XML | India | 2025 | Hobby, Open Source | Rust | MIT |
+| [jBASE](https://dbdb.io/db/jbase) |  |  | United Kingdom | 1989 |  |  |  |
+| [Jena](https://dbdb.io/db/jena) | Apache Jena is an open-source data framework for Java. It provides an API to extract data from an... | Triplestore / RDF | United Kingdom | 2000 | Open Source | Java | Apache v2 |
+| [JinDB](https://dbdb.io/db/jindb) | JinDB is a prototype relational DBMS written in Rust. |  | Japan | 2019 | Hobby, Open Source | Rust | MIT |
+| [Joedb](https://dbdb.io/db/joedb) | Joedb ("Journal-Only Embedded Database") is an embedded DBMS engine for C++ applications. | Relational | France | 2014 | Hobby, Open Source | C++ | MIT |
+| [JoinBase](https://dbdb.io/db/joinbase) | JoinBase is a closed-source proprietary DBMS designed for time-series workloads. | Relational | China |  |  |  | Proprietary |
+| [JSDB](https://dbdb.io/db/jsdb) | JSDB (**JavaScript Database**) is an in-memory DBMS designed for Node.js. | Document / XML | Ireland | 2020 | Hobby, Open Source | JavaScript | AGPL v3 |
+| [JSONBin.io](https://dbdb.io/db/jsonbinio) | JSONbin.io is a document-oriented database-as-a-service. | Document / XML | India | 2017 | Commercial |  | Proprietary |
+| [jsonstore.io](https://dbdb.io/db/jsonstoreio) | jsonstore.io is a free JSON cloud hosted DBMS for small projects. | Document / XML | Israel | 2018 | Open Source | JavaScript | MIT |
+| [JSqlDb](https://dbdb.io/db/jsqldb) | JSqlDb is a Javascript database engine. | Document / XML | South Africa | 2017 | Open Source | C++ | LGPL v3 |
+| [JuliaDB](https://dbdb.io/db/juliadb) | JuliaDB is parallel analytical DBMS for processing data sets. It is written in pure Julia. | Relational | United States of America | 2017 | Open Source | Julia | MIT |
+| [JunoDB](https://dbdb.io/db/junodb) | JunoDB is a distributed key-value store developed at PayPal. | Key/Value | United States of America |  | Open Source | Go | Apache v2 |
+| [Just Logic/SQL](https://dbdb.io/db/just-logicsql) |  | Relational | Canada | 1994 | Commercial |  | Proprietary |
+| [JustinDB](https://dbdb.io/db/justindb) | JustinDB KV is an eventually consistent key-value DBMS inspired by Amazon's DynamoDB. | Key/Value | Poland | 2015 | Open Source | Scala | Apache v2 |
+| [JustOneDB](https://dbdb.io/db/justonedb) | JustOneDB was a forked of PostgreSQL designed to support analytical workloads. | Object-Relational | United Kingdom | 2010 | Commercial |  |  |
 
 ## K
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [KahaDB](https://dbdb.io/db/kahadb) | KahaDB is a file-based persistence database for the ActiveMQ framework. |  | United States of America |  | Open Source | Java | Apache v2 | 2018-06-09 |
-| [Kai](https://dbdb.io/db/kai) | Kai is an open-source distributed key-value database, which is inspired by Amazon's Dynamo. Same ... | Key/Value | Japan | 2008 | Open Source | Erlang |  | 2023-10-10 |
-| [KairosDB](https://dbdb.io/db/kairosdb) | KairosDB is a distributed time-series database based on Cassandra. |  | United States of America | 2013 | Open Source |  | Apache v2 | 2022-06-27 |
-| [KantoDB](https://dbdb.io/db/kantodb) | KantoDB is an OLTP relational DBMS that supports both standalone and embedded deployments. | Relational | Finland | 2025 | Commercial, Hobby, Open Source | Rust |  | 2025-04-11 |
-| [Kappa](https://dbdb.io/db/kappa) | Kappa was a parallel DBMS designed for knowledge information processing (KIPS). The name Kappa is... | Object-Relational | Japan | 1989 | Industrial Research, Open Source | C, KL1 | Proprietary | 2024-05-24 |
-| [KarelDB](https://dbdb.io/db/kareldb) | KarelDB is a relational database backed by Apache Kafka. | Relational | United States of America | 2019 | Open Source | Java | Apache v2 | 2019-10-02 |
-| [Kdb+](https://dbdb.io/db/kdb) | Kdb+ is a column-based relational time series database, developed by Kx Systems. Kdb+ database is... | Relational | United States of America | 1998 | Commercial |  | Proprietary | 2024-10-31 |
-| [KekeDB](https://dbdb.io/db/kekedb) | KekeDB is a SQL DBMS designed for embedded Linux systems. | Relational | Finland |  | Open Source | C | GPL v2 | 2021-05-30 |
-| [KektorDB](https://dbdb.io/db/kektordb) | KektorDB is an embedded in-memory graph DBMS. | Graph | Italy | 2025 | Hobby, Open Source | Go | Apache v2 | 2026-01-20 |
-| [KenobiDB](https://dbdb.io/db/kenobidb) | KenobiDB is a document-oriented middleware that provides a JSON API on top of SQLite. | Document / XML | United States of America | 2019 | Hobby, Open Source | Python | BSD | 2025-01-31 |
-| [Kerf](https://dbdb.io/db/kerf) | Kerf is a columnar tick database and time-series language. It is written in C and natively speaks... |  | United States of America | 2014 | Commercial, Open Source | C |  | 2018-06-09 |
-| [KeyDB](https://dbdb.io/db/keydb) | KeyDB is a fork of Redis that provides additional features, such as multi-threading. |  | Canada | 2019 | Commercial, Open Source | C++ | BSD | 2023-09-28 |
-| [Kinetica](https://dbdb.io/db/kinetica) | Kinetica is a distributed, GPU-accelerated database with filtering, visualization, and aggregatio... | Relational | United States of America | 2009 | Commercial | C, C++ | Proprietary | 2023-08-08 |
-| [Kingbase](https://dbdb.io/db/kingbase) | Kingbase is a suite of database products from China. |  | China | 1999 | Commercial |  | Proprietary | 2022-06-27 |
-| [KingDB](https://dbdb.io/db/kingdb) | KingDB is a persistent key-value DBMS that uses a MMAP-ed hash-table to store data. | Key/Value | Netherlands | 2012 | Hobby, Open Source |  | BSD | 2022-04-06 |
-| [Kinto](https://dbdb.io/db/kinto) | Kinto is a document-oriented DBMS that supports JSON. | Document / XML | Spain | 2014 | Commercial, Open Source | Python | Mozilla Public License | 2022-06-27 |
-| [KirbyBase](https://dbdb.io/db/kirbybase) | KirbyBase is an embedded DBMS that stores its data in plain-text files. There are two separate im... |  | United States of America | 2003 | Open Source | Python, Ruby |  | 2019-06-06 |
-| [KitaroDB](https://dbdb.io/db/kitarodb) | KitaroDB is a NoSQL database developed for Windows environments (WinRT, Win32, and .NET). | Key/Value | United States of America | 2012 | Commercial | C | Proprietary | 2022-01-07 |
-| [Kognitio](https://dbdb.io/db/kognitio) |  |  | United Kingdom |  | Commercial |  | Proprietary | 2022-01-07 |
-| [Krati](https://dbdb.io/db/krati) | Krati is a persistent key/value data store written in Java with low latency and high throughput. ... | Key/Value | United States of America | 2010 | Hobby, Open Source | Java | Apache v2 | 2024-06-07 |
-| [Kronotop](https://dbdb.io/db/kronotop) | Kronotop is a distributed document database based on FoundationDB. | Document / XML | Turkey | 2023 | Hobby, Open Source | Java | Apache v2 | 2026-01-21 |
-| [ksqlDB](https://dbdb.io/db/ksqldb) | ksqlDB (Kafka SQL) is a streaming SQL engine that provides SQL interface to the streams in Apache... | Relational, Key/Value | United States of America | 2017 | Commercial, Open Source | Java | Confluent Community License | 2024-02-14 |
-| [Kubl](https://dbdb.io/db/kubl) | Kubl was a relational DBMS initially developed in Finland during the 1990s. The company was acqui... | Object-Relational | Finland | 1994 | Commercial |  | Proprietary | 2023-10-01 |
-| [Kudu](https://dbdb.io/db/kudu) | Apache Kudu is an open source storage engine for structured data that is part of the Apache Hadoo... | Relational | United States of America | 2016 | Open Source | C++ | Apache v2 | 2024-02-05 |
-| [Kunlun](https://dbdb.io/db/kunlun) | Kunlun distributed relational DBMS design for OLTP workloads. It is based on a fork of PostgreSQL. | Relational | China | 2019 | Hobby, Open Source | C | Commons Clause License | 2022-06-27 |
-| [Kuzu](https://dbdb.io/db/kuzu) | Kuzu is an embedded graph DBMS with built-in vector and full-text search support. | Graph | Canada | 2020 | Academic, Commercial, Open Source | C++ | MIT | 2025-04-11 |
-| [KVdb](https://dbdb.io/db/kvdb) | KVdb is a key-value database-as-a-service with a simple REST API. | Key/Value | United States of America | 2018 | Commercial |  | Proprietary | 2024-05-15 |
-| [Kvrocks](https://dbdb.io/db/kvrocks) | Kvrocks is a distributed key-value DBMS that is compatible with the [Redis](/db/redis) wire proto... | Key/Value | China | 2019 | Commercial, Open Source | C++ | Apache v2 | 2023-03-22 |
-| [Kylin](https://dbdb.io/db/kylin) | Kylin is an open source distributed data analytics engine on top of SparkSQL/Hive. It offers SQL ... | Key/Value | China | 2013 | Open Source | Java | Apache v2 | 2022-01-04 |
-| [Kyoto Cabinet](https://dbdb.io/db/kyoto-cabinet) | Kyoto Cabinet is a library of routines to manage a database. It is a multithreaded key-value embe... | Key/Value | Japan | 2009 | Open Source | C++ | GPL v3 | 2018-12-11 |
-| [Kyoto Tycoon](https://dbdb.io/db/kyoto-tycoon) |  | Key/Value | Japan |  | Open Source |  |  | 2019-07-19 |
-| [Kyuubi](https://dbdb.io/db/kyuubi) | Kyuubi is a middleware that provides a standardized SQL interface to different query engines. It ... | Relational | China | 2017 | Open Source | Java | Apache v2 | 2024-05-17 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [KahaDB](https://dbdb.io/db/kahadb) | KahaDB is a file-based persistence database for the ActiveMQ framework. |  | United States of America |  | Open Source | Java | Apache v2 |
+| [Kai](https://dbdb.io/db/kai) | Kai is an open-source distributed key-value database, which is inspired by Amazon's Dynamo. Same ... | Key/Value | Japan | 2008 | Open Source | Erlang |  |
+| [KairosDB](https://dbdb.io/db/kairosdb) | KairosDB is a distributed time-series database based on Cassandra. |  | United States of America | 2013 | Open Source |  | Apache v2 |
+| [KantoDB](https://dbdb.io/db/kantodb) | KantoDB is an OLTP relational DBMS that supports both standalone and embedded deployments. | Relational | Finland | 2025 | Commercial, Hobby, Open Source | Rust |  |
+| [Kappa](https://dbdb.io/db/kappa) | Kappa was a parallel DBMS designed for knowledge information processing (KIPS). The name Kappa is... | Object-Relational | Japan | 1989 | Industrial Research, Open Source | C, KL1 | Proprietary |
+| [KarelDB](https://dbdb.io/db/kareldb) | KarelDB is a relational database backed by Apache Kafka. | Relational | United States of America | 2019 | Open Source | Java | Apache v2 |
+| [Kdb+](https://dbdb.io/db/kdb) | Kdb+ is a column-based relational time series database, developed by Kx Systems. Kdb+ database is... | Relational | United States of America | 1998 | Commercial |  | Proprietary |
+| [KekeDB](https://dbdb.io/db/kekedb) | KekeDB is a SQL DBMS designed for embedded Linux systems. | Relational | Finland |  | Open Source | C | GPL v2 |
+| [KektorDB](https://dbdb.io/db/kektordb) | KektorDB is an embedded in-memory graph DBMS. | Graph | Italy | 2025 | Hobby, Open Source | Go | Apache v2 |
+| [KenobiDB](https://dbdb.io/db/kenobidb) | KenobiDB is a document-oriented middleware that provides a JSON API on top of SQLite. | Document / XML | United States of America | 2019 | Hobby, Open Source | Python | BSD |
+| [Kerf](https://dbdb.io/db/kerf) | Kerf is a columnar tick database and time-series language. It is written in C and natively speaks... |  | United States of America | 2014 | Commercial, Open Source | C |  |
+| [KeyDB](https://dbdb.io/db/keydb) | KeyDB is a fork of Redis that provides additional features, such as multi-threading. |  | Canada | 2019 | Commercial, Open Source | C++ | BSD |
+| [Kinetica](https://dbdb.io/db/kinetica) | Kinetica is a distributed, GPU-accelerated database with filtering, visualization, and aggregatio... | Relational | United States of America | 2009 | Commercial | C, C++ | Proprietary |
+| [Kingbase](https://dbdb.io/db/kingbase) | Kingbase is a suite of database products from China. |  | China | 1999 | Commercial |  | Proprietary |
+| [KingDB](https://dbdb.io/db/kingdb) | KingDB is a persistent key-value DBMS that uses a MMAP-ed hash-table to store data. | Key/Value | Netherlands | 2012 | Hobby, Open Source |  | BSD |
+| [Kinto](https://dbdb.io/db/kinto) | Kinto is a document-oriented DBMS that supports JSON. | Document / XML | Spain | 2014 | Commercial, Open Source | Python | Mozilla Public License |
+| [KirbyBase](https://dbdb.io/db/kirbybase) | KirbyBase is an embedded DBMS that stores its data in plain-text files. There are two separate im... |  | United States of America | 2003 | Open Source | Python, Ruby |  |
+| [KitaroDB](https://dbdb.io/db/kitarodb) | KitaroDB is a NoSQL database developed for Windows environments (WinRT, Win32, and .NET). | Key/Value | United States of America | 2012 | Commercial | C | Proprietary |
+| [Kognitio](https://dbdb.io/db/kognitio) |  |  | United Kingdom |  | Commercial |  | Proprietary |
+| [Krati](https://dbdb.io/db/krati) | Krati is a persistent key/value data store written in Java with low latency and high throughput. ... | Key/Value | United States of America | 2010 | Hobby, Open Source | Java | Apache v2 |
+| [Kronotop](https://dbdb.io/db/kronotop) | Kronotop is a distributed document database based on FoundationDB. | Document / XML | Turkey | 2023 | Hobby, Open Source | Java | Apache v2 |
+| [ksqlDB](https://dbdb.io/db/ksqldb) | ksqlDB (Kafka SQL) is a streaming SQL engine that provides SQL interface to the streams in Apache... | Relational, Key/Value | United States of America | 2017 | Commercial, Open Source | Java | Confluent Community License |
+| [Kubl](https://dbdb.io/db/kubl) | Kubl was a relational DBMS initially developed in Finland during the 1990s. The company was acqui... | Object-Relational | Finland | 1994 | Commercial |  | Proprietary |
+| [Kudu](https://dbdb.io/db/kudu) | Apache Kudu is an open source storage engine for structured data that is part of the Apache Hadoo... | Relational | United States of America | 2016 | Open Source | C++ | Apache v2 |
+| [Kunlun](https://dbdb.io/db/kunlun) | Kunlun distributed relational DBMS design for OLTP workloads. It is based on a fork of PostgreSQL. | Relational | China | 2019 | Hobby, Open Source | C | Commons Clause License |
+| [Kuzu](https://dbdb.io/db/kuzu) | Kuzu is an embedded graph DBMS with built-in vector and full-text search support. | Graph | Canada | 2020 | Academic, Commercial, Open Source | C++ | MIT |
+| [KVdb](https://dbdb.io/db/kvdb) | KVdb is a key-value database-as-a-service with a simple REST API. | Key/Value | United States of America | 2018 | Commercial |  | Proprietary |
+| [Kvrocks](https://dbdb.io/db/kvrocks) | Kvrocks is a distributed key-value DBMS that is compatible with the [Redis](/db/redis) wire proto... | Key/Value | China | 2019 | Commercial, Open Source | C++ | Apache v2 |
+| [Kylin](https://dbdb.io/db/kylin) | Kylin is an open source distributed data analytics engine on top of SparkSQL/Hive. It offers SQL ... | Key/Value | China | 2013 | Open Source | Java | Apache v2 |
+| [Kyoto Cabinet](https://dbdb.io/db/kyoto-cabinet) | Kyoto Cabinet is a library of routines to manage a database. It is a multithreaded key-value embe... | Key/Value | Japan | 2009 | Open Source | C++ | GPL v3 |
+| [Kyoto Tycoon](https://dbdb.io/db/kyoto-tycoon) |  | Key/Value | Japan |  | Open Source |  |  |
+| [Kyuubi](https://dbdb.io/db/kyuubi) | Kyuubi is a middleware that provides a standardized SQL interface to different query engines. It ... | Relational | China | 2017 | Open Source | Java | Apache v2 |
 
 ## L
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [LadybugDB](https://dbdb.io/db/ladybugdb) | LadybugDB is a embedded graph-oriented DBMS. | Graph | United States of America | 2025 | Open Source | C++ | MIT | 2025-11-30 |
-| [LanceDB](https://dbdb.io/db/lancedb) | LanceDB is an open-source document-oriented DBMS that supports vector search operations. | Document / XML | United States of America | 2023 | Open Source | Rust | Apache v2 | 2023-07-26 |
-| [Lazer](https://dbdb.io/db/lazer) | Lazer is a flat-file database written in PHP for storing JSON data. It runs embedded inside of a ... | Document / XML | Poland | 2013 | Open Source | PHP | MIT | 2019-01-01 |
-| [LazyDB](https://dbdb.io/db/lazydb) | LazyDB is cloud database-as-a-service that uses Lua-based queries. | Document / XML | France | 2020 | Commercial |  | Proprietary | 2022-01-04 |
-| [Lealone](https://dbdb.io/db/lealone) | Lealone is a distributed relational DBMS based on the H2 embedded database. | Relational | China | 2012 | Hobby, Open Source | Java | Eclipse Public License, Mozilla Public License | 2023-10-02 |
-| [LeanStore](https://dbdb.io/db/leanstore) | LeanStore is an embedded OLTP storage engine optimized for many-core CPUs and NVMe SSDs. | Key/Value | Germany | 2018 | Academic | C++ | MIT | 2021-01-12 |
-| [LeanXcale](https://dbdb.io/db/leanxcale) |  | Relational | Spain | 2010 | Academic, Commercial |  |  | 2022-01-07 |
-| [LEAP](https://dbdb.io/db/leap) | LEAP is an educational relational database management system. It supports relations, has a query ... | Relational | United Kingdom | 1997 | Educational, Open Source | C | GPL v2 | 2022-05-09 |
-| [LedisDB](https://dbdb.io/db/ledisdb) | LedisDB is a NoSQL database written in Go. It is similar to Redis and implements redis protocol. ... | Key/Value | China | 2014 | Open Source | Go | MIT | 2023-09-28 |
-| [LesbianDB](https://dbdb.io/db/lesbiandb) | LesbianDB is a NoSQL document-oriented DBMS written in C#. | Document / XML | United States of America | 2022 | Hobby | C# | AGPL v3 | 2023-03-08 |
-| [LevelDB](https://dbdb.io/db/leveldb) | LevelDB is a key/value store built by Google. It can support an ordered mapping from string keys ... | Key/Value | United States of America | 2011 | Commercial | C++ | BSD | 2024-05-09 |
-| [libmdbx](https://dbdb.io/db/libmdbx) | libmdbx is a embedded transactional key-value DBMS derived from [LMDB](/db/lmdb). | Key/Value | Russia | 2015 | Open Source |  | OpenLDAP Public License | 2019-12-09 |
-| [libSQL](https://dbdb.io/db/libsql) | libSQL is a hard fork of SQLite. | Relational | United States of America | 2022 | Commercial, Open Source | C | MIT | 2024-06-17 |
-| [LightCloud](https://dbdb.io/db/lightcloud) | LightCloud is a distributed and persistent key-value database. | Key/Value | Taiwan | 2009 | Open Source | Python |  | 2023-10-01 |
-| [LightDB](https://dbdb.io/db/lightdb-washington) | LightDB is a DBMS designed to ingest, store, and deliver virtual reality (VR) content. | Array / Matrix | United States of America | 2017 | Academic, Open Source | C++ | MIT | 2024-04-15 |
-| [LightDB](https://dbdb.io/db/lightdb) | LightDB is a document-oriented DBMS written in Python that natively stores JSON objects. | Document / XML | Kazakhstan | 2021 | Hobby, Open Source | Python |  | 2025-06-03 |
-| [LINCKS](https://dbdb.io/db/lincks) | LINCKS is an object-oriented database system developed for information system applications. The f... | Object-Oriented | Sweden |  | Academic |  | GPL v2 | 2018-05-27 |
-| [LinDB](https://dbdb.io/db/lindb) | LinDB is a distributed time-series DBMS written in Go. It is optimized especially for real-time w... | Column Family / Wide-Column | China | 2019 | Open Source | Go | Apache v2 | 2020-05-06 |
-| [LineairDB](https://dbdb.io/db/lineairdb) | LineairDB is an embeddable transactional key-value storage library. | Key/Value | Japan | 2020 | Open Source | C++ | Apache v2 | 2021-12-16 |
-| [LingoDB](https://dbdb.io/db/lingodb) | LingoDB is an experimental relational DBMS that uses the MLIR compiler framework to convert queri... | Relational | Germany | 2021 | Academic, Open Source | C++ | MIT | 2025-09-26 |
-| [LintDB](https://dbdb.io/db/lintdb) | LintDB (Late Interaction DB) is an embedded vector DBMS written for Python programs and based on ... | Vector | United States of America | 2024 | Open Source | C++ | Apache v2 | 2024-04-09 |
-| [Linter](https://dbdb.io/db/linter) | Linter is a general-purpose OLTP database | Relational | Russia | 1990 | Commercial |  | Proprietary | 2022-06-27 |
-| [LiteDB](https://dbdb.io/db/litedb) | LiteDB is a embedded document-oriented DBMS for .NET applications. | Document / XML | Brazil | 2014 | Open Source | C# | MIT | 2022-06-27 |
-| [LittleD](https://dbdb.io/db/littled) |  |  | Canada |  | Open Source |  | Apache v2 | 2018-04-26 |
-| [LlamaDB](https://dbdb.io/db/llamadb) |  |  | Canada | 2015 | Open Source | Rust | MIT | 2018-05-16 |
-| [LMDB](https://dbdb.io/db/lmdb) | LMDB (Lightning Memory-Mapped Database) is a embedded database for key-value data based on B+tree... | Key/Value | Ireland | 2011 | Commercial, Open Source | C | OpenLDAP Public License | 2024-05-09 |
-| [LNX-DBMS](https://dbdb.io/db/lnx-dbms) |  | Relational | Germany |  | Commercial |  |  | 2018-05-18 |
-| [LocalSQL](https://dbdb.io/db/localsql) | LocalSQL is an embedded relational DBMS that provides library and command line tool for executing... | Relational | United States of America | 2001 | Open Source |  | LGPL v2 | 2019-12-29 |
-| [LocustDB](https://dbdb.io/db/locustdb) | LocustDB is an experimental, single-node engine for parallel execution of analytical queries. | Relational | United States of America | 2017 | Open Source | Rust |  | 2022-01-09 |
-| [LogicBlox](https://dbdb.io/db/logicblox) | LogicBlox is a commercial deductive DBMS with a datalog query interface. |  | United States of America |  | Commercial |  | Proprietary | 2024-02-14 |
-| [LokiJS](https://dbdb.io/db/lokijs) | LokiJS is an in-memory, document-oriented JavaScript database. | Document / XML | Ireland | 2013 | Hobby, Open Source | JavaScript |  | 2023-09-29 |
-| [LonaDB](https://dbdb.io/db/lonadb) | LonaDB is a document-oriented (JSON) DBMS written in PHP. | Document / XML | Germany | 2023 | Hobby, Open Source | PHP | AGPL v3 | 2024-12-12 |
-| [LotusDB](https://dbdb.io/db/lotusdb) | LotusDB is a embedded, log-structured key-value DBMS written in Go. | Key/Value | China | 2021 | Hobby, Open Source | Go | Apache v2 | 2024-05-09 |
-| [Lovefield](https://dbdb.io/db/lovefield) | Lovefield is a relational DBMS designed to run in web browsers. | Relational | United States of America | 2014 | Open Source | JavaScript | Apache v2 | 2023-10-01 |
-| [LowDB](https://dbdb.io/db/lowdb) |  | Document / XML |  | 2014 | Open Source | JavaScript | MIT | 2022-01-07 |
-| [Lucene](https://dbdb.io/db/lucene) | Lucene is an open-source embedded search engine software library. | Document / XML | United States of America | 1999 | Open Source | Java | Apache v2 | 2025-01-14 |
-| [LucidDB](https://dbdb.io/db/luciddb) | LucidDB is a DBMS optimized for business intelligence. Its architecture supports column-store, bi... |  | United States of America | 2004 | Commercial, Open Source | C++, Java | Apache v2, GPL v2, LGPL v2 | 2022-01-04 |
-| [LungoDB](https://dbdb.io/db/lungodb) | LungoDB is a MongoDB-compatible embedded DBMS engine for Go applications. | Document / XML | Switzerland | 2019 | Open Source | Go | MIT | 2019-11-11 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [LadybugDB](https://dbdb.io/db/ladybugdb) | LadybugDB is a embedded graph-oriented DBMS. | Graph | United States of America | 2025 | Open Source | C++ | MIT |
+| [LanceDB](https://dbdb.io/db/lancedb) | LanceDB is an open-source document-oriented DBMS that supports vector search operations. | Document / XML | United States of America | 2023 | Open Source | Rust | Apache v2 |
+| [Lazer](https://dbdb.io/db/lazer) | Lazer is a flat-file database written in PHP for storing JSON data. It runs embedded inside of a ... | Document / XML | Poland | 2013 | Open Source | PHP | MIT |
+| [LazyDB](https://dbdb.io/db/lazydb) | LazyDB is cloud database-as-a-service that uses Lua-based queries. | Document / XML | France | 2020 | Commercial |  | Proprietary |
+| [Lealone](https://dbdb.io/db/lealone) | Lealone is a distributed relational DBMS based on the H2 embedded database. | Relational | China | 2012 | Hobby, Open Source | Java | Eclipse Public License, Mozilla Public License |
+| [LeanStore](https://dbdb.io/db/leanstore) | LeanStore is an embedded OLTP storage engine optimized for many-core CPUs and NVMe SSDs. | Key/Value | Germany | 2018 | Academic | C++ | MIT |
+| [LeanXcale](https://dbdb.io/db/leanxcale) |  | Relational | Spain | 2010 | Academic, Commercial |  |  |
+| [LEAP](https://dbdb.io/db/leap) | LEAP is an educational relational database management system. It supports relations, has a query ... | Relational | United Kingdom | 1997 | Educational, Open Source | C | GPL v2 |
+| [LedisDB](https://dbdb.io/db/ledisdb) | LedisDB is a NoSQL database written in Go. It is similar to Redis and implements redis protocol. ... | Key/Value | China | 2014 | Open Source | Go | MIT |
+| [LesbianDB](https://dbdb.io/db/lesbiandb) | LesbianDB is a NoSQL document-oriented DBMS written in C#. | Document / XML | United States of America | 2022 | Hobby | C# | AGPL v3 |
+| [LevelDB](https://dbdb.io/db/leveldb) | LevelDB is a key/value store built by Google. It can support an ordered mapping from string keys ... | Key/Value | United States of America | 2011 | Commercial | C++ | BSD |
+| [libmdbx](https://dbdb.io/db/libmdbx) | libmdbx is a embedded transactional key-value DBMS derived from [LMDB](/db/lmdb). | Key/Value | Russia | 2015 | Open Source |  | OpenLDAP Public License |
+| [libSQL](https://dbdb.io/db/libsql) | libSQL is a hard fork of SQLite. | Relational | United States of America | 2022 | Commercial, Open Source | C | MIT |
+| [LightCloud](https://dbdb.io/db/lightcloud) | LightCloud is a distributed and persistent key-value database. | Key/Value | Taiwan | 2009 | Open Source | Python |  |
+| [LightDB](https://dbdb.io/db/lightdb-washington) | LightDB is a DBMS designed to ingest, store, and deliver virtual reality (VR) content. | Array / Matrix | United States of America | 2017 | Academic, Open Source | C++ | MIT |
+| [LightDB](https://dbdb.io/db/lightdb) | LightDB is a document-oriented DBMS written in Python that natively stores JSON objects. | Document / XML | Kazakhstan | 2021 | Hobby, Open Source | Python |  |
+| [LINCKS](https://dbdb.io/db/lincks) | LINCKS is an object-oriented database system developed for information system applications. The f... | Object-Oriented | Sweden |  | Academic |  | GPL v2 |
+| [LinDB](https://dbdb.io/db/lindb) | LinDB is a distributed time-series DBMS written in Go. It is optimized especially for real-time w... | Column Family / Wide-Column | China | 2019 | Open Source | Go | Apache v2 |
+| [LineairDB](https://dbdb.io/db/lineairdb) | LineairDB is an embeddable transactional key-value storage library. | Key/Value | Japan | 2020 | Open Source | C++ | Apache v2 |
+| [LingoDB](https://dbdb.io/db/lingodb) | LingoDB is an experimental relational DBMS that uses the MLIR compiler framework to convert queri... | Relational | Germany | 2021 | Academic, Open Source | C++ | MIT |
+| [LintDB](https://dbdb.io/db/lintdb) | LintDB (Late Interaction DB) is an embedded vector DBMS written for Python programs and based on ... | Vector | United States of America | 2024 | Open Source | C++ | Apache v2 |
+| [Linter](https://dbdb.io/db/linter) | Linter is a general-purpose OLTP database | Relational | Russia | 1990 | Commercial |  | Proprietary |
+| [LiteDB](https://dbdb.io/db/litedb) | LiteDB is a embedded document-oriented DBMS for .NET applications. | Document / XML | Brazil | 2014 | Open Source | C# | MIT |
+| [LittleD](https://dbdb.io/db/littled) |  |  | Canada |  | Open Source |  | Apache v2 |
+| [LlamaDB](https://dbdb.io/db/llamadb) |  |  | Canada | 2015 | Open Source | Rust | MIT |
+| [LMDB](https://dbdb.io/db/lmdb) | LMDB (Lightning Memory-Mapped Database) is a embedded database for key-value data based on B+tree... | Key/Value | Ireland | 2011 | Commercial, Open Source | C | OpenLDAP Public License |
+| [LNX-DBMS](https://dbdb.io/db/lnx-dbms) |  | Relational | Germany |  | Commercial |  |  |
+| [LocalSQL](https://dbdb.io/db/localsql) | LocalSQL is an embedded relational DBMS that provides library and command line tool for executing... | Relational | United States of America | 2001 | Open Source |  | LGPL v2 |
+| [LocustDB](https://dbdb.io/db/locustdb) | LocustDB is an experimental, single-node engine for parallel execution of analytical queries. | Relational | United States of America | 2017 | Open Source | Rust |  |
+| [LogicBlox](https://dbdb.io/db/logicblox) | LogicBlox is a commercial deductive DBMS with a datalog query interface. |  | United States of America |  | Commercial |  | Proprietary |
+| [LokiJS](https://dbdb.io/db/lokijs) | LokiJS is an in-memory, document-oriented JavaScript database. | Document / XML | Ireland | 2013 | Hobby, Open Source | JavaScript |  |
+| [LonaDB](https://dbdb.io/db/lonadb) | LonaDB is a document-oriented (JSON) DBMS written in PHP. | Document / XML | Germany | 2023 | Hobby, Open Source | PHP | AGPL v3 |
+| [LotusDB](https://dbdb.io/db/lotusdb) | LotusDB is a embedded, log-structured key-value DBMS written in Go. | Key/Value | China | 2021 | Hobby, Open Source | Go | Apache v2 |
+| [Lovefield](https://dbdb.io/db/lovefield) | Lovefield is a relational DBMS designed to run in web browsers. | Relational | United States of America | 2014 | Open Source | JavaScript | Apache v2 |
+| [LowDB](https://dbdb.io/db/lowdb) |  | Document / XML |  | 2014 | Open Source | JavaScript | MIT |
+| [Lucene](https://dbdb.io/db/lucene) | Lucene is an open-source embedded search engine software library. | Document / XML | United States of America | 1999 | Open Source | Java | Apache v2 |
+| [LucidDB](https://dbdb.io/db/luciddb) | LucidDB is a DBMS optimized for business intelligence. Its architecture supports column-store, bi... |  | United States of America | 2004 | Commercial, Open Source | C++, Java | Apache v2, GPL v2, LGPL v2 |
+| [LungoDB](https://dbdb.io/db/lungodb) | LungoDB is a MongoDB-compatible embedded DBMS engine for Go applications. | Document / XML | Switzerland | 2019 | Open Source | Go | MIT |
 
 ## M
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [M3DB](https://dbdb.io/db/m3db) | M3DB is a distributed time series database developed for the [M3](https://m3db.io/) metrics platf... | Relational | United States of America | 2018 | Open Source | Go | Apache v2 | 2022-07-01 |
-| [Machbase](https://dbdb.io/db/machbase) | Machbase is a time-series DBMS designed for IoT workloads. | Relational | South Korea | 2017 | Commercial |  | Proprietary | 2022-01-05 |
-| [madIS](https://dbdb.io/db/madis) | madIS is an extensible relational database system built on top of SQLite with extensions implemen... | Relational | Greece | 2009 | Academic | Python | MIT | 2019-07-20 |
-| [Magma](https://dbdb.io/db/magma) | Magma is a multi-user object database designed for [Squeak](https://squeak.org) systems. | Object-Oriented | United States of America | 2002 | Open Source | Smalltalk | MIT | 2019-06-06 |
-| [MammothDB](https://dbdb.io/db/mammothdb) | MammothDB is a distributed, relational OLAP DBMS that runs on the Apache Hadoop Distributed File ... | Relational | Bulgaria | 2012 | Commercial |  | Proprietary | 2024-10-31 |
-| [MangoDB](https://dbdb.io/db/mangodb) | MangoDB is a parody DBMS of [MongoDB](/db/mongodb). It supports the MongoDB wire protocol but all... | Document / XML | United States of America | 2012 | Hobby, Open Source | Python |  | 2024-08-03 |
-| [Manhattan](https://dbdb.io/db/manhattan) |  |  | United States of America | 2014 | Internal / Non-Public |  |  | 2022-06-28 |
-| [Manticore Search](https://dbdb.io/db/manticore-search) | Manticore Search is a full-text search and analytical database. | Relational | United Kingdom | 2017 | Commercial, Open Source | C++ | GPL v2 | 2023-09-26 |
-| [MapDB](https://dbdb.io/db/mapdb) | MapDB is an open-source embedded Java database engine and collection framework. It provides Maps,... | Object-Oriented | Czechia | 2012 | Open Source | Java | Apache v2 | 2022-01-05 |
-| [MapR-DB](https://dbdb.io/db/mapr-db) | MapR-DB was a commercial re-implementation of HBase designed to run in Hadoop clusters. | Column Family / Wide-Column | United States of America | 2012 | Commercial |  | Proprietary | 2024-10-31 |
-| [MarcelloDB](https://dbdb.io/db/marcellodb) | MarcelloDB is an embedded object-oriented DBMS for C# Windows applications. | Object-Oriented | Belgium | 2014 | Open Source | C# | MIT | 2022-06-27 |
-| [MariaDB](https://dbdb.io/db/mariadb) | MariaDB is a relational DBMS that started as a fork of MySQL. New features from MySQL are likely ... | Relational | Sweden | 2009 | Open Source | Bash, C, C++, Perl | GPL v2 | 2024-01-30 |
-| [Mariposa](https://dbdb.io/db/mariposa) | Mariposa was an experimental distributed database management system developed by Mike Stonebraker... | Relational | United States of America | 1994 | Academic, Open Source |  | BSD | 2019-01-18 |
-| [MarkLogic](https://dbdb.io/db/marklogic) | MarkLogic is a multi-model DBMS that supports document (XML) and graph (RDF) data. | Document / XML, Triplestore / RDF | United States of America | 2001 | Commercial |  | Proprietary | 2024-10-31 |
-| [Marqo](https://dbdb.io/db/marqo) | Marqo is an multi-modal vector search engine. | Document / XML, Vector | Australia | 2022 | Commercial, Open Source | Python | Apache v2 | 2023-09-12 |
-| [Materialize](https://dbdb.io/db/materialize) | Materialize is a streaming database. It ingests data from sources (i.e., Kafka, Postgres CDC), in... | Relational | United States of America | 2019 | Commercial | Rust | Business Source License | 2023-04-07 |
-| [Matisse](https://dbdb.io/db/matisse) |  | Document / XML | France | 1986 | Commercial |  | Proprietary | 2018-05-06 |
-| [MatrixOne](https://dbdb.io/db/matrixone) | MatrixOne is an HTAP DBMS written in Go. | Relational | China | 2021 | Commercial, Open Source | Go | Apache v2 | 2024-02-14 |
-| [MaxDB](https://dbdb.io/db/maxdb) | MaxDB is a relational DBMS developed by SAP. | Relational | Germany | 1977 | Commercial |  | Proprietary | 2023-01-08 |
-| [mcdb](https://dbdb.io/db/mcdb) | mcdb ("mmap constant database") is based on the cdb library for creating and reading constant (i.... | Key/Value | United States of America | 2010 | Hobby, Open Source | C | LGPL v2 | 2024-05-09 |
-| [Mckoi SQL Database](https://dbdb.io/db/mckoi-sql-database) | Mckoi SQL Database is a relational DBMS written in Java. | Relational | United States of America | 1998 | Commercial, Open Source | Java | GPL v2 | 2022-07-01 |
-| [MDBM](https://dbdb.io/db/mdbm) | MDBM a memory-mapped key/value store. | Key/Value | United States of America | 2012 | Industrial Research |  | BSD | 2018-06-09 |
-| [MDBMS](https://dbdb.io/db/mdbms) | MDBMS ("Marty's DBMS") was a relational DBMS developed in the late 1990s. | Relational | Netherlands | 1998 | Commercial | C |  | 2018-05-19 |
-| [Meilisearch](https://dbdb.io/db/meilisearch) | Meilisearch is a document-oriented search engine. | Document / XML | France | 2018 | Commercial, Open Source | Rust | MIT | 2022-07-01 |
-| [Memcached](https://dbdb.io/db/memcached) | Memcached (pronunciation: mem-cash-dee) is a distributed in-memory key-value storage system, usua... | Key/Value | United States of America | 2003 | Commercial, Open Source | C | BSD | 2023-06-14 |
-| [MemCP](https://dbdb.io/db/memcp) | MemCP is an in-memory columnar DBMS compatible with MySQL. | Relational | Germany | 2022 | Open Source | Go | GPL v3 | 2025-09-24 |
-| [Memgraph](https://dbdb.io/db/memgraph) | Memgraph is a native fully distributed in-memory graph database built to handle real-time use-cas... | Graph | United Kingdom | 2016 | Commercial, Open Source | C, C++ | Business Source License | 2023-01-03 |
-| [Memstate](https://dbdb.io/db/memstate) | Memstate is a transactional in-memory object-oriented DBMS. It uses PostgreSQL or EventStore as i... | Object-Oriented | Sweden | 2017 | Commercial, Open Source | C# | GPL v3, LGPL v3 | 2019-12-10 |
-| [Mentat](https://dbdb.io/db/mentat) | Project Mentat is a persistent, embedded knowledge base written in Rust. | Relational | United States of America | 2016 | Open Source | Rust | Apache v2 | 2022-01-07 |
-| [MetalBase](https://dbdb.io/db/metalbase) | MetalBase is a small relational database management system. It has all the pieces that a relation... | Relational | United States of America |  | Open Source | C |  | 2023-10-01 |
-| [MillenniumDB](https://dbdb.io/db/millenniumdb) | MillenniumDB is a graph-oriented database management system that supports SPARQL. | Graph, Triplestore / RDF | Chile | 2021 |  | C++ | GPL v2 | 2026-01-21 |
-| [Milvus](https://dbdb.io/db/milvus) | Milvus is a vector DBMS design to to store vectors generated by machine learning models and neura... | Vector | China | 2019 | Open Source | Go | Apache v2 | 2023-09-12 |
-| [Mimer SQL](https://dbdb.io/db/mimer-sql) | Mimer SQL is a relational DBMS developed by Mimer Information Technology AB. It is available acro... | Relational | Sweden | 1974 | Commercial | C |  | 2018-12-31 |
-| [Mimir](https://dbdb.io/db/mimir) | Mimir is an open-source time0series database to provide long-term storage for Prometheus. | Relational | United Kingdom | 2016 | Commercial, Open Source | Go | AGPL v3 | 2024-07-19 |
-| [MLDB](https://dbdb.io/db/mldb) | MLDB is an open-source database designed for machine learning. |  | Canada | 2015 | Commercial, Open Source | C++ | Apache v2 | 2024-10-31 |
-| [Mnesia](https://dbdb.io/db/mnesia) | Mnesia is a distributed relational DBMS written in the Erlang. | Relational | Finland |  | Open Source | Erlang |  | 2019-11-12 |
-| [Model 204](https://dbdb.io/db/model-204) | The Model 204 DBMS is a legacy system designed for IBM System z mainframes. | Entity-Attribute-Value | United States of America | 1965 | Commercial |  | Proprietary | 2024-10-31 |
-| [ModeShape](https://dbdb.io/db/modeshape) | ModeShape is a hierarchical, transactional, and consistent data store with support for queries, f... | Object-Oriented | United States of America | 2008 | Commercial, Open Source | Java | Apache v2 | 2022-01-08 |
-| [Mondrian](https://dbdb.io/db/mondrian) | Mondrian is an OLAP query execution engine written in Java. | Relational | United States of America | 2002 | Commercial, Open Source | Java | Eclipse Public License | 2023-09-24 |
-| [MonetDB](https://dbdb.io/db/monetdb) |  | Column Family / Wide-Column | Netherlands | 2002 | Academic, Open Source | C | Mozilla Public License | 2022-01-05 |
-| [MongoDB](https://dbdb.io/db/mongodb) | MongoDB is an open-source, cross-platform document-oriented DBMS store. It is a document database... | Document / XML | United States of America | 2009 | Commercial, Open Source | C++, JavaScript, Python | Server Side Public License | 2024-02-14 |
-| [Mongrel](https://dbdb.io/db/mongrel) | Mongrel is a serverless key-value database-as-a-service (DBaaS). | Key/Value | United States of America | 2021 | Commercial |  | Proprietary | 2025-02-02 |
-| [MonographDB](https://dbdb.io/db/monographdb) | MonographDB is a propietary distributed DBMS based on MariaDB that uses a custom storage manager ... | Relational | China | 2021 | Commercial |  | Proprietary | 2023-07-31 |
-| [mSQL](https://dbdb.io/db/msql) | mSQL (Mini SQL) is a relational DBMS from the 1990s. | Relational | Australia | 1994 | Commercial | C | Proprietary | 2024-04-28 |
-| [MUFFIN](https://dbdb.io/db/muffin) | MUFFIN ("Mother Fucking Ingres") was a distributed database machine implementation of the INGRES ... | Relational | United States of America | 1979 | Academic | C |  | 2018-05-20 |
-| [Mulgara](https://dbdb.io/db/mulgara) | Mulgara is a RDF DBMS written entirely in Java | Triplestore / RDF | United States of America | 2006 | Open Source | Java | Open Software License 3.0 | 2018-06-04 |
-| [mutable](https://dbdb.io/db/mutable) | mutable is an academic DBMS designed to support rapid prototyping of research ideas while also ma... |  | Germany | 2019 | Academic, Open Source |  |  | 2022-06-27 |
-| [mvBase](https://dbdb.io/db/mvbase) | mvBase is a multi-dimensional database environment. | Multi-Value | United States of America |  | Commercial |  | Proprietary | 2024-10-31 |
-| [MyScaleDB](https://dbdb.io/db/myscaledb) | MyScaleDB is a hard-fork of Clickhouse that adds vector search and full-text indexing using Tantivy. | Relational | China | 2021 | Commercial, Open Source | C++ | Apache v2 | 2025-10-31 |
-| [MySQL](https://dbdb.io/db/mysql) | MySQL is an open-source relational database management system. MySQL is used in many web applicat... | Relational | Sweden | 1994 | Open Source | C, C++ | GPL v2 | 2023-09-24 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [M3DB](https://dbdb.io/db/m3db) | M3DB is a distributed time series database developed for the [M3](https://m3db.io/) metrics platf... | Relational | United States of America | 2018 | Open Source | Go | Apache v2 |
+| [Machbase](https://dbdb.io/db/machbase) | Machbase is a time-series DBMS designed for IoT workloads. | Relational | South Korea | 2017 | Commercial |  | Proprietary |
+| [madIS](https://dbdb.io/db/madis) | madIS is an extensible relational database system built on top of SQLite with extensions implemen... | Relational | Greece | 2009 | Academic | Python | MIT |
+| [Magma](https://dbdb.io/db/magma) | Magma is a multi-user object database designed for [Squeak](https://squeak.org) systems. | Object-Oriented | United States of America | 2002 | Open Source | Smalltalk | MIT |
+| [MammothDB](https://dbdb.io/db/mammothdb) | MammothDB is a distributed, relational OLAP DBMS that runs on the Apache Hadoop Distributed File ... | Relational | Bulgaria | 2012 | Commercial |  | Proprietary |
+| [MangoDB](https://dbdb.io/db/mangodb) | MangoDB is a parody DBMS of [MongoDB](/db/mongodb). It supports the MongoDB wire protocol but all... | Document / XML | United States of America | 2012 | Hobby, Open Source | Python |  |
+| [Manhattan](https://dbdb.io/db/manhattan) |  |  | United States of America | 2014 | Internal / Non-Public |  |  |
+| [Manticore Search](https://dbdb.io/db/manticore-search) | Manticore Search is a full-text search and analytical database. | Relational | United Kingdom | 2017 | Commercial, Open Source | C++ | GPL v2 |
+| [MapDB](https://dbdb.io/db/mapdb) | MapDB is an open-source embedded Java database engine and collection framework. It provides Maps,... | Object-Oriented | Czechia | 2012 | Open Source | Java | Apache v2 |
+| [MapR-DB](https://dbdb.io/db/mapr-db) | MapR-DB was a commercial re-implementation of HBase designed to run in Hadoop clusters. | Column Family / Wide-Column | United States of America | 2012 | Commercial |  | Proprietary |
+| [MarcelloDB](https://dbdb.io/db/marcellodb) | MarcelloDB is an embedded object-oriented DBMS for C# Windows applications. | Object-Oriented | Belgium | 2014 | Open Source | C# | MIT |
+| [MariaDB](https://dbdb.io/db/mariadb) | MariaDB is a relational DBMS that started as a fork of MySQL. New features from MySQL are likely ... | Relational | Sweden | 2009 | Open Source | Bash, C, C++, Perl | GPL v2 |
+| [Mariposa](https://dbdb.io/db/mariposa) | Mariposa was an experimental distributed database management system developed by Mike Stonebraker... | Relational | United States of America | 1994 | Academic, Open Source |  | BSD |
+| [MarkLogic](https://dbdb.io/db/marklogic) | MarkLogic is a multi-model DBMS that supports document (XML) and graph (RDF) data. | Document / XML, Triplestore / RDF | United States of America | 2001 | Commercial |  | Proprietary |
+| [Marqo](https://dbdb.io/db/marqo) | Marqo is an multi-modal vector search engine. | Document / XML, Vector | Australia | 2022 | Commercial, Open Source | Python | Apache v2 |
+| [Materialize](https://dbdb.io/db/materialize) | Materialize is a streaming database. It ingests data from sources (i.e., Kafka, Postgres CDC), in... | Relational | United States of America | 2019 | Commercial | Rust | Business Source License |
+| [Matisse](https://dbdb.io/db/matisse) |  | Document / XML | France | 1986 | Commercial |  | Proprietary |
+| [MatrixOne](https://dbdb.io/db/matrixone) | MatrixOne is an HTAP DBMS written in Go. | Relational | China | 2021 | Commercial, Open Source | Go | Apache v2 |
+| [MaxDB](https://dbdb.io/db/maxdb) | MaxDB is a relational DBMS developed by SAP. | Relational | Germany | 1977 | Commercial |  | Proprietary |
+| [mcdb](https://dbdb.io/db/mcdb) | mcdb ("mmap constant database") is based on the cdb library for creating and reading constant (i.... | Key/Value | United States of America | 2010 | Hobby, Open Source | C | LGPL v2 |
+| [Mckoi SQL Database](https://dbdb.io/db/mckoi-sql-database) | Mckoi SQL Database is a relational DBMS written in Java. | Relational | United States of America | 1998 | Commercial, Open Source | Java | GPL v2 |
+| [MDBM](https://dbdb.io/db/mdbm) | MDBM a memory-mapped key/value store. | Key/Value | United States of America | 2012 | Industrial Research |  | BSD |
+| [MDBMS](https://dbdb.io/db/mdbms) | MDBMS ("Marty's DBMS") was a relational DBMS developed in the late 1990s. | Relational | Netherlands | 1998 | Commercial | C |  |
+| [Meilisearch](https://dbdb.io/db/meilisearch) | Meilisearch is a document-oriented search engine. | Document / XML | France | 2018 | Commercial, Open Source | Rust | MIT |
+| [Memcached](https://dbdb.io/db/memcached) | Memcached (pronunciation: mem-cash-dee) is a distributed in-memory key-value storage system, usua... | Key/Value | United States of America | 2003 | Commercial, Open Source | C | BSD |
+| [MemCP](https://dbdb.io/db/memcp) | MemCP is an in-memory columnar DBMS compatible with MySQL. | Relational | Germany | 2022 | Open Source | Go | GPL v3 |
+| [Memgraph](https://dbdb.io/db/memgraph) | Memgraph is a native fully distributed in-memory graph database built to handle real-time use-cas... | Graph | United Kingdom | 2016 | Commercial, Open Source | C, C++ | Business Source License |
+| [Memstate](https://dbdb.io/db/memstate) | Memstate is a transactional in-memory object-oriented DBMS. It uses PostgreSQL or EventStore as i... | Object-Oriented | Sweden | 2017 | Commercial, Open Source | C# | GPL v3, LGPL v3 |
+| [Mentat](https://dbdb.io/db/mentat) | Project Mentat is a persistent, embedded knowledge base written in Rust. | Relational | United States of America | 2016 | Open Source | Rust | Apache v2 |
+| [MetalBase](https://dbdb.io/db/metalbase) | MetalBase is a small relational database management system. It has all the pieces that a relation... | Relational | United States of America |  | Open Source | C |  |
+| [MillenniumDB](https://dbdb.io/db/millenniumdb) | MillenniumDB is a graph-oriented database management system that supports SPARQL. | Graph, Triplestore / RDF | Chile | 2021 |  | C++ | GPL v2 |
+| [Milvus](https://dbdb.io/db/milvus) | Milvus is a vector DBMS design to to store vectors generated by machine learning models and neura... | Vector | China | 2019 | Open Source | Go | Apache v2 |
+| [Mimer SQL](https://dbdb.io/db/mimer-sql) | Mimer SQL is a relational DBMS developed by Mimer Information Technology AB. It is available acro... | Relational | Sweden | 1974 | Commercial | C |  |
+| [Mimir](https://dbdb.io/db/mimir) | Mimir is an open-source time0series database to provide long-term storage for Prometheus. | Relational | United Kingdom | 2016 | Commercial, Open Source | Go | AGPL v3 |
+| [MLDB](https://dbdb.io/db/mldb) | MLDB is an open-source database designed for machine learning. |  | Canada | 2015 | Commercial, Open Source | C++ | Apache v2 |
+| [Mnesia](https://dbdb.io/db/mnesia) | Mnesia is a distributed relational DBMS written in the Erlang. | Relational | Finland |  | Open Source | Erlang |  |
+| [Model 204](https://dbdb.io/db/model-204) | The Model 204 DBMS is a legacy system designed for IBM System z mainframes. | Entity-Attribute-Value | United States of America | 1965 | Commercial |  | Proprietary |
+| [ModeShape](https://dbdb.io/db/modeshape) | ModeShape is a hierarchical, transactional, and consistent data store with support for queries, f... | Object-Oriented | United States of America | 2008 | Commercial, Open Source | Java | Apache v2 |
+| [Mondrian](https://dbdb.io/db/mondrian) | Mondrian is an OLAP query execution engine written in Java. | Relational | United States of America | 2002 | Commercial, Open Source | Java | Eclipse Public License |
+| [MonetDB](https://dbdb.io/db/monetdb) |  | Column Family / Wide-Column | Netherlands | 2002 | Academic, Open Source | C | Mozilla Public License |
+| [MongoDB](https://dbdb.io/db/mongodb) | MongoDB is an open-source, cross-platform document-oriented DBMS store. It is a document database... | Document / XML | United States of America | 2009 | Commercial, Open Source | C++, JavaScript, Python | Server Side Public License |
+| [Mongrel](https://dbdb.io/db/mongrel) | Mongrel is a serverless key-value database-as-a-service (DBaaS). | Key/Value | United States of America | 2021 | Commercial |  | Proprietary |
+| [MonographDB](https://dbdb.io/db/monographdb) | MonographDB is a propietary distributed DBMS based on MariaDB that uses a custom storage manager ... | Relational | China | 2021 | Commercial |  | Proprietary |
+| [mSQL](https://dbdb.io/db/msql) | mSQL (Mini SQL) is a relational DBMS from the 1990s. | Relational | Australia | 1994 | Commercial | C | Proprietary |
+| [MUFFIN](https://dbdb.io/db/muffin) | MUFFIN ("Mother Fucking Ingres") was a distributed database machine implementation of the INGRES ... | Relational | United States of America | 1979 | Academic | C |  |
+| [Mulgara](https://dbdb.io/db/mulgara) | Mulgara is a RDF DBMS written entirely in Java | Triplestore / RDF | United States of America | 2006 | Open Source | Java | Open Software License 3.0 |
+| [mutable](https://dbdb.io/db/mutable) | mutable is an academic DBMS designed to support rapid prototyping of research ideas while also ma... |  | Germany | 2019 | Academic, Open Source |  |  |
+| [mvBase](https://dbdb.io/db/mvbase) | mvBase is a multi-dimensional database environment. | Multi-Value | United States of America |  | Commercial |  | Proprietary |
+| [MyScaleDB](https://dbdb.io/db/myscaledb) | MyScaleDB is a hard-fork of Clickhouse that adds vector search and full-text indexing using Tantivy. | Relational | China | 2021 | Commercial, Open Source | C++ | Apache v2 |
+| [MySQL](https://dbdb.io/db/mysql) | MySQL is an open-source relational database management system. MySQL is used in many web applicat... | Relational | Sweden | 1994 | Open Source | C, C++ | GPL v2 |
 
 ## N
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [Nanolat](https://dbdb.io/db/nanolat) | Nanolat is an in-memory key/value store that supports `PUT`/`GET`/`DEL` and range search on cursors. | Key/Value | South Korea | 2012 | Open Source |  | Apache v2 | 2022-01-08 |
-| [Napa](https://dbdb.io/db/napa) | Napa is an internal DBMS developed at Google to support real-time analytical workloads. | Relational | United States of America | 2018 | Internal / Non-Public | C++ | Proprietary | 2023-07-25 |
-| [NavDB](https://dbdb.io/db/navdb) | NavDB is a database with key-value and (experimental) relational models. | Relational, Key/Value | South Africa | 2017 | Commercial | C++ | Apache v2, Proprietary | 2024-01-01 |
-| [NCache](https://dbdb.io/db/ncache) | NCache is a distributed cache for .NET and Java. It is an open source product released under the ... | Key/Value | United States of America | 2015 | Commercial, Open Source |  | Apache v2, Proprietary | 2023-09-28 |
-| [NDatabase](https://dbdb.io/db/ndatabase) | NDatabase is a object-oriented DBMS written in C# for the .NET environment. | Object-Oriented | Poland |  | Commercial, Open Source | C# | LGPL v2 | 2019-06-05 |
-| [NDB Cluster](https://dbdb.io/db/ndb-cluster) | NDB Cluster is a distributed DBMS that backs the MySQL Cluster product. It can be used independen... | Key/Value | Sweden |  | Commercial, Open Source | C++ | GPL v2 | 2024-10-31 |
-| [Nebula Graph](https://dbdb.io/db/nebula-graph) | Nebula Graph is an open source distributed graph database system developed by VEsoft Inc. The goa... | Graph | China | 2018 | Open Source | C++ | Apache v2 | 2022-01-04 |
-| [NeDB](https://dbdb.io/db/nedb) | NeDB is a lightweight embedded document DBMS written in JavaScript. It supports Node.js, nw.js, E... | Document / XML | France | 2013 | Open Source | JavaScript | MIT | 2023-09-28 |
-| [NEO](https://dbdb.io/db/neo) | NEO ("Nexedi Enterprise Object") is a distributed NoSQL DBMS that implements the ZODB API. | Document / XML | France | 2005 | Commercial, Open Source | Python | GPL v3 | 2022-05-13 |
-| [Neo4j](https://dbdb.io/db/neo4j) | Neo4j is a graph database that leverages data relationships as first-class entities. It provides ... | Graph | Sweden | 2007 | Commercial, Open Source | Java, Scala | AGPL v3, GPL v3 | 2022-06-27 |
-| [NeoDatis ODB](https://dbdb.io/db/neodatis-odb) | NeoDatis ODB is a simple object-oriented DBMS. | Object-Oriented | Brazil | 2006 | Open Source | Java | GPL v2 | 2023-09-28 |
-| [Neon](https://dbdb.io/db/neon) | Neon is a serverless PostgreSQL service that separates storage and compute. | Object-Relational | United States of America | 2021 | Commercial, Open Source | C, Rust | Apache v2, PostgreSQL License | 2023-08-08 |
-| [Neoview](https://dbdb.io/db/neoview) | The original Neoview data warehousing appliances were based on a cluster of Itanium processors. I... | Relational | United States of America | 2007 | Commercial |  | Proprietary | 2023-10-08 |
-| [Neptune](https://dbdb.io/db/neptune) | Amazon Neptune is a fully-managed graph database service used to work with highly connected datas... | Graph, Triplestore / RDF | United States of America | 2018 | Commercial |  | Proprietary | 2020-10-03 |
-| [nessDB](https://dbdb.io/db/nessdb) | nessDB is an embedded key-value DBMS written in ANSI C with BSD license. It does not require any ... | Key/Value | China | 2011 | Open Source | C | BSD | 2019-12-29 |
-| [Netezza](https://dbdb.io/db/netezza) |  | Relational | United States of America | 1999 | Commercial |  | Proprietary | 2024-10-31 |
-| [NeuroDB](https://dbdb.io/db/neurodb) | NeuroDB is a closed-source in-memory graph database engine. | Graph | China | 2020 | Commercial |  | Proprietary | 2023-10-12 |
-| [NexusDB](https://dbdb.io/db/nexusdb) |  | Relational | Australia | 2003 | Commercial | Delphi | Proprietary | 2018-06-03 |
-| [Nile](https://dbdb.io/db/nile) | Nile is a serverless database service based on PostgreSQL. | Object-Relational | United States of America | 2022 | Commercial |  | Proprietary | 2023-12-15 |
-| [Ninja Database](https://dbdb.io/db/ninja-database) | Ninja Database is a suite of DBMS products: [Lite](https://kellermansoftware.com/products/ninja-d... | Relational, Object-Oriented | United States of America |  | Commercial | C# | Proprietary | 2019-06-06 |
-| [Nitrite](https://dbdb.io/db/nitrite) | Nitrite is a NoSQL embedded document store written in Java. The name is derived from **NO**sql **... | Document / XML | India | 2017 | Hobby, Open Source | Java | Apache v2 | 2023-10-09 |
-| [NoisePage](https://dbdb.io/db/noisepage) | NoisePage is an in-memory relational DBMS designed to support self-driving (i.e., autonomous) ope... | Relational | United States of America | 2018 | Academic, Open Source | C++ | MIT | 2025-05-30 |
-| [NoKV](https://dbdb.io/db/nokv) | NoKV is a Go-native log-structured key-value DBMS. | Key/Value | Australia | 2024 | Hobby, Open Source | Go | Apache v2 | 2026-01-21 |
-| [Noms](https://dbdb.io/db/noms) | Noms is a decentralized DBMS that follows the same philosophy of the Git version control system. | Document / XML | United States of America | 2015 | Open Source | Go | Apache v2 | 2022-06-27 |
-| [NonStop SQL](https://dbdb.io/db/nonstop-sql) | NonStop SQL is a database management system designed for 24x7 availability, high scalability, and... | Relational | United States of America | 1987 | Commercial | C | Proprietary | 2024-10-31 |
-| [NornicDB](https://dbdb.io/db/nornicdb) | NornicDB is a Neo4j-compatiable vector search engine. It supports GPU-accelerated nearest neighbo... | Graph | United States of America | 2025 | Hobby, Open Source | Go | MIT | 2026-02-11 |
-| [NosDB](https://dbdb.io/db/nosdb) | NosDB is an NoSQL DBMS for .NET applications. | Document / XML | United States of America | 2013 | Commercial, Open Source | C# | Apache v2 | 2023-09-28 |
-| [NucliaDB](https://dbdb.io/db/nucliadb) | NucliaDB is a vector database. | Vector | Spain | 2021 | Commercial, Open Source | Python, Rust | AGPL v3 | 2023-09-12 |
-| [NuDB](https://dbdb.io/db/nudb) | NuDB is an append-only key/value DBMS written in C++11 as a single header file. It is designed to... | Key/Value | United States of America | 2016 | Open Source | C++ | Boost Software License | 2019-07-24 |
-| [NunDB](https://dbdb.io/db/nundb) | NunDB is a object-oriented DBMS designed to support real-time update propagation to clients. | Object-Oriented | Brazil | 2018 | Hobby, Open Source | Rust | MIT | 2024-05-14 |
-| [NuoDB](https://dbdb.io/db/nuodb) | NuoDB is a distributed relational database management system. Unlike traditional shared-disk or s... | Relational | United States of America | 2010 | Commercial | C++ | Proprietary | 2023-11-21 |
-| [NutsDB](https://dbdb.io/db/nutsdb) | NutsDB is a transactional key/value store database written in Go. All transactions executed in Nu... | Key/Value | China | 2018 | Open Source | Go | Apache v2 | 2021-12-14 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [Nanolat](https://dbdb.io/db/nanolat) | Nanolat is an in-memory key/value store that supports `PUT`/`GET`/`DEL` and range search on cursors. | Key/Value | South Korea | 2012 | Open Source |  | Apache v2 |
+| [Napa](https://dbdb.io/db/napa) | Napa is an internal DBMS developed at Google to support real-time analytical workloads. | Relational | United States of America | 2018 | Internal / Non-Public | C++ | Proprietary |
+| [NavDB](https://dbdb.io/db/navdb) | NavDB is a database with key-value and (experimental) relational models. | Relational, Key/Value | South Africa | 2017 | Commercial | C++ | Apache v2, Proprietary |
+| [NCache](https://dbdb.io/db/ncache) | NCache is a distributed cache for .NET and Java. It is an open source product released under the ... | Key/Value | United States of America | 2015 | Commercial, Open Source |  | Apache v2, Proprietary |
+| [NDatabase](https://dbdb.io/db/ndatabase) | NDatabase is a object-oriented DBMS written in C# for the .NET environment. | Object-Oriented | Poland |  | Commercial, Open Source | C# | LGPL v2 |
+| [NDB Cluster](https://dbdb.io/db/ndb-cluster) | NDB Cluster is a distributed DBMS that backs the MySQL Cluster product. It can be used independen... | Key/Value | Sweden |  | Commercial, Open Source | C++ | GPL v2 |
+| [Nebula Graph](https://dbdb.io/db/nebula-graph) | Nebula Graph is an open source distributed graph database system developed by VEsoft Inc. The goa... | Graph | China | 2018 | Open Source | C++ | Apache v2 |
+| [NeDB](https://dbdb.io/db/nedb) | NeDB is a lightweight embedded document DBMS written in JavaScript. It supports Node.js, nw.js, E... | Document / XML | France | 2013 | Open Source | JavaScript | MIT |
+| [NEO](https://dbdb.io/db/neo) | NEO ("Nexedi Enterprise Object") is a distributed NoSQL DBMS that implements the ZODB API. | Document / XML | France | 2005 | Commercial, Open Source | Python | GPL v3 |
+| [Neo4j](https://dbdb.io/db/neo4j) | Neo4j is a graph database that leverages data relationships as first-class entities. It provides ... | Graph | Sweden | 2007 | Commercial, Open Source | Java, Scala | AGPL v3, GPL v3 |
+| [NeoDatis ODB](https://dbdb.io/db/neodatis-odb) | NeoDatis ODB is a simple object-oriented DBMS. | Object-Oriented | Brazil | 2006 | Open Source | Java | GPL v2 |
+| [Neon](https://dbdb.io/db/neon) | Neon is a serverless PostgreSQL service that separates storage and compute. | Object-Relational | United States of America | 2021 | Commercial, Open Source | C, Rust | Apache v2, PostgreSQL License |
+| [Neoview](https://dbdb.io/db/neoview) | The original Neoview data warehousing appliances were based on a cluster of Itanium processors. I... | Relational | United States of America | 2007 | Commercial |  | Proprietary |
+| [Neptune](https://dbdb.io/db/neptune) | Amazon Neptune is a fully-managed graph database service used to work with highly connected datas... | Graph, Triplestore / RDF | United States of America | 2018 | Commercial |  | Proprietary |
+| [nessDB](https://dbdb.io/db/nessdb) | nessDB is an embedded key-value DBMS written in ANSI C with BSD license. It does not require any ... | Key/Value | China | 2011 | Open Source | C | BSD |
+| [Netezza](https://dbdb.io/db/netezza) |  | Relational | United States of America | 1999 | Commercial |  | Proprietary |
+| [NeuroDB](https://dbdb.io/db/neurodb) | NeuroDB is a closed-source in-memory graph database engine. | Graph | China | 2020 | Commercial |  | Proprietary |
+| [NexusDB](https://dbdb.io/db/nexusdb) |  | Relational | Australia | 2003 | Commercial | Delphi | Proprietary |
+| [Nile](https://dbdb.io/db/nile) | Nile is a serverless database service based on PostgreSQL. | Object-Relational | United States of America | 2022 | Commercial |  | Proprietary |
+| [Ninja Database](https://dbdb.io/db/ninja-database) | Ninja Database is a suite of DBMS products: [Lite](https://kellermansoftware.com/products/ninja-d... | Relational, Object-Oriented | United States of America |  | Commercial | C# | Proprietary |
+| [Nitrite](https://dbdb.io/db/nitrite) | Nitrite is a NoSQL embedded document store written in Java. The name is derived from **NO**sql **... | Document / XML | India | 2017 | Hobby, Open Source | Java | Apache v2 |
+| [NoisePage](https://dbdb.io/db/noisepage) | NoisePage is an in-memory relational DBMS designed to support self-driving (i.e., autonomous) ope... | Relational | United States of America | 2018 | Academic, Open Source | C++ | MIT |
+| [NoKV](https://dbdb.io/db/nokv) | NoKV is a Go-native log-structured key-value DBMS. | Key/Value | Australia | 2024 | Hobby, Open Source | Go | Apache v2 |
+| [Noms](https://dbdb.io/db/noms) | Noms is a decentralized DBMS that follows the same philosophy of the Git version control system. | Document / XML | United States of America | 2015 | Open Source | Go | Apache v2 |
+| [NonStop SQL](https://dbdb.io/db/nonstop-sql) | NonStop SQL is a database management system designed for 24x7 availability, high scalability, and... | Relational | United States of America | 1987 | Commercial | C | Proprietary |
+| [NornicDB](https://dbdb.io/db/nornicdb) | NornicDB is a Neo4j-compatiable vector search engine. It supports GPU-accelerated nearest neighbo... | Graph | United States of America | 2025 | Hobby, Open Source | Go | MIT |
+| [NosDB](https://dbdb.io/db/nosdb) | NosDB is an NoSQL DBMS for .NET applications. | Document / XML | United States of America | 2013 | Commercial, Open Source | C# | Apache v2 |
+| [NucliaDB](https://dbdb.io/db/nucliadb) | NucliaDB is a vector database. | Vector | Spain | 2021 | Commercial, Open Source | Python, Rust | AGPL v3 |
+| [NuDB](https://dbdb.io/db/nudb) | NuDB is an append-only key/value DBMS written in C++11 as a single header file. It is designed to... | Key/Value | United States of America | 2016 | Open Source | C++ | Boost Software License |
+| [NunDB](https://dbdb.io/db/nundb) | NunDB is a object-oriented DBMS designed to support real-time update propagation to clients. | Object-Oriented | Brazil | 2018 | Hobby, Open Source | Rust | MIT |
+| [NuoDB](https://dbdb.io/db/nuodb) | NuoDB is a distributed relational database management system. Unlike traditional shared-disk or s... | Relational | United States of America | 2010 | Commercial | C++ | Proprietary |
+| [NutsDB](https://dbdb.io/db/nutsdb) | NutsDB is a transactional key/value store database written in Go. All transactions executed in Nu... | Key/Value | China | 2018 | Open Source | Go | Apache v2 |
 
 ## O
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [O2](https://dbdb.io/db/o2) | O2 is an object-oriented DBMS developed in the 1990s. | Object-Oriented | France | 1990 | Commercial |  |  | 2023-10-01 |
-| [OasysDB](https://dbdb.io/db/oasysdb) | OasysDB is a toy key-value DBMS based on Sled that supports vector search operations. | Key/Value, Vector | United States of America | 2023 | Hobby, Open Source | Rust | Apache v2 | 2024-01-01 |
-| [ObjectBox](https://dbdb.io/db/objectbox) | ObjectBox is an object-oriented DBMS library built for IoT, mobile, and embedded devices. It is a... | Object-Oriented | Germany | 2016 | Commercial, Open Source | C, C++, Go, Java, Python, Swift | Apache v2 | 2024-05-19 |
-| [ObjectDatabase++](https://dbdb.io/db/objectdatabase) | ObjectDatabase++ (ODBPP) is an embeddable object-oriented database designed for server applicatio... | Object-Oriented | Australia | 2003 | Commercial | C++ | Proprietary | 2023-10-03 |
-| [ObjectDB](https://dbdb.io/db/objectdb) | ObjectDB is an embedded object database for Java that supports the JPA/JDO API. | Object-Oriented | United Kingdom | 2010 | Commercial | Java | Proprietary | 2020-02-16 |
-| [Objectivity/DB](https://dbdb.io/db/objectivitydb) | Objectivity/DB is an object-oriented DBMS. It allows applications to make standard C++, C#, Java,... | Object-Oriented | United States of America | 1990 | Commercial |  | Proprietary | 2022-01-04 |
-| [ObjectStore](https://dbdb.io/db/objectstore) | ObjectStore is an embedded object-oriented DBMS. | Object-Oriented | United States of America | 1988 | Commercial | C++, Java | Proprietary | 2023-10-03 |
-| [OceanBase](https://dbdb.io/db/oceanbase) | OceanBase is an open source distributed relational DBMS which is fully compatible with MySQL. It ... | Relational | China | 2010 | Commercial, Open Source | C++ | Mulan PubL v2 | 2024-04-26 |
-| [Ocelot](https://dbdb.io/db/ocelot) | Ocelot was a short-lived relational DBMS project from Canada. It was written for Windows using mo... | Relational | Canada | 2001 | Open Source | Assembly | GPL v2, Mozilla Public License | 2023-09-30 |
-| [Ocient](https://dbdb.io/db/ocient) | Ocient is a distributed data warehouse DBMS that supports SQL. | Relational | United States of America | 2016 | Commercial |  | Proprietary | 2022-06-02 |
-| [OctaneDB](https://dbdb.io/db/octanedb) | OctaneDB is an embedded vector DBMS for Python applications. | Vector | India | 2025 | Hobby, Open Source | Python | MIT | 2025-09-24 |
-| [OctopusDB](https://dbdb.io/db/octopusdb) | OctopusDB is an academic project to build a DBMS that can automatically evolve its storage and ex... |  | Germany | 2010 | Academic |  |  | 2018-09-21 |
-| [ODABA](https://dbdb.io/db/odaba) | ODABA is an object-oriented DBMS that supports a persistent programming language. | Object-Oriented | Germany | 1994 | Commercial, Open Source | C++ | GPL v2 | 2021-04-26 |
-| [OlegDB](https://dbdb.io/db/olegdb) | OlegDB is a free, open-source, NoSQL (Key-Value) DBMS. It was primarily written in C, with a Go f... | Key/Value | United States of America | 2014 | Commercial, Open Source | C, Go | MIT | 2024-05-09 |
-| [OnceDB](https://dbdb.io/db/oncedb) | OnceDB is a proprietary full-text search database based on [Redis](/db/redis). | Document / XML | China | 2016 | Commercial |  |  | 2020-03-17 |
-| [OneDB](https://dbdb.io/db/onedb) | OneDB is a hosted / rebranded cloud-based offering of Informix. | Relational | United States of America | 2020 | Commercial |  | Proprietary | 2023-09-24 |
-| [OpenBase SQL](https://dbdb.io/db/openbase-sql) | OpenBase SQL is a relational database server software, originally developed for the OpenStep plat... | Relational | United States of America | 1991 | Commercial |  | Proprietary | 2023-10-01 |
-| [OpenEdge](https://dbdb.io/db/openedge) |  |  | United States of America | 1984 | Commercial |  |  | 2022-01-04 |
-| [openGemini](https://dbdb.io/db/opengemini) | openGemini is an open-source time-series database management system that is compatible with the I... | Relational | China | 2022 | Open Source | Go | Apache v2 | 2024-03-14 |
-| [OpenMLDB](https://dbdb.io/db/openmldb) | OpenMLDB is a relational DBMS that purports to better support ML applications. | Relational | China | 2017 | Open Source | C++ | Apache v2 | 2021-07-29 |
-| [OpenQM](https://dbdb.io/db/openqm) | OpenQM is an open-source multi-value database management system. | Multi-Value | United Kingdom | 1993 | Commercial, Open Source |  | GPL v2, Proprietary | 2018-06-03 |
-| [OpenTSDB](https://dbdb.io/db/opentsdb) | OpenTSDB is a distributed Time Series Database (TSDB) based on `HBase`. OpenTSDB was written by B... | Key/Value | United States of America | 2010 | Open Source | Java | LGPL v2 | 2024-03-14 |
-| [Opteryx](https://dbdb.io/db/opteryx) | Opteryx is a embedded SQL query engine written in Python for processing data files. | Object-Relational | United Kingdom | 2021 | Hobby, Open Source | Python | Apache v2 | 2024-04-17 |
-| [Oracle NoSQL](https://dbdb.io/db/oracle-nosql) | Oracle NoSQL Database (OND) is a distributed key-value DBMS. It use Berkeley DB (Java Edition) as... | Key/Value | United States of America | 2011 | Commercial, Open Source | Java | Apache v2, Proprietary | 2022-01-04 |
-| [Oracle RDBMS](https://dbdb.io/db/oracle-rdbms) | Oracle database, originally a relational DBMS, has evolved into a converged, multi-model DBMS, e.... | Relational, Key/Value, Document / XML, Graph, Triplestore / RDF | United States of America | 1977 | Commercial | C, C++ | Proprietary | 2022-06-27 |
-| [OrbitDB](https://dbdb.io/db/orbitdb) | Conflict-free Replicated Data Types (CRDTs) are data structures whose network replicas can be upd... | Key/Value, Document / XML | Germany | 2015 | Open Source | JavaScript | MIT | 2022-01-04 |
-| [OrientDB](https://dbdb.io/db/orientdb) | OrientDB is a multi-model NoSQL DBMS that supports of graph, documents, key-value, and object-ori... | Key/Value, Document / XML, Graph, Object-Oriented | United Kingdom | 2010 | Commercial, Open Source | Java | Apache v2 | 2024-10-31 |
-| [OrioleDB](https://dbdb.io/db/orioledb) | OrioleDB is a fork of PostgreSQL that provides a new storage engine. | Object-Relational | Belarus | 2021 | Commercial, Open Source | C | PostgreSQL License | 2025-02-02 |
-| [OSIsoft PI](https://dbdb.io/db/osisoft-pi) |  |  | United States of America |  | Commercial |  |  | 2018-06-03 |
-| [OushuDB](https://dbdb.io/db/oushudb) | Oushu Database (OushuDB) is a proprietary enhanced fork of [HAWQ](/db/hawq). | Relational | China | 2016 | Commercial |  |  | 2022-06-27 |
-| [Ovrimos](https://dbdb.io/db/ovrimos) | Relational DBMS with a built-in web server. |  | Greece | 1996 | Commercial |  |  | 2022-06-30 |
-| [Oxia](https://dbdb.io/db/oxia) | Oxia is a distributed metadata (key/value) database management system. | Key/Value | United States of America | 2021 | Commercial, Open Source | Go | Apache v2 | 2023-09-28 |
-| [OxidSQL](https://dbdb.io/db/oxidsql) | OxidSQL is a toy relational DBMS written in Rust. | Relational | Germany | 2022 | Educational, Hobby | Rust | Apache v2 | 2024-03-15 |
-| [Oxla](https://dbdb.io/db/oxla) | Oxla is a distributed cloud DBMS designed for OLAP workloads. | Relational | Poland | 2020 | Commercial |  | Proprietary | 2026-01-18 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [O2](https://dbdb.io/db/o2) | O2 is an object-oriented DBMS developed in the 1990s. | Object-Oriented | France | 1990 | Commercial |  |  |
+| [OasysDB](https://dbdb.io/db/oasysdb) | OasysDB is a toy key-value DBMS based on Sled that supports vector search operations. | Key/Value, Vector | United States of America | 2023 | Hobby, Open Source | Rust | Apache v2 |
+| [ObjectBox](https://dbdb.io/db/objectbox) | ObjectBox is an object-oriented DBMS library built for IoT, mobile, and embedded devices. It is a... | Object-Oriented | Germany | 2016 | Commercial, Open Source | C, C++, Go, Java, Python, Swift | Apache v2 |
+| [ObjectDatabase++](https://dbdb.io/db/objectdatabase) | ObjectDatabase++ (ODBPP) is an embeddable object-oriented database designed for server applicatio... | Object-Oriented | Australia | 2003 | Commercial | C++ | Proprietary |
+| [ObjectDB](https://dbdb.io/db/objectdb) | ObjectDB is an embedded object database for Java that supports the JPA/JDO API. | Object-Oriented | United Kingdom | 2010 | Commercial | Java | Proprietary |
+| [Objectivity/DB](https://dbdb.io/db/objectivitydb) | Objectivity/DB is an object-oriented DBMS. It allows applications to make standard C++, C#, Java,... | Object-Oriented | United States of America | 1990 | Commercial |  | Proprietary |
+| [ObjectStore](https://dbdb.io/db/objectstore) | ObjectStore is an embedded object-oriented DBMS. | Object-Oriented | United States of America | 1988 | Commercial | C++, Java | Proprietary |
+| [OceanBase](https://dbdb.io/db/oceanbase) | OceanBase is an open source distributed relational DBMS which is fully compatible with MySQL. It ... | Relational | China | 2010 | Commercial, Open Source | C++ | Mulan PubL v2 |
+| [Ocelot](https://dbdb.io/db/ocelot) | Ocelot was a short-lived relational DBMS project from Canada. It was written for Windows using mo... | Relational | Canada | 2001 | Open Source | Assembly | GPL v2, Mozilla Public License |
+| [Ocient](https://dbdb.io/db/ocient) | Ocient is a distributed data warehouse DBMS that supports SQL. | Relational | United States of America | 2016 | Commercial |  | Proprietary |
+| [OctaneDB](https://dbdb.io/db/octanedb) | OctaneDB is an embedded vector DBMS for Python applications. | Vector | India | 2025 | Hobby, Open Source | Python | MIT |
+| [OctopusDB](https://dbdb.io/db/octopusdb) | OctopusDB is an academic project to build a DBMS that can automatically evolve its storage and ex... |  | Germany | 2010 | Academic |  |  |
+| [ODABA](https://dbdb.io/db/odaba) | ODABA is an object-oriented DBMS that supports a persistent programming language. | Object-Oriented | Germany | 1994 | Commercial, Open Source | C++ | GPL v2 |
+| [OlegDB](https://dbdb.io/db/olegdb) | OlegDB is a free, open-source, NoSQL (Key-Value) DBMS. It was primarily written in C, with a Go f... | Key/Value | United States of America | 2014 | Commercial, Open Source | C, Go | MIT |
+| [OnceDB](https://dbdb.io/db/oncedb) | OnceDB is a proprietary full-text search database based on [Redis](/db/redis). | Document / XML | China | 2016 | Commercial |  |  |
+| [OneDB](https://dbdb.io/db/onedb) | OneDB is a hosted / rebranded cloud-based offering of Informix. | Relational | United States of America | 2020 | Commercial |  | Proprietary |
+| [OpenBase SQL](https://dbdb.io/db/openbase-sql) | OpenBase SQL is a relational database server software, originally developed for the OpenStep plat... | Relational | United States of America | 1991 | Commercial |  | Proprietary |
+| [OpenEdge](https://dbdb.io/db/openedge) |  |  | United States of America | 1984 | Commercial |  |  |
+| [openGemini](https://dbdb.io/db/opengemini) | openGemini is an open-source time-series database management system that is compatible with the I... | Relational | China | 2022 | Open Source | Go | Apache v2 |
+| [OpenMLDB](https://dbdb.io/db/openmldb) | OpenMLDB is a relational DBMS that purports to better support ML applications. | Relational | China | 2017 | Open Source | C++ | Apache v2 |
+| [OpenQM](https://dbdb.io/db/openqm) | OpenQM is an open-source multi-value database management system. | Multi-Value | United Kingdom | 1993 | Commercial, Open Source |  | GPL v2, Proprietary |
+| [OpenTSDB](https://dbdb.io/db/opentsdb) | OpenTSDB is a distributed Time Series Database (TSDB) based on `HBase`. OpenTSDB was written by B... | Key/Value | United States of America | 2010 | Open Source | Java | LGPL v2 |
+| [Opteryx](https://dbdb.io/db/opteryx) | Opteryx is a embedded SQL query engine written in Python for processing data files. | Object-Relational | United Kingdom | 2021 | Hobby, Open Source | Python | Apache v2 |
+| [Oracle NoSQL](https://dbdb.io/db/oracle-nosql) | Oracle NoSQL Database (OND) is a distributed key-value DBMS. It use Berkeley DB (Java Edition) as... | Key/Value | United States of America | 2011 | Commercial, Open Source | Java | Apache v2, Proprietary |
+| [Oracle RDBMS](https://dbdb.io/db/oracle-rdbms) | Oracle database, originally a relational DBMS, has evolved into a converged, multi-model DBMS, e.... | Relational, Key/Value, Document / XML, Graph, Triplestore / RDF | United States of America | 1977 | Commercial | C, C++ | Proprietary |
+| [OrbitDB](https://dbdb.io/db/orbitdb) | Conflict-free Replicated Data Types (CRDTs) are data structures whose network replicas can be upd... | Key/Value, Document / XML | Germany | 2015 | Open Source | JavaScript | MIT |
+| [OrientDB](https://dbdb.io/db/orientdb) | OrientDB is a multi-model NoSQL DBMS that supports of graph, documents, key-value, and object-ori... | Key/Value, Document / XML, Graph, Object-Oriented | United Kingdom | 2010 | Commercial, Open Source | Java | Apache v2 |
+| [OrioleDB](https://dbdb.io/db/orioledb) | OrioleDB is a fork of PostgreSQL that provides a new storage engine. | Object-Relational | Belarus | 2021 | Commercial, Open Source | C | PostgreSQL License |
+| [OSIsoft PI](https://dbdb.io/db/osisoft-pi) |  |  | United States of America |  | Commercial |  |  |
+| [OushuDB](https://dbdb.io/db/oushudb) | Oushu Database (OushuDB) is a proprietary enhanced fork of [HAWQ](/db/hawq). | Relational | China | 2016 | Commercial |  |  |
+| [Ovrimos](https://dbdb.io/db/ovrimos) | Relational DBMS with a built-in web server. |  | Greece | 1996 | Commercial |  |  |
+| [Oxia](https://dbdb.io/db/oxia) | Oxia is a distributed metadata (key/value) database management system. | Key/Value | United States of America | 2021 | Commercial, Open Source | Go | Apache v2 |
+| [OxidSQL](https://dbdb.io/db/oxidsql) | OxidSQL is a toy relational DBMS written in Rust. | Relational | Germany | 2022 | Educational, Hobby | Rust | Apache v2 |
+| [Oxla](https://dbdb.io/db/oxla) | Oxla is a distributed cloud DBMS designed for OLAP workloads. | Relational | Poland | 2020 | Commercial |  | Proprietary |
 
 ## P
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [P*TIME](https://dbdb.io/db/ptime) | P\*TIME ("Parallel\* Transact-In-Memory Engine") is an in-memory relational database management s... | Relational | South Korea | 2000 | Commercial |  | Proprietary | 2023-09-24 |
-| [Pail](https://dbdb.io/db/pail) | Pail is a sharded key-value store that runs on top of IPFS. | Key/Value | United Kingdom | 2022 | Open Source | JavaScript | Apache v2, MIT | 2024-05-09 |
-| [PalDB](https://dbdb.io/db/paldb) | PalDB is an embedded key/value store DBMS written in Java that supports write-only semantics. | Key/Value | United States of America | 2015 | Open Source | Java | Apache v2 | 2020-09-18 |
-| [PancakeDB](https://dbdb.io/db/pancakedb) | PancakeDB is a columnar DBMS that supports batch query processing for OLAP workloads. |  | United States of America | 2021 | Commercial |  | Proprietary | 2022-06-27 |
-| [Paper](https://dbdb.io/db/paper) | Paper is an embedded object-oriented storage engine on Android with automatic schema migration su... | Key/Value, Object-Oriented | Sweden | 2015 | Open Source | Java | Apache v2 | 2023-10-09 |
-| [ParAccel](https://dbdb.io/db/paraccel) | ParAccel was a distributed relational DBMS based on PostgreSQL. It used a shared-nothing architec... | Relational | United States of America | 2006 | Commercial | C | Proprietary | 2023-09-24 |
-| [ParadeDB](https://dbdb.io/db/paradedb) | ParadeDB is analytical DBMS built on top of PostgreSQL. It installs extensions into PostgreSQL th... | Object-Relational | United States of America | 2023 | Commercial, Open Source | Rust | AGPL v3 | 2024-10-04 |
-| [Paradise](https://dbdb.io/db/paradise) | Paradise was a research database system aimed at handling GIS types of applications. | Object-Oriented | United States of America | 1994 | Academic | C++ |  | 2018-05-19 |
-| [Paradox](https://dbdb.io/db/paradox) | Paradox is a relational DBMS designed to run desktop applications. | Relational | United States of America | 1985 | Commercial |  | Proprietary | 2023-09-24 |
-| [ParStream](https://dbdb.io/db/parstream) | ParStream is a columnar OLAP DBMS that supports GPU acceleration. | Relational | Germany | 2010 | Commercial | C++ | Proprietary | 2025-09-24 |
-| [PearlDB](https://dbdb.io/db/pearldb) | PearlDB is a lightweight durable HTTP key-value DBMS written in C. | Key/Value | New Zealand | 2015 | Hobby, Open Source | C | BSD | 2023-09-14 |
-| [Pebble](https://dbdb.io/db/pebble) | Pebble is a key-value store written in Go and developed by Cockroach Labs. It is based on an unfi... | Key/Value | United States of America | 2018 | Open Source | Go | BSD | 2022-06-27 |
-| [Percona Server](https://dbdb.io/db/percona-server) | Percona Server is a branch of MySQL enhanced with additional features. | Relational | United States of America | 2006 | Commercial, Open Source |  |  | 2022-01-11 |
-| [Perst](https://dbdb.io/db/perst) | Perst is an open source, dual license, object-oriented embedded database system (ODBMS). It is av... | Object-Oriented | Russia | 2003 | Open Source | Java | GPL v3, Proprietary | 2024-10-31 |
-| [Pervasive PSQL](https://dbdb.io/db/pervasive-psql) |  | Relational, Key/Value | United States of America | 1996 | Commercial |  |  | 2024-10-31 |
-| [Peterlee Relational Test Vehicle](https://dbdb.io/db/peterlee-relational-test-vehicle) | The "Peterlee Relational Test Vehicle" (PRTV) was an experimental relational DBMS developed at th... | Relational | United Kingdom | 1970 | Industrial Research |  | Proprietary | 2023-01-07 |
-| [Phoenix](https://dbdb.io/db/phoenix) | Phoenix is a middleware layer that provides support for SQL-based OLTP workloads on top of HBase. | Relational | United States of America | 2014 | Open Source | Java | Apache v2 | 2022-07-03 |
-| [PhotonDB](https://dbdb.io/db/photondb) | PhotonDB is an experimental key/value DBMS written in Rust. | Key/Value | China | 2022 | Hobby, Open Source | Rust | Apache v2 | 2022-08-17 |
-| [pickleDB](https://dbdb.io/db/pickledb) | pickleDB is a lightweight key-value DBMS written in Python. It writes data formatted as plain tex... | Document / XML | United States of America | 2011 | Hobby, Open Source | Python | BSD | 2022-01-04 |
-| [PicoDB](https://dbdb.io/db/picodb) | PicoDB is an in-memory, document-oriented (JSON) DBMS that runs in Node.js and browsers. It suppo... | Document / XML | France | 2016 | Open Source | JavaScript | MIT | 2019-12-29 |
-| [picoSQL](https://dbdb.io/db/picosql) | picoSQL is a disk-oriented, relational DBMS that supports SQL. | Relational | Italy | 1995 | Commercial, Open Source |  | GPL v2 | 2023-09-30 |
-| [PieCloudDB](https://dbdb.io/db/pieclouddb) | PieCloudDB is a cloud-native OLAP DBMS database. It supports both IaaS and bare metal deployments. | Relational | China | 2021 | Commercial | Assembly, Bash, C, C++, Go, Java, Perl, PL/SQL, Python, R, SQL | Proprietary | 2023-06-28 |
-| [Pika](https://dbdb.io/db/pika) | Pika is a C++ clone of Redis that uses RocksDB as its storage backend. | Key/Value | China | 2014 | Open Source | C++ | MIT | 2022-06-28 |
-| [piladb](https://dbdb.io/db/piladb) | piladb is a lightweight RESTful database engine based on stack data structures. | Object-Oriented | Spain | 2015 | Open Source | Go | MIT | 2018-06-09 |
-| [Pilosa](https://dbdb.io/db/pilosa) | Pilosa is a distributed DBMS that only supports bitmap indexes. | Vector | United States of America | 2017 | Commercial, Open Source | Go | Apache v2 | 2023-09-12 |
-| [Pincaster](https://dbdb.io/db/pincaster) | Pincaster is an in-memory DBMS designed for geographic and document data. | Document / XML | France | 2010 | Open Source | C | MIT | 2019-06-06 |
-| [Pinecone](https://dbdb.io/db/pinecone) | Pinecone is a managed DBMS designed for storing and querying vectors using approximate nearest ne... | Vector | United States of America | 2019 | Commercial |  | Proprietary | 2023-09-12 |
-| [Pinot](https://dbdb.io/db/pinot) | Pinot is an open-source distributed relational OLAP database management system written by LinkedI... | Relational | United States of America | 2014 | Open Source | Java | Apache v2 | 2023-07-11 |
-| [PinusDB](https://dbdb.io/db/pinusdb) | PinusDB ("Pinecone Database") is a time-series DBMS designed for IoT data sets. | Relational | China | 2019 | Open Source | C++ | GPL v3 | 2020-05-08 |
-| [PipelineDB](https://dbdb.io/db/pipelinedb) | PipelineDB was a PostgreSQL extension that provide continuous query execution for time-series agg... | Object-Relational | United States of America | 2013 | Commercial, Open Source | C | BSD, GPL v3 | 2023-07-10 |
-| [PlanetScale](https://dbdb.io/db/planetscale) | PlanetScale is a database-as-a-service cloud offering based on the Vitess MySQL sharding infrastr... | Relational | United States of America | 2018 | Commercial |  | Proprietary | 2024-06-17 |
-| [PNUTS](https://dbdb.io/db/pnuts) |  |  | United States of America | 2008 | Industrial Research |  |  | 2018-06-09 |
-| [PocketBase](https://dbdb.io/db/pocketbase) | PocketBase is a self-hosted real-time database service backed by SQLite. | Relational | Bulgaria | 2022 | Hobby, Open Source | Go | MIT | 2023-10-08 |
-| [pocketSQL](https://dbdb.io/db/pocketsql) |  |  | United States of America | 2001 | Open Source | C | GPL v2 | 2023-09-30 |
-| [Pogreb](https://dbdb.io/db/pogreb) | Pogreb is an embedded key-value store written in Go and designed for read-heavy workloads. | Key/Value | United States of America | 2018 | Open Source | Go | Apache v2 | 2022-06-27 |
-| [PointBase](https://dbdb.io/db/pointbase) |  | Relational | United States of America | 1998 | Commercial | Java |  | 2024-10-31 |
-| [PolarDB](https://dbdb.io/db/polardb) | PolarDB is a commercial cloud based relational database product developed by the Alibaba. It is d... | Relational | China | 2017 | Commercial |  | Proprietary | 2022-06-29 |
-| [Polars](https://dbdb.io/db/polars) | Polars is an embedded query engine library for processing DataFrames. |  | Netherlands | 2020 | Commercial, Open Source | Rust | MIT | 2024-12-06 |
-| [PoloDB](https://dbdb.io/db/polodb) | PoloDB embedded document-oriented (JSON) DBMS written in Rust. | Document / XML | China | 2020 | Hobby, Open Source | Rust | Apache v2 | 2024-12-06 |
-| [Polybase](https://dbdb.io/db/polybase) | Polybase is a document-oriented DBMS that stores data on a blockchain. | Document / XML | United States of America | 2022 | Commercial | Rust | Proprietary | 2023-03-05 |
-| [Polyhedra](https://dbdb.io/db/polyhedra) | Polyhedra is an in-memory database management system. It uses an Object-Relational data model, bu... | Object-Relational | United Kingdom | 1994 | Commercial | C++ | Proprietary | 2023-10-01 |
-| [Polypheny](https://dbdb.io/db/polypheny) | Polypheny is a multi-model DBMS built on top of [HSQLDB](/db/hsqldb). The DBMS supports the relat... | Relational, Document / XML, Graph | Switzerland | 2017 | Academic, Commercial, Open Source | Java | Apache v2 | 2023-02-17 |
-| [PosDB](https://dbdb.io/db/posdb) | PosDB is a distributed disk-based column-store that leverages late materialization for analytical... | Relational | Russia | 2017 | Industrial Research | C++ | GPL v2 | 2023-07-11 |
-| [PostgreSQL](https://dbdb.io/db/postgresql) | PostgreSQL is an object-relational database based on Postgres, developed from University of Calif... | Object-Relational | United States of America | 1986 | Academic, Open Source | C | PostgreSQL License | 2023-11-16 |
-| [PouchDB](https://dbdb.io/db/pouchdb) | PouchDB is a free and open-source JavaScript DBMS inspired by Apache CouchDB (document-oriented N... | Document / XML | United States of America | 2010 | Open Source | JavaScript | Apache v2 | 2025-06-11 |
-| [PranaDB](https://dbdb.io/db/pranadb) | PranaDB is a distributed streaming DBMS that supports ingestion from Kafka topics. | Relational | United Kingdom | 2022 | Open Source | Go |  | 2022-05-04 |
-| [Predator](https://dbdb.io/db/predator) | Predactor was an academic object-relational DBMS developed at Cornell University during the 2000s... | Object-Relational | United States of America | 1996 | Academic, Open Source |  | GPL v2 | 2020-04-14 |
-| [PrestoDB](https://dbdb.io/db/prestodb) | PrestoDB is an open source distributed SQL query engine for running interactive analytic queries ... | Column Family / Wide-Column, Relational, Key/Value, Document / XML | United States of America | 2013 | Open Source | Java | Apache v2 | 2022-06-27 |
-| [PrimeBase](https://dbdb.io/db/primebase) |  | Relational | Germany |  | Commercial |  | Proprietary | 2022-06-27 |
-| [PRISMA](https://dbdb.io/db/prisma) | PRISMA is purported to be the first distributed in-memory DBMS developed by the team that later w... | Relational | Netherlands | 1986 | Academic |  |  | 2018-05-28 |
-| [ProfaneDB](https://dbdb.io/db/profanedb) | ProfaneDB is a object-oriented DBMS that natively stores Google Protocol Buffers data. | Object-Oriented | Switzerland | 2017 | Hobby, Open Source | C++ | GPL v3 | 2023-09-28 |
-| [Prometheus](https://dbdb.io/db/prometheus) | Prometheus is an open-source time series database developed by SoundCloud, and serves as the stor... | Key/Value | Germany | 2012 | Open Source | Go | Apache v2 | 2023-07-26 |
-| [Proteus](https://dbdb.io/db/proteus) | Proteus is an academic database engine designed for modern hardware. | Relational | Switzerland | 2015 | Academic |  | Proprietary | 2022-06-27 |
-| [Proton](https://dbdb.io/db/proton) | Proton is a unified streaming and historical data processing engine built on ClickHouse. | Relational | United States of America | 2021 | Commercial, Open Source | C++ | Apache v2 | 2023-10-10 |
-| [ProtonBase](https://dbdb.io/db/protonbase) | ProtonBase is a proprietary OLAP DBMS. | Relational, Document / XML | China | 2021 | Commercial |  | Proprietary | 2024-11-06 |
-| [ProvenDB](https://dbdb.io/db/provendb) | ProvenDB is a middleware layer that provides a MongoDB-compatible interface on top of a blockchai... | Document / XML | Australia | 2018 | Commercial |  | Proprietary | 2022-06-27 |
-| [PuffinDB](https://dbdb.io/db/puffindb) | PuffinDB is a hosted lakehouse query engine based on DuckDB | Relational | Croatia | 2023 | Open Source |  | Proprietary | 2024-06-17 |
-| [PumpkinDB](https://dbdb.io/db/pumpkindb) | PumpkinDB is a low-level event sourcing database engine that is ACID-compliant. It is a database ... | Key/Value | Canada | 2017 | Open Source | Rust | Mozilla Public License | 2022-06-27 |
-| [PupDB](https://dbdb.io/db/pupdb) | PupDB is a file-based key-value DBMS with a REST API written in Python. | Key/Value | India | 2019 | Open Source | Python | MIT | 2019-12-30 |
-| [PysonDB](https://dbdb.io/db/pysondb) | PysonDB is an embedded document-oriented DBMS for Python applications. | Document / XML | India | 2020 | Hobby, Open Source | Python | MIT | 2024-06-21 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [P*TIME](https://dbdb.io/db/ptime) | P\*TIME ("Parallel\* Transact-In-Memory Engine") is an in-memory relational database management s... | Relational | South Korea | 2000 | Commercial |  | Proprietary |
+| [Pail](https://dbdb.io/db/pail) | Pail is a sharded key-value store that runs on top of IPFS. | Key/Value | United Kingdom | 2022 | Open Source | JavaScript | Apache v2, MIT |
+| [PalDB](https://dbdb.io/db/paldb) | PalDB is an embedded key/value store DBMS written in Java that supports write-only semantics. | Key/Value | United States of America | 2015 | Open Source | Java | Apache v2 |
+| [PancakeDB](https://dbdb.io/db/pancakedb) | PancakeDB is a columnar DBMS that supports batch query processing for OLAP workloads. |  | United States of America | 2021 | Commercial |  | Proprietary |
+| [Paper](https://dbdb.io/db/paper) | Paper is an embedded object-oriented storage engine on Android with automatic schema migration su... | Key/Value, Object-Oriented | Sweden | 2015 | Open Source | Java | Apache v2 |
+| [ParAccel](https://dbdb.io/db/paraccel) | ParAccel was a distributed relational DBMS based on PostgreSQL. It used a shared-nothing architec... | Relational | United States of America | 2006 | Commercial | C | Proprietary |
+| [ParadeDB](https://dbdb.io/db/paradedb) | ParadeDB is analytical DBMS built on top of PostgreSQL. It installs extensions into PostgreSQL th... | Object-Relational | United States of America | 2023 | Commercial, Open Source | Rust | AGPL v3 |
+| [Paradise](https://dbdb.io/db/paradise) | Paradise was a research database system aimed at handling GIS types of applications. | Object-Oriented | United States of America | 1994 | Academic | C++ |  |
+| [Paradox](https://dbdb.io/db/paradox) | Paradox is a relational DBMS designed to run desktop applications. | Relational | United States of America | 1985 | Commercial |  | Proprietary |
+| [ParStream](https://dbdb.io/db/parstream) | ParStream is a columnar OLAP DBMS that supports GPU acceleration. | Relational | Germany | 2010 | Commercial | C++ | Proprietary |
+| [PearlDB](https://dbdb.io/db/pearldb) | PearlDB is a lightweight durable HTTP key-value DBMS written in C. | Key/Value | New Zealand | 2015 | Hobby, Open Source | C | BSD |
+| [Pebble](https://dbdb.io/db/pebble) | Pebble is a key-value store written in Go and developed by Cockroach Labs. It is based on an unfi... | Key/Value | United States of America | 2018 | Open Source | Go | BSD |
+| [Percona Server](https://dbdb.io/db/percona-server) | Percona Server is a branch of MySQL enhanced with additional features. | Relational | United States of America | 2006 | Commercial, Open Source |  |  |
+| [Perst](https://dbdb.io/db/perst) | Perst is an open source, dual license, object-oriented embedded database system (ODBMS). It is av... | Object-Oriented | Russia | 2003 | Open Source | Java | GPL v3, Proprietary |
+| [Pervasive PSQL](https://dbdb.io/db/pervasive-psql) |  | Relational, Key/Value | United States of America | 1996 | Commercial |  |  |
+| [Peterlee Relational Test Vehicle](https://dbdb.io/db/peterlee-relational-test-vehicle) | The "Peterlee Relational Test Vehicle" (PRTV) was an experimental relational DBMS developed at th... | Relational | United Kingdom | 1970 | Industrial Research |  | Proprietary |
+| [Phoenix](https://dbdb.io/db/phoenix) | Phoenix is a middleware layer that provides support for SQL-based OLTP workloads on top of HBase. | Relational | United States of America | 2014 | Open Source | Java | Apache v2 |
+| [PhotonDB](https://dbdb.io/db/photondb) | PhotonDB is an experimental key/value DBMS written in Rust. | Key/Value | China | 2022 | Hobby, Open Source | Rust | Apache v2 |
+| [pickleDB](https://dbdb.io/db/pickledb) | pickleDB is a lightweight key-value DBMS written in Python. It writes data formatted as plain tex... | Document / XML | United States of America | 2011 | Hobby, Open Source | Python | BSD |
+| [PicoDB](https://dbdb.io/db/picodb) | PicoDB is an in-memory, document-oriented (JSON) DBMS that runs in Node.js and browsers. It suppo... | Document / XML | France | 2016 | Open Source | JavaScript | MIT |
+| [picoSQL](https://dbdb.io/db/picosql) | picoSQL is a disk-oriented, relational DBMS that supports SQL. | Relational | Italy | 1995 | Commercial, Open Source |  | GPL v2 |
+| [PieCloudDB](https://dbdb.io/db/pieclouddb) | PieCloudDB is a cloud-native OLAP DBMS database. It supports both IaaS and bare metal deployments. | Relational | China | 2021 | Commercial | Assembly, Bash, C, C++, Go, Java, Perl, PL/SQL, Python, R, SQL | Proprietary |
+| [Pika](https://dbdb.io/db/pika) | Pika is a C++ clone of Redis that uses RocksDB as its storage backend. | Key/Value | China | 2014 | Open Source | C++ | MIT |
+| [piladb](https://dbdb.io/db/piladb) | piladb is a lightweight RESTful database engine based on stack data structures. | Object-Oriented | Spain | 2015 | Open Source | Go | MIT |
+| [Pilosa](https://dbdb.io/db/pilosa) | Pilosa is a distributed DBMS that only supports bitmap indexes. | Vector | United States of America | 2017 | Commercial, Open Source | Go | Apache v2 |
+| [Pincaster](https://dbdb.io/db/pincaster) | Pincaster is an in-memory DBMS designed for geographic and document data. | Document / XML | France | 2010 | Open Source | C | MIT |
+| [Pinecone](https://dbdb.io/db/pinecone) | Pinecone is a managed DBMS designed for storing and querying vectors using approximate nearest ne... | Vector | United States of America | 2019 | Commercial |  | Proprietary |
+| [Pinot](https://dbdb.io/db/pinot) | Pinot is an open-source distributed relational OLAP database management system written by LinkedI... | Relational | United States of America | 2014 | Open Source | Java | Apache v2 |
+| [PinusDB](https://dbdb.io/db/pinusdb) | PinusDB ("Pinecone Database") is a time-series DBMS designed for IoT data sets. | Relational | China | 2019 | Open Source | C++ | GPL v3 |
+| [PipelineDB](https://dbdb.io/db/pipelinedb) | PipelineDB was a PostgreSQL extension that provide continuous query execution for time-series agg... | Object-Relational | United States of America | 2013 | Commercial, Open Source | C | BSD, GPL v3 |
+| [PlanetScale](https://dbdb.io/db/planetscale) | PlanetScale is a database-as-a-service cloud offering based on the Vitess MySQL sharding infrastr... | Relational | United States of America | 2018 | Commercial |  | Proprietary |
+| [PNUTS](https://dbdb.io/db/pnuts) |  |  | United States of America | 2008 | Industrial Research |  |  |
+| [PocketBase](https://dbdb.io/db/pocketbase) | PocketBase is a self-hosted real-time database service backed by SQLite. | Relational | Bulgaria | 2022 | Hobby, Open Source | Go | MIT |
+| [pocketSQL](https://dbdb.io/db/pocketsql) |  |  | United States of America | 2001 | Open Source | C | GPL v2 |
+| [Pogreb](https://dbdb.io/db/pogreb) | Pogreb is an embedded key-value store written in Go and designed for read-heavy workloads. | Key/Value | United States of America | 2018 | Open Source | Go | Apache v2 |
+| [PointBase](https://dbdb.io/db/pointbase) |  | Relational | United States of America | 1998 | Commercial | Java |  |
+| [PolarDB](https://dbdb.io/db/polardb) | PolarDB is a commercial cloud based relational database product developed by the Alibaba. It is d... | Relational | China | 2017 | Commercial |  | Proprietary |
+| [Polars](https://dbdb.io/db/polars) | Polars is an embedded query engine library for processing DataFrames. |  | Netherlands | 2020 | Commercial, Open Source | Rust | MIT |
+| [PoloDB](https://dbdb.io/db/polodb) | PoloDB embedded document-oriented (JSON) DBMS written in Rust. | Document / XML | China | 2020 | Hobby, Open Source | Rust | Apache v2 |
+| [Polybase](https://dbdb.io/db/polybase) | Polybase is a document-oriented DBMS that stores data on a blockchain. | Document / XML | United States of America | 2022 | Commercial | Rust | Proprietary |
+| [Polyhedra](https://dbdb.io/db/polyhedra) | Polyhedra is an in-memory database management system. It uses an Object-Relational data model, bu... | Object-Relational | United Kingdom | 1994 | Commercial | C++ | Proprietary |
+| [Polypheny](https://dbdb.io/db/polypheny) | Polypheny is a multi-model DBMS built on top of [HSQLDB](/db/hsqldb). The DBMS supports the relat... | Relational, Document / XML, Graph | Switzerland | 2017 | Academic, Commercial, Open Source | Java | Apache v2 |
+| [PosDB](https://dbdb.io/db/posdb) | PosDB is a distributed disk-based column-store that leverages late materialization for analytical... | Relational | Russia | 2017 | Industrial Research | C++ | GPL v2 |
+| [PostgreSQL](https://dbdb.io/db/postgresql) | PostgreSQL is an object-relational database based on Postgres, developed from University of Calif... | Object-Relational | United States of America | 1986 | Academic, Open Source | C | PostgreSQL License |
+| [PouchDB](https://dbdb.io/db/pouchdb) | PouchDB is a free and open-source JavaScript DBMS inspired by Apache CouchDB (document-oriented N... | Document / XML | United States of America | 2010 | Open Source | JavaScript | Apache v2 |
+| [PranaDB](https://dbdb.io/db/pranadb) | PranaDB is a distributed streaming DBMS that supports ingestion from Kafka topics. | Relational | United Kingdom | 2022 | Open Source | Go |  |
+| [Predator](https://dbdb.io/db/predator) | Predactor was an academic object-relational DBMS developed at Cornell University during the 2000s... | Object-Relational | United States of America | 1996 | Academic, Open Source |  | GPL v2 |
+| [PrestoDB](https://dbdb.io/db/prestodb) | PrestoDB is an open source distributed SQL query engine for running interactive analytic queries ... | Column Family / Wide-Column, Relational, Key/Value, Document / XML | United States of America | 2013 | Open Source | Java | Apache v2 |
+| [PrimeBase](https://dbdb.io/db/primebase) |  | Relational | Germany |  | Commercial |  | Proprietary |
+| [PRISMA](https://dbdb.io/db/prisma) | PRISMA is purported to be the first distributed in-memory DBMS developed by the team that later w... | Relational | Netherlands | 1986 | Academic |  |  |
+| [ProfaneDB](https://dbdb.io/db/profanedb) | ProfaneDB is a object-oriented DBMS that natively stores Google Protocol Buffers data. | Object-Oriented | Switzerland | 2017 | Hobby, Open Source | C++ | GPL v3 |
+| [Prometheus](https://dbdb.io/db/prometheus) | Prometheus is an open-source time series database developed by SoundCloud, and serves as the stor... | Key/Value | Germany | 2012 | Open Source | Go | Apache v2 |
+| [Proteus](https://dbdb.io/db/proteus) | Proteus is an academic database engine designed for modern hardware. | Relational | Switzerland | 2015 | Academic |  | Proprietary |
+| [Proton](https://dbdb.io/db/proton) | Proton is a unified streaming and historical data processing engine built on ClickHouse. | Relational | United States of America | 2021 | Commercial, Open Source | C++ | Apache v2 |
+| [ProtonBase](https://dbdb.io/db/protonbase) | ProtonBase is a proprietary OLAP DBMS. | Relational, Document / XML | China | 2021 | Commercial |  | Proprietary |
+| [ProvenDB](https://dbdb.io/db/provendb) | ProvenDB is a middleware layer that provides a MongoDB-compatible interface on top of a blockchai... | Document / XML | Australia | 2018 | Commercial |  | Proprietary |
+| [PuffinDB](https://dbdb.io/db/puffindb) | PuffinDB is a hosted lakehouse query engine based on DuckDB | Relational | Croatia | 2023 | Open Source |  | Proprietary |
+| [PumpkinDB](https://dbdb.io/db/pumpkindb) | PumpkinDB is a low-level event sourcing database engine that is ACID-compliant. It is a database ... | Key/Value | Canada | 2017 | Open Source | Rust | Mozilla Public License |
+| [PupDB](https://dbdb.io/db/pupdb) | PupDB is a file-based key-value DBMS with a REST API written in Python. | Key/Value | India | 2019 | Open Source | Python | MIT |
+| [PysonDB](https://dbdb.io/db/pysondb) | PysonDB is an embedded document-oriented DBMS for Python applications. | Document / XML | India | 2020 | Hobby, Open Source | Python | MIT |
 
 ## Q
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [Qdrant](https://dbdb.io/db/qdrant) | Qdrant is a vector-oriented DBMS. | Vector | Germany | 2020 | Commercial | Rust | Apache v2 | 2023-09-12 |
-| [qikkDB](https://dbdb.io/db/qikkdb) | qikkDB is a GPU-accelerated columnar relational DBMS. | Relational | Slovakia | 2019 | Commercial, Open Source | C++ | Apache v2 | 2022-10-24 |
-| [Qizx](https://dbdb.io/db/qizx) | Qizx is a proprietary XML database that supports XQuery and XPath. | Document / XML | France | 2004 | Commercial |  | Proprietary | 2023-10-03 |
-| [ql](https://dbdb.io/db/ql) | ql is an embedded relational DBMS written in Go. | Relational | Poland | 2013 | Hobby, Open Source | Go | BSD | 2022-06-27 |
-| [QLDB](https://dbdb.io/db/qldb) | Amazon Quantum Ledger Database (QLDB) is a managed ledger database management system. Its core st... | Document / XML | United States of America | 2018 | Commercial |  | Proprietary | 2019-12-11 |
-| [Qserv](https://dbdb.io/db/qserv) | Qserv is distributed database service developed for the [Large Synoptic Survey Telescope](http://... | Relational | United States of America | 2011 | Academic, Open Source | C++ |  | 2018-06-02 |
-| [Quadcap Embeddable Database](https://dbdb.io/db/quadcap-embeddable-database) | The Quadcap Embeddable Database (QED) is a pure Java implementation of a SQL92 RDBMS and JDBC dri... | Relational | United States of America | 1999 | Commercial | Java |  | 2023-10-03 |
-| [Quadrable](https://dbdb.io/db/quadrable) | Quadrable (quadb) is an embedded multi-versioned DBMS engine that uses Merkle trees. | Key/Value | Canada | 2020 | Commercial, Open Source | C++ | BSD | 2022-06-27 |
-| [quasardb](https://dbdb.io/db/quasardb) | QuasarDB is a high-performance, distributed, column-oriented database with native time series sup... | Key/Value | France | 2008 | Commercial | C++ | Proprietary | 2022-01-03 |
-| [QuestDB](https://dbdb.io/db/questdb) | QuestDB is an open-source time-series relational database. It uses a column-oriented approach and... | Relational | United Kingdom | 2014 | Commercial, Open Source | C++, Java | Apache v2 | 2023-04-02 |
-| [Quickstep](https://dbdb.io/db/quickstep) |  | Relational | United States of America | 2013 | Academic, Open Source |  | Apache v2 | 2023-07-11 |
-| [Quickwit](https://dbdb.io/db/quickwit) | Quickwit is a search engine for cloud-based object stores (e.g., Amazon S3). It uses Tantivy to c... | Document / XML | United States of America | 2021 | Commercial, Open Source | Rust | AGPL v3 | 2024-06-03 |
-| [QuineDB](https://dbdb.io/db/quinedb) | QuineDB is a [quine](https://en.wikipedia.org/wiki/Quine_(computing)) that is also a key/value st... | Key/Value | United States of America | 2016 | Open Source | Bash | Eclipse Public License | 2019-10-22 |
-| [Quokka](https://dbdb.io/db/quokka) | Quokka is a distributed query execution engine written in Python. | Relational | United States of America | 2021 | Hobby, Open Source | Python | Apache v2 | 2023-01-06 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [Qdrant](https://dbdb.io/db/qdrant) | Qdrant is a vector-oriented DBMS. | Vector | Germany | 2020 | Commercial | Rust | Apache v2 |
+| [qikkDB](https://dbdb.io/db/qikkdb) | qikkDB is a GPU-accelerated columnar relational DBMS. | Relational | Slovakia | 2019 | Commercial, Open Source | C++ | Apache v2 |
+| [Qizx](https://dbdb.io/db/qizx) | Qizx is a proprietary XML database that supports XQuery and XPath. | Document / XML | France | 2004 | Commercial |  | Proprietary |
+| [ql](https://dbdb.io/db/ql) | ql is an embedded relational DBMS written in Go. | Relational | Poland | 2013 | Hobby, Open Source | Go | BSD |
+| [QLDB](https://dbdb.io/db/qldb) | Amazon Quantum Ledger Database (QLDB) is a managed ledger database management system. Its core st... | Document / XML | United States of America | 2018 | Commercial |  | Proprietary |
+| [Qserv](https://dbdb.io/db/qserv) | Qserv is distributed database service developed for the [Large Synoptic Survey Telescope](http://... | Relational | United States of America | 2011 | Academic, Open Source | C++ |  |
+| [Quadcap Embeddable Database](https://dbdb.io/db/quadcap-embeddable-database) | The Quadcap Embeddable Database (QED) is a pure Java implementation of a SQL92 RDBMS and JDBC dri... | Relational | United States of America | 1999 | Commercial | Java |  |
+| [Quadrable](https://dbdb.io/db/quadrable) | Quadrable (quadb) is an embedded multi-versioned DBMS engine that uses Merkle trees. | Key/Value | Canada | 2020 | Commercial, Open Source | C++ | BSD |
+| [quasardb](https://dbdb.io/db/quasardb) | QuasarDB is a high-performance, distributed, column-oriented database with native time series sup... | Key/Value | France | 2008 | Commercial | C++ | Proprietary |
+| [QuestDB](https://dbdb.io/db/questdb) | QuestDB is an open-source time-series relational database. It uses a column-oriented approach and... | Relational | United Kingdom | 2014 | Commercial, Open Source | C++, Java | Apache v2 |
+| [Quickstep](https://dbdb.io/db/quickstep) |  | Relational | United States of America | 2013 | Academic, Open Source |  | Apache v2 |
+| [Quickwit](https://dbdb.io/db/quickwit) | Quickwit is a search engine for cloud-based object stores (e.g., Amazon S3). It uses Tantivy to c... | Document / XML | United States of America | 2021 | Commercial, Open Source | Rust | AGPL v3 |
+| [QuineDB](https://dbdb.io/db/quinedb) | QuineDB is a [quine](https://en.wikipedia.org/wiki/Quine_(computing)) that is also a key/value st... | Key/Value | United States of America | 2016 | Open Source | Bash | Eclipse Public License |
+| [Quokka](https://dbdb.io/db/quokka) | Quokka is a distributed query execution engine written in Python. | Relational | United States of America | 2021 | Hobby, Open Source | Python | Apache v2 |
 
 ## R
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [R:BASE](https://dbdb.io/db/rbase) |  | Relational | United States of America | 1981 | Commercial |  | Proprietary | 2018-06-03 |
-| [RadonDB](https://dbdb.io/db/radondb) | RadonDB is an open-source distribution layer for hosting MySQL in a cloud environment. | Relational | China | 2018 | Commercial, Open Source | Go | GPL v3 | 2025-04-10 |
-| [RageDB](https://dbdb.io/db/ragedb) | RageDB is an in-memory, distributed graph DBMS. | Graph | United States of America | 2021 | Hobby, Open Source | C++ | Apache v2 | 2022-06-21 |
-| [RaimaDB](https://dbdb.io/db/raimadb) | RaimaDB is an embedded, cross-platform, small-footprint, in-memory database developed for the IoT... | Relational, Network | United States of America | 1984 | Commercial | C++ |  | 2026-01-18 |
-| [RainStor](https://dbdb.io/db/rainstor) |  |  | United Kingdom | 2004 | Commercial |  |  | 2023-10-03 |
-| [RamSQL](https://dbdb.io/db/ramsql) | RamSQL is an embedded in-memory SQL DBMS designed for ephemeral databases in testing scenarios. | Relational | France | 2014 | Hobby, Open Source | Go | BSD | 2023-09-04 |
-| [Raphtory](https://dbdb.io/db/raphtory) | Raphtory is an in-memory graph DBMS designed for analytical workloads. | Graph | United Kingdom | 2020 | Open Source | Rust | GPL v3 | 2025-01-23 |
-| [RapidsDB](https://dbdb.io/db/rapidsdb) | RapidsDB is federated DBMS middleware with an in-memory OLAP execution engine. It provides a sing... |  | China | 2014 | Commercial |  | Proprietary | 2023-06-28 |
-| [RaptorDB](https://dbdb.io/db/raptordb) | RaptorDB is a document-oriented database for the .NET environment. | Document / XML | United Kingdom | 2012 | Open Source | C# | Code Project Open License | 2023-09-25 |
-| [Rasdaman](https://dbdb.io/db/rasdaman) | Rasdaman ("raster data manager") is an array / datacube storage and query engine. Rasdaman engine... | Array / Matrix | Germany | 1989 | Commercial, Open Source | C++ | GPL v3 | 2023-06-12 |
-| [RavenDB](https://dbdb.io/db/ravendb) | RavenDB is a full-transactional NoSQL ACID-compliant database and is developed by Hibernating Rhi... | Key/Value, Document / XML | Israel | 2009 | Commercial, Open Source | C# | AGPL v3 | 2025-09-08 |
-| [RayforceDB](https://dbdb.io/db/rayforcedb) | RayforceDB is an columnar DBMS that uses a custom query Lisp language. | Relational | Ukraine | 2023 | Open Source | C | MIT | 2025-12-02 |
-| [Rdb/VMS](https://dbdb.io/db/rdbvms) |  | Relational | United States of America | 1984 | Commercial |  | Proprietary | 2024-10-31 |
-| [RDBMS](https://dbdb.io/db/rdbms) |  | Relational | United States of America | 1974 | Academic |  |  | 2018-05-17 |
-| [RDFox](https://dbdb.io/db/rdfox) | RDFox is an-in-memory RDF-based DBMS. | Triplestore / RDF | United Kingdom |  | Commercial |  | Proprietary | 2023-02-15 |
-| [ReadySet](https://dbdb.io/db/readyset) | ReadySet is a SQL-level caching middleware for PostgreSQL and MySQL. | Relational | United States of America | 2020 | Commercial | Rust | Business Source License | 2023-10-13 |
-| [Reality](https://dbdb.io/db/reality) |  |  | United Kingdom | 1973 | Commercial |  | Proprietary | 2024-10-31 |
-| [Realm](https://dbdb.io/db/realm) | Realm is an open-source and object-oriented DBMS designed for the mobile devices. It supports mul... | Object-Oriented | United States of America | 2011 | Commercial, Open Source | C++ | Apache v2 | 2023-09-24 |
-| [Red Brick](https://dbdb.io/db/red-brick) |  |  | United States of America | 1990 | Commercial |  | Proprietary | 2024-10-31 |
-| [redb](https://dbdb.io/db/redb) | redb is an embedded key-value DBMS written in Rust that uses MMAP. | Key/Value | United States of America | 2018 | Hobby, Open Source | Rust | Apache v2 | 2024-05-09 |
-| [Redcon](https://dbdb.io/db/redcon) | Redcon is a Redis-compatible DBMS written in Go. | Key/Value | United States of America | 2016 | Hobby, Open Source | Go | MIT | 2022-04-20 |
-| [RedDatabase](https://dbdb.io/db/reddatabase) | RedDatabase is a commercial fork of Firebird with additional features. | Relational | Russia | 2006 | Commercial |  | Proprietary | 2025-09-24 |
-| [Redict](https://dbdb.io/db/redict) | Redict is a hard-fork of the Redis NoSQL DBMS. | Key/Value | Netherlands | 2024 | Open Source | C | LGPL v3 | 2024-06-17 |
-| [Redis](https://dbdb.io/db/redis) | Redis ("REmote DIctionary Server") is a networked, in-memory, key-value store that can be used as... | Key/Value | Italy | 2009 | Commercial, Open Source | C | BSD | 2024-07-19 |
-| [RedisGraph](https://dbdb.io/db/redisgraph) | RedisGraph is a graph database built on [Redis](https://dbdb.io/db/redis). It is a Redis module t... | Graph | United States of America | 2018 | Commercial, Open Source | C | Server Side Public License | 2023-05-01 |
-| [RediSQL](https://dbdb.io/db/redisql) | RediSQL is a SQL execution layer on top of Redis. | Relational | Italy | 2016 | Commercial, Open Source | Rust | AGPL v3 | 2020-01-01 |
-| [RedixDB](https://dbdb.io/db/redixdb) | RedixDB is a clone of [Redis](/db/redis) written in Go with a pluggable storage manager API. | Key/Value | Egypt | 2018 | Hobby, Open Source | Go |  | 2022-06-27 |
-| [Redshift](https://dbdb.io/db/redshift) | Amazon Redshift is a data warehouse product developed by Amazon and is a part of Amazon's cloud p... | Relational | United States of America | 2012 | Commercial | C, C++ | Proprietary | 2024-12-05 |
-| [RedStore](https://dbdb.io/db/redstore) | RedStore is a RDF triplestore DBMS written in C. | Triplestore / RDF | United Kingdom | 2009 | Open Source | C | GPL v3 | 2022-01-08 |
-| [ReductStore](https://dbdb.io/db/reductstore) | ReductStore is a time-series database designed specifically for blob data, written in C++ and Rust. | Key/Value | Germany | 2021 | Commercial, Open Source | C++, Rust | Mozilla Public License | 2023-05-07 |
-| [Redwood](https://dbdb.io/db/redwood) | Redwood is a peer-to-peer DBMS. | Key/Value | United States of America | 2019 | Hobby, Open Source | Go | MIT | 2022-06-27 |
-| [RefineDB](https://dbdb.io/db/refinedb) | RefineDB is document DBMS that runs on top of [FoundationDB](/db/foundationdb). | Document / XML | China | 2021 | Hobby, Open Source | Rust | MIT | 2023-09-28 |
-| [Regatta](https://dbdb.io/db/regatta) | Regatta is a proprietary cloud data warehouse HTAP DBMS designed to support both transactional an... | Relational | Israel | 2020 | Commercial |  | Proprietary | 2024-10-04 |
-| [Rel](https://dbdb.io/db/rel) | Rel is a free, open-source, true relational database management system with an advanced query lan... | Relational | United Kingdom | 2004 | Academic, Educational, Open Source | Java | Apache v2 | 2022-05-09 |
-| [RelationalAI](https://dbdb.io/db/relationalai) | RelationalAI is a cloud-native knowledge graph database system. | Relational, Graph | United States of America | 2018 | Commercial | Julia | Proprietary | 2023-09-25 |
-| [RelationalCloud](https://dbdb.io/db/relationalcloud) |  | Relational | United States of America | 2010 | Academic |  |  | 2019-07-19 |
-| [Relatude.DB](https://dbdb.io/db/relatudedb) | Relatude.DB is an C#-native graph-oriented DBMS designed for web applications (e.g., content mana... | Graph, Object-Oriented | Norway | 2025 | Open Source | C# | MIT | 2026-01-20 |
-| [Relaxo](https://dbdb.io/db/relaxo) | Relaxo is a transactional document database built on top of git. | Document / XML | New Zealand | 2012 | Hobby, Open Source | Ruby | MIT | 2023-10-25 |
-| [ResilientDB](https://dbdb.io/db/resilientdb) | ResilientDB is a blockchain DBMS. | Document / XML | United States of America | 2019 | Academic, Open Source | C++ | Apache v2 | 2023-09-22 |
-| [Resin Cache](https://dbdb.io/db/resin-cache) |  |  | United States of America | 1998 | Commercial, Open Source | Java | Proprietary | 2018-06-03 |
-| [RethinkDB](https://dbdb.io/db/rethinkdb) | RethinkDB is an open-source JSON database management system written in C++. It is intended for th... | Document / XML | United States of America | 2009 | Open Source | Bash, C++, Java, JavaScript, Python | Apache v2 | 2022-06-28 |
-| [RexDB](https://dbdb.io/db/rexdb) | RexDB is an integrated registry data management platform created by Prometheus Research, LLC, aim... | Object-Relational | United States of America | 2006 | Open Source | JavaScript, Python | AGPL v3 | 2024-10-31 |
-| [RhizomeDB](https://dbdb.io/db/rhizomedb) | RhizomeDB is a local-first DBMS based on CRDTs over IPFS. | Relational | United States of America | 2022 | Open Source | Rust | Apache v2, MIT | 2024-04-09 |
-| [Riak](https://dbdb.io/db/riak) | Riak is a distributed key-value store DBMS. | Key/Value | United States of America | 2010 | Commercial, Open Source | Erlang | Apache v2 | 2022-06-28 |
-| [RisingLight](https://dbdb.io/db/risinglight) | RisingLight is an educational OLAP DBMS written in Rust. | Relational | United States of America | 2021 | Educational, Open Source | Rust | Apache v2 | 2022-08-14 |
-| [RisingWave](https://dbdb.io/db/risingwave) | RisingWave is an open-source distributed streaming database targeting real-time analytics and eve... | Relational | United States of America | 2021 | Commercial, Open Source | Rust | Apache v2 | 2023-09-20 |
-| [Rockall-DB](https://dbdb.io/db/rockall-db) | Rockall-DB is an C++ library that provides an embedded transactional DBMS similar to software-tra... |  | United Kingdom |  | Commercial | C++ | Proprietary | 2020-09-20 |
-| [RocksDB](https://dbdb.io/db/rocksdb) | RocksDB is an [embedded database](https://en.wikipedia.org/wiki/Embedded_database) using [key-val... | Key/Value | United States of America | 2012 | Open Source | C, C++ | Apache v2 | 2024-06-17 |
-| [Rockset](https://dbdb.io/db/rockset) | Rockset is a cloud-based search and analytics database-as-a-service offering. | Relational | United States of America | 2016 | Commercial | C++ | Proprietary | 2025-04-15 |
-| [ROMA](https://dbdb.io/db/roma) | Roma is a decentralized distributed key-value store written in Ruby that is designed to be compat... | Key/Value | Japan | 2009 | Commercial, Open Source | Ruby |  | 2020-11-26 |
-| [RonDB](https://dbdb.io/db/rondb) | RonDB is a distributed key-value store that supports. It based on a fork of [MySQL NDB Cluster](/... | Relational, Key/Value | Sweden | 2020 | Open Source | C++ | GPL v2 | 2024-03-15 |
-| [Rosebase](https://dbdb.io/db/rosebase) | Rosebase was an early SQL DBMS from the 1990s. It was designed to support NeXTSTEP applications w... | Relational | United States of America | 1992 | Commercial | Objective-C | Proprietary | 2024-11-06 |
-| [RoseDB](https://dbdb.io/db/rosedb) | RoseDB is a key-value DBMS that is compatible with the [Redis](/db/redis) wire protocol. | Key/Value | China | 2020 | Hobby, Open Source | Go | MIT | 2023-09-28 |
-| [rqlite](https://dbdb.io/db/rqlite) | rqlite is a lightweight, distributed DBMS which uses [SQLite](https://www.sqlite.org/) as its sto... | Relational | United States of America | 2014 | Open Source | Go | MIT | 2022-12-20 |
-| [RubatoDB](https://dbdb.io/db/rubatodb) | RubatoDB is an academic database project started by Dr. Li-Yan Yuan at University of Alberta, Can... | Key/Value | Canada | 2014 | Academic |  |  | 2022-06-28 |
-| [RudraDB](https://dbdb.io/db/rudradb) | RudraDB is a proprietary document-oriented DBMS with vector search support. | Document / XML, Vector | United States of America | 2025 | Commercial |  | Proprietary | 2025-09-15 |
-| [RxDB](https://dbdb.io/db/rxdb) | RxDB is an offline-first database for storing JSON documents. It uses PouchDB or LokiJS as its ba... | Document / XML | Germany | 2016 | Open Source | JavaScript | Apache v2 | 2022-06-28 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [R:BASE](https://dbdb.io/db/rbase) |  | Relational | United States of America | 1981 | Commercial |  | Proprietary |
+| [RadonDB](https://dbdb.io/db/radondb) | RadonDB is an open-source distribution layer for hosting MySQL in a cloud environment. | Relational | China | 2018 | Commercial, Open Source | Go | GPL v3 |
+| [RageDB](https://dbdb.io/db/ragedb) | RageDB is an in-memory, distributed graph DBMS. | Graph | United States of America | 2021 | Hobby, Open Source | C++ | Apache v2 |
+| [RaimaDB](https://dbdb.io/db/raimadb) | RaimaDB is an embedded, cross-platform, small-footprint, in-memory database developed for the IoT... | Relational, Network | United States of America | 1984 | Commercial | C++ |  |
+| [RainStor](https://dbdb.io/db/rainstor) |  |  | United Kingdom | 2004 | Commercial |  |  |
+| [RamSQL](https://dbdb.io/db/ramsql) | RamSQL is an embedded in-memory SQL DBMS designed for ephemeral databases in testing scenarios. | Relational | France | 2014 | Hobby, Open Source | Go | BSD |
+| [Raphtory](https://dbdb.io/db/raphtory) | Raphtory is an in-memory graph DBMS designed for analytical workloads. | Graph | United Kingdom | 2020 | Open Source | Rust | GPL v3 |
+| [RapidsDB](https://dbdb.io/db/rapidsdb) | RapidsDB is federated DBMS middleware with an in-memory OLAP execution engine. It provides a sing... |  | China | 2014 | Commercial |  | Proprietary |
+| [RaptorDB](https://dbdb.io/db/raptordb) | RaptorDB is a document-oriented database for the .NET environment. | Document / XML | United Kingdom | 2012 | Open Source | C# | Code Project Open License |
+| [Rasdaman](https://dbdb.io/db/rasdaman) | Rasdaman ("raster data manager") is an array / datacube storage and query engine. Rasdaman engine... | Array / Matrix | Germany | 1989 | Commercial, Open Source | C++ | GPL v3 |
+| [RavenDB](https://dbdb.io/db/ravendb) | RavenDB is a full-transactional NoSQL ACID-compliant database and is developed by Hibernating Rhi... | Key/Value, Document / XML | Israel | 2009 | Commercial, Open Source | C# | AGPL v3 |
+| [RayforceDB](https://dbdb.io/db/rayforcedb) | RayforceDB is an columnar DBMS that uses a custom query Lisp language. | Relational | Ukraine | 2023 | Open Source | C | MIT |
+| [Rdb/VMS](https://dbdb.io/db/rdbvms) |  | Relational | United States of America | 1984 | Commercial |  | Proprietary |
+| [RDBMS](https://dbdb.io/db/rdbms) |  | Relational | United States of America | 1974 | Academic |  |  |
+| [RDFox](https://dbdb.io/db/rdfox) | RDFox is an-in-memory RDF-based DBMS. | Triplestore / RDF | United Kingdom |  | Commercial |  | Proprietary |
+| [ReadySet](https://dbdb.io/db/readyset) | ReadySet is a SQL-level caching middleware for PostgreSQL and MySQL. | Relational | United States of America | 2020 | Commercial | Rust | Business Source License |
+| [Reality](https://dbdb.io/db/reality) |  |  | United Kingdom | 1973 | Commercial |  | Proprietary |
+| [Realm](https://dbdb.io/db/realm) | Realm is an open-source and object-oriented DBMS designed for the mobile devices. It supports mul... | Object-Oriented | United States of America | 2011 | Commercial, Open Source | C++ | Apache v2 |
+| [Red Brick](https://dbdb.io/db/red-brick) |  |  | United States of America | 1990 | Commercial |  | Proprietary |
+| [redb](https://dbdb.io/db/redb) | redb is an embedded key-value DBMS written in Rust that uses MMAP. | Key/Value | United States of America | 2018 | Hobby, Open Source | Rust | Apache v2 |
+| [Redcon](https://dbdb.io/db/redcon) | Redcon is a Redis-compatible DBMS written in Go. | Key/Value | United States of America | 2016 | Hobby, Open Source | Go | MIT |
+| [RedDatabase](https://dbdb.io/db/reddatabase) | RedDatabase is a commercial fork of Firebird with additional features. | Relational | Russia | 2006 | Commercial |  | Proprietary |
+| [Redict](https://dbdb.io/db/redict) | Redict is a hard-fork of the Redis NoSQL DBMS. | Key/Value | Netherlands | 2024 | Open Source | C | LGPL v3 |
+| [Redis](https://dbdb.io/db/redis) | Redis ("REmote DIctionary Server") is a networked, in-memory, key-value store that can be used as... | Key/Value | Italy | 2009 | Commercial, Open Source | C | BSD |
+| [RedisGraph](https://dbdb.io/db/redisgraph) | RedisGraph is a graph database built on [Redis](https://dbdb.io/db/redis). It is a Redis module t... | Graph | United States of America | 2018 | Commercial, Open Source | C | Server Side Public License |
+| [RediSQL](https://dbdb.io/db/redisql) | RediSQL is a SQL execution layer on top of Redis. | Relational | Italy | 2016 | Commercial, Open Source | Rust | AGPL v3 |
+| [RedixDB](https://dbdb.io/db/redixdb) | RedixDB is a clone of [Redis](/db/redis) written in Go with a pluggable storage manager API. | Key/Value | Egypt | 2018 | Hobby, Open Source | Go |  |
+| [Redshift](https://dbdb.io/db/redshift) | Amazon Redshift is a data warehouse product developed by Amazon and is a part of Amazon's cloud p... | Relational | United States of America | 2012 | Commercial | C, C++ | Proprietary |
+| [RedStore](https://dbdb.io/db/redstore) | RedStore is a RDF triplestore DBMS written in C. | Triplestore / RDF | United Kingdom | 2009 | Open Source | C | GPL v3 |
+| [ReductStore](https://dbdb.io/db/reductstore) | ReductStore is a time-series database designed specifically for blob data, written in C++ and Rust. | Key/Value | Germany | 2021 | Commercial, Open Source | C++, Rust | Mozilla Public License |
+| [Redwood](https://dbdb.io/db/redwood) | Redwood is a peer-to-peer DBMS. | Key/Value | United States of America | 2019 | Hobby, Open Source | Go | MIT |
+| [RefineDB](https://dbdb.io/db/refinedb) | RefineDB is document DBMS that runs on top of [FoundationDB](/db/foundationdb). | Document / XML | China | 2021 | Hobby, Open Source | Rust | MIT |
+| [Regatta](https://dbdb.io/db/regatta) | Regatta is a proprietary cloud data warehouse HTAP DBMS designed to support both transactional an... | Relational | Israel | 2020 | Commercial |  | Proprietary |
+| [Rel](https://dbdb.io/db/rel) | Rel is a free, open-source, true relational database management system with an advanced query lan... | Relational | United Kingdom | 2004 | Academic, Educational, Open Source | Java | Apache v2 |
+| [RelationalAI](https://dbdb.io/db/relationalai) | RelationalAI is a cloud-native knowledge graph database system. | Relational, Graph | United States of America | 2018 | Commercial | Julia | Proprietary |
+| [RelationalCloud](https://dbdb.io/db/relationalcloud) |  | Relational | United States of America | 2010 | Academic |  |  |
+| [Relatude.DB](https://dbdb.io/db/relatudedb) | Relatude.DB is an C#-native graph-oriented DBMS designed for web applications (e.g., content mana... | Graph, Object-Oriented | Norway | 2025 | Open Source | C# | MIT |
+| [Relaxo](https://dbdb.io/db/relaxo) | Relaxo is a transactional document database built on top of git. | Document / XML | New Zealand | 2012 | Hobby, Open Source | Ruby | MIT |
+| [ResilientDB](https://dbdb.io/db/resilientdb) | ResilientDB is a blockchain DBMS. | Document / XML | United States of America | 2019 | Academic, Open Source | C++ | Apache v2 |
+| [Resin Cache](https://dbdb.io/db/resin-cache) |  |  | United States of America | 1998 | Commercial, Open Source | Java | Proprietary |
+| [RethinkDB](https://dbdb.io/db/rethinkdb) | RethinkDB is an open-source JSON database management system written in C++. It is intended for th... | Document / XML | United States of America | 2009 | Open Source | Bash, C++, Java, JavaScript, Python | Apache v2 |
+| [RexDB](https://dbdb.io/db/rexdb) | RexDB is an integrated registry data management platform created by Prometheus Research, LLC, aim... | Object-Relational | United States of America | 2006 | Open Source | JavaScript, Python | AGPL v3 |
+| [RhizomeDB](https://dbdb.io/db/rhizomedb) | RhizomeDB is a local-first DBMS based on CRDTs over IPFS. | Relational | United States of America | 2022 | Open Source | Rust | Apache v2, MIT |
+| [Riak](https://dbdb.io/db/riak) | Riak is a distributed key-value store DBMS. | Key/Value | United States of America | 2010 | Commercial, Open Source | Erlang | Apache v2 |
+| [RisingLight](https://dbdb.io/db/risinglight) | RisingLight is an educational OLAP DBMS written in Rust. | Relational | United States of America | 2021 | Educational, Open Source | Rust | Apache v2 |
+| [RisingWave](https://dbdb.io/db/risingwave) | RisingWave is an open-source distributed streaming database targeting real-time analytics and eve... | Relational | United States of America | 2021 | Commercial, Open Source | Rust | Apache v2 |
+| [Rockall-DB](https://dbdb.io/db/rockall-db) | Rockall-DB is an C++ library that provides an embedded transactional DBMS similar to software-tra... |  | United Kingdom |  | Commercial | C++ | Proprietary |
+| [RocksDB](https://dbdb.io/db/rocksdb) | RocksDB is an [embedded database](https://en.wikipedia.org/wiki/Embedded_database) using [key-val... | Key/Value | United States of America | 2012 | Open Source | C, C++ | Apache v2 |
+| [Rockset](https://dbdb.io/db/rockset) | Rockset is a cloud-based search and analytics database-as-a-service offering. | Relational | United States of America | 2016 | Commercial | C++ | Proprietary |
+| [ROMA](https://dbdb.io/db/roma) | Roma is a decentralized distributed key-value store written in Ruby that is designed to be compat... | Key/Value | Japan | 2009 | Commercial, Open Source | Ruby |  |
+| [RonDB](https://dbdb.io/db/rondb) | RonDB is a distributed key-value store that supports. It based on a fork of [MySQL NDB Cluster](/... | Relational, Key/Value | Sweden | 2020 | Open Source | C++ | GPL v2 |
+| [Rosebase](https://dbdb.io/db/rosebase) | Rosebase was an early SQL DBMS from the 1990s. It was designed to support NeXTSTEP applications w... | Relational | United States of America | 1992 | Commercial | Objective-C | Proprietary |
+| [RoseDB](https://dbdb.io/db/rosedb) | RoseDB is a key-value DBMS that is compatible with the [Redis](/db/redis) wire protocol. | Key/Value | China | 2020 | Hobby, Open Source | Go | MIT |
+| [rqlite](https://dbdb.io/db/rqlite) | rqlite is a lightweight, distributed DBMS which uses [SQLite](https://www.sqlite.org/) as its sto... | Relational | United States of America | 2014 | Open Source | Go | MIT |
+| [RubatoDB](https://dbdb.io/db/rubatodb) | RubatoDB is an academic database project started by Dr. Li-Yan Yuan at University of Alberta, Can... | Key/Value | Canada | 2014 | Academic |  |  |
+| [RudraDB](https://dbdb.io/db/rudradb) | RudraDB is a proprietary document-oriented DBMS with vector search support. | Document / XML, Vector | United States of America | 2025 | Commercial |  | Proprietary |
+| [RxDB](https://dbdb.io/db/rxdb) | RxDB is an offline-first database for storing JSON documents. It uses PouchDB or LokiJS as its ba... | Document / XML | Germany | 2016 | Open Source | JavaScript | Apache v2 |
 
 ## S
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [SableDb](https://dbdb.io/db/sabledb) | SableDb is a NoSQL key-value store DBMS that supports the Redis wire protocol. | Key/Value | Israel | 2024 | Hobby, Open Source | Rust | BSD | 2024-04-10 |
-| [Sadas Engine](https://dbdb.io/db/sadas-engine) |  | Relational | Italy |  | Commercial |  | Proprietary | 2018-05-13 |
-| [SapphireDb](https://dbdb.io/db/sapphiredb) | SapphireDb is a object-oriented DBMS designed for ASP.net and JavaScript applications. | Object-Oriented | Germany | 2018 | Hobby, Open Source | C# | MIT | 2023-09-28 |
-| [Scalaris](https://dbdb.io/db/scalaris) |  | Key/Value | Germany |  | Academic, Open Source | Erlang | Apache v2 | 2018-04-28 |
-| [ScaleBase](https://dbdb.io/db/scalebase) |  |  | United States of America | 2009 | Commercial |  |  | 2023-10-01 |
-| [ScaleDB](https://dbdb.io/db/scaledb) | ScaleDB was a shared-disk storage manager for MySQL. |  | United States of America | 2005 | Commercial |  | Proprietary | 2023-08-08 |
-| [ScaleOut StateServer](https://dbdb.io/db/scaleout-stateserver) | ScaleOut StateServer is an in-memory distributed cache. | Key/Value | United States of America | 2005 | Commercial | C | Proprietary | 2022-06-28 |
-| [ScalienDB](https://dbdb.io/db/scaliendb) | ScalienDB was a distributed key/value store DBMS that supported transactions developed in the ear... | Key/Value | Hungary | 2010 | Commercial, Open Source | C++ | AGPL v3 | 2022-10-30 |
-| [SchemafreeSQL](https://dbdb.io/db/schemafreesql) | SchemafreeSQL is a document-oriented cloud-based DBMS that supports SQL. | Document / XML | United States of America | 2012 | Commercial |  |  | 2022-06-28 |
-| [SchoonerSQL](https://dbdb.io/db/schoonersql) | SchoonerSQL was a repackaged MySQL distribution that used a proprietary fork of the InnoDB storag... | Relational | United States of America | 2007 | Commercial | C++ | Proprietary | 2024-10-04 |
-| [SciDB](https://dbdb.io/db/scidb) | SciDB is a multi-dimensional array DBMS designed for scientific workloads and data sets. | Array / Matrix | United States of America | 2008 | Academic, Commercial, Open Source | C++ | AGPL v3, Proprietary | 2024-12-06 |
-| [ScimoreDB](https://dbdb.io/db/scimoredb) | ScimoreDB is a relational distributed database for Windows that runs on commodity hardware. It is... | Relational | Denmark | 2005 | Commercial |  | Proprietary | 2018-05-28 |
-| [ScopeDB](https://dbdb.io/db/scopedb) | ScopeDB is a propietary DBMS written in Rust. | Relational | China | 2024 | Commercial | Rust | Proprietary | 2025-09-17 |
-| [ScratchDB](https://dbdb.io/db/scratchdb) | ScratchDB is a middleware that provides a hosted ClickHouse service. | Document / XML | United States of America | 2023 | Commercial, Open Source | Go | AGPL v3 | 2023-10-29 |
-| [Scuba](https://dbdb.io/db/scuba) | Scuba is a distributed in-memory database built at Facebook. It is a time-series data analysis da... | Relational | United States of America | 2013 | Internal / Non-Public |  | Proprietary | 2022-06-28 |
-| [Scylla](https://dbdb.io/db/scylla) | ScyllaDB is an open-source distributed wide-column NoSQL database offering high availability, sca... | Column Family / Wide-Column, Key/Value | Israel | 2014 | Commercial, Open Source | C++ | AGPL v3 | 2022-11-10 |
-| [SDB](https://dbdb.io/db/sdb) | SDB ("string database") is a key/value, embedded database engine based on the [cdb](/db/cdb) disk... | Relational, Document / XML | Spain |  | Open Source | C | MIT | 2019-01-01 |
-| [SDD-1](https://dbdb.io/db/sdd-1) |  |  | United States of America |  | Industrial Research |  |  | 2018-06-09 |
-| [Seafowl](https://dbdb.io/db/seafowl) | Seafowl is an analytical database. | Relational | United Kingdom | 2022 | Commercial, Open Source | Rust | Apache v2 | 2023-10-25 |
-| [SearchBlox](https://dbdb.io/db/searchblox) |  |  | United States of America | 2003 | Commercial |  |  | 2018-06-09 |
-| [Sedna](https://dbdb.io/db/sedna) | Sedna is an XML database management system that supports XQuery. | Document / XML | Russia | 2003 | Academic, Open Source | C++ | Apache v2 | 2023-09-28 |
-| [SenseiDB](https://dbdb.io/db/senseidb) | SenseiDB is a distributed database that supports the backend of LinkedIn homepage and LinkedIn Si... | Relational | United States of America | 2012 | Open Source | Java | Apache v2 | 2022-01-09 |
-| [Sequins](https://dbdb.io/db/sequins) |  | Key/Value | United States of America | 2014 | Open Source | Go | MIT | 2018-05-13 |
-| [SequoiaDB](https://dbdb.io/db/sequoiadb) | SequoiaDB is a distributed relational database with a storage layer and a computing layer. The st... | Document / XML | China | 2011 | Commercial, Open Source | C++ | AGPL v3 | 2022-01-09 |
-| [SereneDB](https://dbdb.io/db/serenedb) | SereneDB is a search analytics database designed for real-time online analytical processing workl... | Relational | Germany | 2024 | Commercial | C++ | Apache v2 | 2025-12-10 |
-| [Serenity](https://dbdb.io/db/serenity) | Serenity implements basic Redis commands and extends them with support of Consistent Cursors, ACI... |  | Russia | 2015 | Hobby, Open Source | C |  | 2023-09-28 |
-| [Sesame](https://dbdb.io/db/sesame) |  | Triplestore / RDF | Netherlands | 1997 | Open Source | Java | BSD | 2018-06-04 |
-| [ShannonBase](https://dbdb.io/db/shannonbase) | ShannonBase is a repackaged MySQL DBMS that uses a fractured mirror approach with a custom in-mem... | Relational, Vector | China | 2024 | Commercial, Open Source | C++ | GPL v2 | 2025-09-24 |
-| [ShardingSphere](https://dbdb.io/db/shardingsphere) | Apache ShardingSphere is positioned as a Database Plus, and aims at building a new criterion and ... | Relational | China | 2016 | Open Source | Java | Apache v2 | 2022-01-24 |
-| [ShareBase](https://dbdb.io/db/sharebase) |  |  | United States of America | 1979 | Commercial |  | Proprietary | 2024-10-31 |
-| [SharedDB](https://dbdb.io/db/shareddb) | SharedDB is a relational database that is designed to handle large and complex transactional and ... | Relational | Switzerland | 2012 | Academic |  |  | 2018-06-09 |
-| [Shore](https://dbdb.io/db/shore) |  |  | United States of America |  | Academic, Open Source |  |  | 2018-06-09 |
-| [Shore-MT](https://dbdb.io/db/shore-mt) | Shore-MT is a multi-threaded version of the [Shore](/db/shore) storage manager developed at Carne... |  | United States of America | 2007 | Commercial, Open Source | C |  | 2020-04-14 |
-| [shsql](https://dbdb.io/db/shsql) | shsql is a command-line SQL DBMS that stores data in flat files. | Relational |  | 2002 | Open Source | Bash | GPL v2 | 2021-02-03 |
-| [Siaqodb](https://dbdb.io/db/siaqodb) | Siaqodb is a NoSQL embedded document-oriented DBMS designed for .NET environments. | Document / XML | United States of America |  | Commercial | C# |  | 2025-04-10 |
-| [SignalDB](https://dbdb.io/db/signaldb) | SignalDB is an embedded JavaScript DBMS inspired by MongoDB. | Document / XML | Germany | 2023 | Hobby, Open Source | TypeScript | MIT | 2023-10-27 |
-| [Silo](https://dbdb.io/db/silo) | Silo is an in-memory database system. Silo tries to avoid all kinds of contention points by using... | Relational | United States of America | 2013 | Academic, Open Source | C++, Python | MIT | 2018-11-06 |
-| [SimpleDB](https://dbdb.io/db/simpledb) | SimpleDB is a distributed NoSQL database. It provides simple querying of structured data and requ... | Key/Value | United States of America | 2007 | Commercial | Erlang | Proprietary | 2025-02-16 |
-| [SingleStore](https://dbdb.io/db/singlestore) | SingleStore is a distributed, cloud-native database that can handle transactional and analytical ... | Relational, Key/Value, Document / XML, Object-Oriented, Multi-Value, Vector | United States of America | 2011 | Commercial | C++ | Proprietary | 2025-12-15 |
-| [Siodb](https://dbdb.io/db/siodb) | Siodb is a SQL relational DBMS that supports end-to-end encryption. | Relational | Switzerland | 2018 | Commercial | C++ |  | 2019-11-07 |
-| [Sir.DB](https://dbdb.io/db/sirdb) | Sir.DB is a document-oriented DBMS that organizes JSON documents on the local filesystem. | Document / XML | Hong Kong | 2020 | Hobby, Open Source | JavaScript | MIT | 2022-06-28 |
-| [SiriDB](https://dbdb.io/db/siridb) | SiriDB is a time-series DBMS. |  | Netherlands | 2016 | Commercial, Open Source | C | MIT | 2022-06-28 |
-| [Sirius](https://dbdb.io/db/sirius) | Sirius is a GPU-native query engine that integrates with DuckDB via the standard Substrait query ... | Relational | United States of America | 2024 | Open Source | C++ | Apache v2 | 2026-02-07 |
-| [SirixDB](https://dbdb.io/db/sirixdb) | Sirix is a log-structured XML database system with copy-on-write semantics. | Document / XML | Germany | 2012 | Academic, Open Source | Java, Kotlin | BSD | 2022-06-28 |
-| [SKDB](https://dbdb.io/db/skdb) | SKDB is a relational DBMS that support continuous query execution with notifications. | Relational | United States of America | 2022 | Commercial | Skip | MIT | 2024-02-23 |
-| [SkeletonDB](https://dbdb.io/db/skeletondb) | SkeletonDB is a lock-less, thread-safe in memory MVCC database storage engine written in Go. |  | Canada | 2016 | Open Source | Go | MIT | 2023-09-28 |
-| [SKSQL](https://dbdb.io/db/sksql) | SKSQL is a relational database engine designed for Node.js. | Relational | Spain | 2021 | Hobby, Open Source | TypeScript | MIT | 2022-10-27 |
-| [SkyDB](https://dbdb.io/db/skydb) | Sky is designed for analytics on behavioral data (e.g., clickstream and log data). |  | United States of America | 2013 | Open Source |  |  | 2018-05-24 |
-| [Skyrise](https://dbdb.io/db/skyrise) | Skyrise is a serverless query processor for interactive in-situ analytics on cold data in cloud s... | Relational | Germany | 2019 | Academic, Open Source | C++ | MIT | 2025-06-24 |
-| [Skytable](https://dbdb.io/db/skytable) | Skytable is a key-value DBMS written in Rust. | Key/Value | United States of America | 2020 | Open Source | Rust | AGPL v3 | 2023-12-11 |
-| [SlateDB](https://dbdb.io/db/slatedb) | SlateDB is an embedded key-value DBMS designed to for object stores. Its storage architecture is ... | Key/Value | United States of America | 2024 | Hobby, Open Source | Rust | Apache v2 | 2024-10-04 |
-| [Sled](https://dbdb.io/db/sled) | Sled is an embedded key-value store written in Rust. It provides atomic single-key operations, in... | Key/Value | Germany | 2016 | Open Source | Rust | Apache v2, MIT | 2022-06-28 |
-| [SleekDB](https://dbdb.io/db/sleekdb) | SleekDB is a NoSQL database written in PHP that stores data in plain JSON files. | Document / XML | Bangladesh | 2018 | Open Source | PHP | MIT | 2021-01-30 |
-| [SlicingDice](https://dbdb.io/db/slicingdice) | SlicingDice is an analytical database-as-a-service. |  | Brazil | 2015 | Commercial | Java | Proprietary | 2023-08-08 |
-| [Slumber DB](https://dbdb.io/db/slumber-db) | The JSON database for REST and Websocket storage | Key/Value | United States of America | 2014 | Open Source | Java | Apache v2 | 2019-07-20 |
-| [SlyceIO](https://dbdb.io/db/slyceio) | SlyceIO is a document-oriented database-as-a-service offering. | Document / XML | United Kingdom | 2023 | Commercial |  | Proprietary | 2023-08-17 |
-| [SmallSQL](https://dbdb.io/db/smallsql) | SmallSQL is a German desktop-oriented database engine. SmallSQL is built upon the belief that dat... | Relational | Germany | 2005 | Open Source | Java | LGPL v3 | 2018-12-31 |
-| [Sneller](https://dbdb.io/db/sneller) | Sneller is a vectorized SQL query engine for JSON datafiles on cloud storage. | Document / XML | United States of America | 2022 | Commercial, Open Source | Go | AGPL v3 | 2022-06-28 |
-| [Snowflake](https://dbdb.io/db/snowflake) | Snowflake is a cloud-based database and is currently offered as a pay-as-you-go service in the Am... | Relational, Document / XML | United States of America | 2013 | Commercial | C++, Java | Proprietary | 2023-07-10 |
-| [solidDB](https://dbdb.io/db/soliddb) | solidDB is a relational "SQL Database" with persistent in-memory - and on-disk tables. It provide... | Relational | Finland | 1992 | Commercial | C, Java | Proprietary | 2024-11-06 |
-| [Solr](https://dbdb.io/db/solr) | Solr is an open source NoSQL enterprise search platform built on Apache Lucene. Supporting distri... | Document / XML | United States of America | 2004 | Open Source | Java | Apache v2 | 2022-12-05 |
-| [sones GraphDB](https://dbdb.io/db/sones-graphdb) | sones GraphDB was a graph database system developed in Germany. | Graph | Germany | 2007 | Commercial, Open Source | C# | AGPL v3 | 2023-10-08 |
-| [Sonnerie](https://dbdb.io/db/sonnerie) | Sonnerie is a transactional time-series DBMS written in Rust. | Relational | United States of America |  | Open Source | Rust | BSD | 2023-09-28 |
-| [Sophia](https://dbdb.io/db/sophia) |  |  | Russia |  |  |  | BSD | 2018-04-21 |
-| [SpaceTime](https://dbdb.io/db/spacetime) | SpaceTime is a relational DBMS designed for spatiotemporal analytical workloads. | Relational | Croatia | 2020 | Commercial | C++ | Proprietary | 2024-02-14 |
-| [SpacetimeDB](https://dbdb.io/db/spacetimedb) | SpacetimeDB is a relational DBMS that supports executing application logic as stored procedures. | Relational | United States of America | 2023 | Commercial, Open Source |  | Business Source License | 2024-10-10 |
-| [Spark SQL](https://dbdb.io/db/spark-sql) | Spark SQL works as a module in Apache Spark to integrate relational processing with Spark's API. ... |  | United States of America | 2014 | Open Source |  | Apache v2 | 2022-06-27 |
-| [SparkleDB](https://dbdb.io/db/sparkledb) |  | Graph | Norway |  | Commercial |  | Proprietary | 2018-05-13 |
-| [Sparksee](https://dbdb.io/db/sparksee) | Sparksee is a high performance native graph database management system developed by Sparsity Tech... | Graph, Object-Oriented | Spain | 2006 | Commercial, Open Source | C++ |  | 2019-12-11 |
-| [SparrowDB](https://dbdb.io/db/sparrowdb) | SparrowDB is an append-only object database that supports server-side image processing. | Key/Value | Brazil | 2016 | Open Source | Go | MIT | 2023-09-28 |
-| [Speedb](https://dbdb.io/db/speedb) | Speedb is an embedded key/value storage engine based on RocksDB. | Key/Value | Israel | 2020 | Commercial |  | Proprietary | 2024-10-31 |
-| [Speedy](https://dbdb.io/db/speedy) | Speedy was an in-memory relational embedded DBMS that supported SQL. | Relational | Austria |  | Hobby, Open Source | C |  | 2023-10-01 |
-| [Sphinx](https://dbdb.io/db/sphinx) | Sphinx is a standalone full-text search engine whose goal is to provide fast and relevant full-te... |  | United States of America | 2001 | Commercial, Open Source | C++ | GPL v2 | 2018-12-03 |
-| [SpiceDB](https://dbdb.io/db/spicedb) | SpiceDB is a DBMS middleware for managing fine-grained permissions on top of relational DBMSs. | Object-Oriented | United States of America | 2021 | Commercial, Open Source | Go | Apache v2 | 2024-05-03 |
-| [Splice Machine](https://dbdb.io/db/splice-machine) | Splice Machine (also called SpliceSQL) is a SQL DBMS built on top of HBase and SparkSQL. All quer... |  | United States of America | 2012 | Commercial, Open Source | Java | AGPL v3 | 2022-06-28 |
-| [SplinterDB](https://dbdb.io/db/splinterdb) | SplinterDB is an embedded key-value DBMS from VMware Research. | Key/Value | United States of America | 2018 | Industrial Research, Open Source | C | Apache v2 | 2022-09-28 |
-| [Splunk](https://dbdb.io/db/splunk) | Splunk is a database system designed for extracting structure and analyzing machine-generated dat... | Key/Value | United States of America | 2002 | Commercial | C++ | Proprietary | 2023-09-24 |
-| [SpreadsheetDB](https://dbdb.io/db/spreadsheetdb) | SpreadsheetDB was a database-as-a-service that used a JavaScript-based spreadsheet front-end usin... | Document / XML | France | 2017 | Commercial | Go | Proprietary | 2022-06-28 |
-| [SQL Anywhere](https://dbdb.io/db/sql-anywhere) | SQL Anywhere is a proprietary relational DBMS. | Relational | Canada | 1992 | Commercial |  | Proprietary | 2023-09-24 |
-| [SQL Server](https://dbdb.io/db/sql-server) | Microsoft SQL Server (MSSQL) is a commercial DBMS supporting both structured and unstructured dat... | Relational | United States of America | 1988 | Commercial | C++ | Proprietary | 2022-06-27 |
-| [SQL/DS](https://dbdb.io/db/sqlds) | SQL/DS (Structured Query Language/Data System) was IBM's first commercial relational DBMS product... | Relational | United States of America | 1981 | Commercial |  | Proprietary | 2023-02-20 |
-| [SQLBase](https://dbdb.io/db/sqlbase) | SQLBase was one of an early relational DBMS designed for PC platforms, initially released for DOS... | Relational | United States of America | 1984 | Commercial |  | Proprietary | 2024-11-06 |
-| [SQLflex](https://dbdb.io/db/sqlflex) | SQLflex is a standalone relational DBMS designed to be SQL compatible with Informix. | Relational | United States of America |  | Commercial | C | Proprietary | 2020-02-16 |
-| [SQLite](https://dbdb.io/db/sqlite) | SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain SQL database... | Relational | United States of America | 2000 | Commercial, Open Source |  | Public Domain | 2022-06-27 |
-| [SQLite.Cloud](https://dbdb.io/db/sqlitecloud) | SQLite.Cloud is a database service that provides a distributed DBMS based on SQLite. | Relational | Italy | 2020 | Commercial |  | Proprietary | 2024-11-23 |
-| [SQream](https://dbdb.io/db/sqream) | SQream is a relational DBMS that uses GPUs to accelerate query processing. | Relational | Israel | 2010 | Commercial | C++, Haskell | Proprietary | 2023-09-24 |
-| [Sqrrl](https://dbdb.io/db/sqrrl) | Sqrrl is a graph database management system (DBMS) . It uses secure, adaptable NoSQL built from A... | Key/Value, Graph | United States of America | 2012 | Commercial | Java |  | 2023-09-24 |
-| [SRCH²](https://dbdb.io/db/srch2) | SRCH² was a in-memory search engine. |  | United States of America | 2010 | Commercial, Open Source | C++ | Proprietary | 2018-06-09 |
-| [SSDB](https://dbdb.io/db/ssdb) | SSDB is a NoSQL database implemented in C++. The goal of SSDB is to substitute, or work together ... | Key/Value | China | 2013 | Open Source | C++ | BSD | 2019-12-17 |
-| [Starcounter](https://dbdb.io/db/starcounter) | Starcounter is an in-memory DBMS that supports transactions. |  | Sweden | 2006 | Commercial |  | Proprietary | 2023-09-24 |
-| [Stardog](https://dbdb.io/db/stardog) | Stardog is a graph database management system. | Triplestore / RDF | United States of America | 2005 | Commercial | Java | Proprietary | 2022-06-28 |
-| [StarRocks](https://dbdb.io/db/starrocks) | StarRocks is a distributed relational DBMS designed for data warehouse workloads. | Column Family / Wide-Column, Relational | China | 2021 | Commercial, Open Source | C++, Java | Apache v2 | 2024-08-22 |
-| [Starskey](https://dbdb.io/db/starskey) | Starskey is a embedded key-value, log-structured DBMS. | Key/Value | Canada | 2025 | Hobby, Open Source | Go | Mozilla Public License | 2025-01-21 |
-| [StellarSQL](https://dbdb.io/db/stellarsql) | StellarSQL is an embedded SQL DBMS written in Rust. | Relational | Taiwan | 2018 | Hobby, Open Source | Rust | MIT | 2023-09-28 |
-| [StereoDB](https://dbdb.io/db/stereodb) | StereoDB is an in-memory embedded DBMS for F# and C# applications. | Relational | Ukraine | 2023 | Hobby, Open Source | F# | Apache v2 | 2024-05-28 |
-| [Stig](https://dbdb.io/db/stig) | Stig is a non-relational, distributed graph database that was developed at Tagged. | Graph | United States of America | 2010 | Open Source | C++ | Apache v2 | 2022-06-30 |
-| [StoneDB](https://dbdb.io/db/stonedb) | StoneDB is a columnar MySQL-compatible storage engine that supports OLAP workloads. | Relational | China | 2022 | Commercial, Open Source |  |  | 2025-04-10 |
-| [Stoolap](https://dbdb.io/db/stoolap) | Stoolap is a relational HTAP DBMS written in pure Go with zero dependencies. | Relational | Turkey | 2025 | Hobby, Open Source | Go | Apache v2 | 2025-05-28 |
-| [StormDB](https://dbdb.io/db/stormdb) | StormDB was a database-as-a-service based on Postgres-XC. | Object-Relational | United States of America | 2012 | Commercial |  |  | 2023-09-24 |
-| [StormiDB](https://dbdb.io/db/stormidb) | StormiDB is a document-oriented DBMS that uses Azure Blob Storage as its backing storage. | Document / XML | United States of America | 2024 | Open Source | JavaScript | MIT | 2024-10-12 |
-| [Strabon](https://dbdb.io/db/strabon) | Strabon is a semantic geospatial database system for storing linked geospatial data expressed in ... | Triplestore / RDF | Greece | 2011 | Academic, Open Source | Java |  | 2018-06-04 |
-| [StrixDB](https://dbdb.io/db/strixdb) | StrixDB is a RDF store supporting SPARQL. It can be used as a SPARQL server with Apache HTTP Serv... | Triplestore / RDF | France |  | Commercial, Open Source |  | Proprietary | 2020-09-09 |
-| [Strozzi NoSQL](https://dbdb.io/db/strozzi-nosql) | Strozzi NoSQL is a shell-based relational database management system created by Carlo Strozzi in ... | Relational | Italy | 1989 | Commercial, Open Source |  | GPL v2 | 2018-06-03 |
-| [STSdb](https://dbdb.io/db/stsdb) | STSdb is a NoSQL key-value store written in C# for the Microsoft .NET environment. | Key/Value | Bulgaria | 2008 | Commercial, Open Source | C# | GPL v2, GPL v3 | 2023-10-08 |
-| [SummitDB](https://dbdb.io/db/summitdb) | SummitDB is an in-memory, NoSQL key/value DBMS. | Key/Value | United States of America | 2016 | Hobby, Open Source | Go | MIT | 2023-09-28 |
-| [Superbase](https://dbdb.io/db/superbase) | Superbase is a relational DBMS designed for desktop applications. | Relational | United Kingdom | 1983 | Commercial |  | Proprietary | 2023-10-02 |
-| [SUPRA Server SQL](https://dbdb.io/db/supra-server-sql) |  | Relational | United States of America | 1992 | Commercial |  | Proprietary | 2022-06-28 |
-| [SurrealDB](https://dbdb.io/db/surrealdb) | SurrealDB is a multi-model DBMS that supports embedded and shared-nothing deployments. It uses a ... | Relational, Document / XML, Graph | United Kingdom | 2016 | Commercial, Open Source | Rust | Business Source License | 2023-04-04 |
-| [Swarm64](https://dbdb.io/db/swarm64) | Swarm64 is a fork of PostgreSQL that uses extensions to improve OLAP query performance. |  | Germany | 2013 | Commercial |  | Proprietary | 2023-07-10 |
-| [SwayDB](https://dbdb.io/db/swaydb) | SwayDB is an embedded, non-blocking and type-safe NoSql database under development. It can be con... | Key/Value | Australia | 2018 | Commercial, Open Source | Scala | AGPL v3 | 2022-01-07 |
-| [SWC-DB](https://dbdb.io/db/swc-db) | SWC-DB ("Super Wide Column Database") is a wide-column DBMS. SWC-DB does not have Tables nor Name... | Column Family / Wide-Column, Key/Value | Israel | 2019 | Commercial, Open Source | C++ | GPL v3, Proprietary | 2025-12-21 |
-| [Sybase IQ](https://dbdb.io/db/sybase-iq) |  |  | United States of America | 1993 | Commercial | C, C++ | Proprietary | 2024-10-31 |
-| [SylvaDB](https://dbdb.io/db/sylvadb) | Sylva (from "silva", a book to organize knowledge during the Renaissance) is a flexible graph dat... | Graph | Canada | 2009 | Academic, Open Source | JavaScript | AGPL v3 | 2023-09-29 |
-| [SylvieJS](https://dbdb.io/db/sylviejs) | SylvieJS is a document-oriented DBMS written designed to run in Node.js and web browsers. | Document / XML | United States of America | 2023 | Hobby, Open Source | JavaScript | MIT | 2023-09-29 |
-| [System G](https://dbdb.io/db/system-g) | IBM System G is a framework for graph processing workloads. It includes a graph database (called ... | Graph | United States of America | 2009 | Industrial Research, Open Source |  |  | 2018-05-28 |
-| [System R](https://dbdb.io/db/system-r) |  | Relational | United States of America | 1972 | Industrial Research |  | Proprietary | 2018-06-03 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [SableDb](https://dbdb.io/db/sabledb) | SableDb is a NoSQL key-value store DBMS that supports the Redis wire protocol. | Key/Value | Israel | 2024 | Hobby, Open Source | Rust | BSD |
+| [Sadas Engine](https://dbdb.io/db/sadas-engine) |  | Relational | Italy |  | Commercial |  | Proprietary |
+| [SapphireDb](https://dbdb.io/db/sapphiredb) | SapphireDb is a object-oriented DBMS designed for ASP.net and JavaScript applications. | Object-Oriented | Germany | 2018 | Hobby, Open Source | C# | MIT |
+| [Scalaris](https://dbdb.io/db/scalaris) |  | Key/Value | Germany |  | Academic, Open Source | Erlang | Apache v2 |
+| [ScaleBase](https://dbdb.io/db/scalebase) |  |  | United States of America | 2009 | Commercial |  |  |
+| [ScaleDB](https://dbdb.io/db/scaledb) | ScaleDB was a shared-disk storage manager for MySQL. |  | United States of America | 2005 | Commercial |  | Proprietary |
+| [ScaleOut StateServer](https://dbdb.io/db/scaleout-stateserver) | ScaleOut StateServer is an in-memory distributed cache. | Key/Value | United States of America | 2005 | Commercial | C | Proprietary |
+| [ScalienDB](https://dbdb.io/db/scaliendb) | ScalienDB was a distributed key/value store DBMS that supported transactions developed in the ear... | Key/Value | Hungary | 2010 | Commercial, Open Source | C++ | AGPL v3 |
+| [SchemafreeSQL](https://dbdb.io/db/schemafreesql) | SchemafreeSQL is a document-oriented cloud-based DBMS that supports SQL. | Document / XML | United States of America | 2012 | Commercial |  |  |
+| [SchoonerSQL](https://dbdb.io/db/schoonersql) | SchoonerSQL was a repackaged MySQL distribution that used a proprietary fork of the InnoDB storag... | Relational | United States of America | 2007 | Commercial | C++ | Proprietary |
+| [SciDB](https://dbdb.io/db/scidb) | SciDB is a multi-dimensional array DBMS designed for scientific workloads and data sets. | Array / Matrix | United States of America | 2008 | Academic, Commercial, Open Source | C++ | AGPL v3, Proprietary |
+| [ScimoreDB](https://dbdb.io/db/scimoredb) | ScimoreDB is a relational distributed database for Windows that runs on commodity hardware. It is... | Relational | Denmark | 2005 | Commercial |  | Proprietary |
+| [ScopeDB](https://dbdb.io/db/scopedb) | ScopeDB is a propietary DBMS written in Rust. | Relational | China | 2024 | Commercial | Rust | Proprietary |
+| [ScratchDB](https://dbdb.io/db/scratchdb) | ScratchDB is a middleware that provides a hosted ClickHouse service. | Document / XML | United States of America | 2023 | Commercial, Open Source | Go | AGPL v3 |
+| [Scuba](https://dbdb.io/db/scuba) | Scuba is a distributed in-memory database built at Facebook. It is a time-series data analysis da... | Relational | United States of America | 2013 | Internal / Non-Public |  | Proprietary |
+| [Scylla](https://dbdb.io/db/scylla) | ScyllaDB is an open-source distributed wide-column NoSQL database offering high availability, sca... | Column Family / Wide-Column, Key/Value | Israel | 2014 | Commercial, Open Source | C++ | AGPL v3 |
+| [SDB](https://dbdb.io/db/sdb) | SDB ("string database") is a key/value, embedded database engine based on the [cdb](/db/cdb) disk... | Relational, Document / XML | Spain |  | Open Source | C | MIT |
+| [SDD-1](https://dbdb.io/db/sdd-1) |  |  | United States of America |  | Industrial Research |  |  |
+| [Seafowl](https://dbdb.io/db/seafowl) | Seafowl is an analytical database. | Relational | United Kingdom | 2022 | Commercial, Open Source | Rust | Apache v2 |
+| [SearchBlox](https://dbdb.io/db/searchblox) |  |  | United States of America | 2003 | Commercial |  |  |
+| [Sedna](https://dbdb.io/db/sedna) | Sedna is an XML database management system that supports XQuery. | Document / XML | Russia | 2003 | Academic, Open Source | C++ | Apache v2 |
+| [SenseiDB](https://dbdb.io/db/senseidb) | SenseiDB is a distributed database that supports the backend of LinkedIn homepage and LinkedIn Si... | Relational | United States of America | 2012 | Open Source | Java | Apache v2 |
+| [Sequins](https://dbdb.io/db/sequins) |  | Key/Value | United States of America | 2014 | Open Source | Go | MIT |
+| [SequoiaDB](https://dbdb.io/db/sequoiadb) | SequoiaDB is a distributed relational database with a storage layer and a computing layer. The st... | Document / XML | China | 2011 | Commercial, Open Source | C++ | AGPL v3 |
+| [SereneDB](https://dbdb.io/db/serenedb) | SereneDB is a search analytics database designed for real-time online analytical processing workl... | Relational | Germany | 2024 | Commercial | C++ | Apache v2 |
+| [Serenity](https://dbdb.io/db/serenity) | Serenity implements basic Redis commands and extends them with support of Consistent Cursors, ACI... |  | Russia | 2015 | Hobby, Open Source | C |  |
+| [Sesame](https://dbdb.io/db/sesame) |  | Triplestore / RDF | Netherlands | 1997 | Open Source | Java | BSD |
+| [ShannonBase](https://dbdb.io/db/shannonbase) | ShannonBase is a repackaged MySQL DBMS that uses a fractured mirror approach with a custom in-mem... | Relational, Vector | China | 2024 | Commercial, Open Source | C++ | GPL v2 |
+| [ShardingSphere](https://dbdb.io/db/shardingsphere) | Apache ShardingSphere is positioned as a Database Plus, and aims at building a new criterion and ... | Relational | China | 2016 | Open Source | Java | Apache v2 |
+| [ShareBase](https://dbdb.io/db/sharebase) |  |  | United States of America | 1979 | Commercial |  | Proprietary |
+| [SharedDB](https://dbdb.io/db/shareddb) | SharedDB is a relational database that is designed to handle large and complex transactional and ... | Relational | Switzerland | 2012 | Academic |  |  |
+| [Shore](https://dbdb.io/db/shore) |  |  | United States of America |  | Academic, Open Source |  |  |
+| [Shore-MT](https://dbdb.io/db/shore-mt) | Shore-MT is a multi-threaded version of the [Shore](/db/shore) storage manager developed at Carne... |  | United States of America | 2007 | Commercial, Open Source | C |  |
+| [shsql](https://dbdb.io/db/shsql) | shsql is a command-line SQL DBMS that stores data in flat files. | Relational |  | 2002 | Open Source | Bash | GPL v2 |
+| [Siaqodb](https://dbdb.io/db/siaqodb) | Siaqodb is a NoSQL embedded document-oriented DBMS designed for .NET environments. | Document / XML | United States of America |  | Commercial | C# |  |
+| [SignalDB](https://dbdb.io/db/signaldb) | SignalDB is an embedded JavaScript DBMS inspired by MongoDB. | Document / XML | Germany | 2023 | Hobby, Open Source | TypeScript | MIT |
+| [Silo](https://dbdb.io/db/silo) | Silo is an in-memory database system. Silo tries to avoid all kinds of contention points by using... | Relational | United States of America | 2013 | Academic, Open Source | C++, Python | MIT |
+| [SimpleDB](https://dbdb.io/db/simpledb) | SimpleDB is a distributed NoSQL database. It provides simple querying of structured data and requ... | Key/Value | United States of America | 2007 | Commercial | Erlang | Proprietary |
+| [SingleStore](https://dbdb.io/db/singlestore) | SingleStore is a distributed, cloud-native database that can handle transactional and analytical ... | Relational, Key/Value, Document / XML, Object-Oriented, Multi-Value, Vector | United States of America | 2011 | Commercial | C++ | Proprietary |
+| [Siodb](https://dbdb.io/db/siodb) | Siodb is a SQL relational DBMS that supports end-to-end encryption. | Relational | Switzerland | 2018 | Commercial | C++ |  |
+| [Sir.DB](https://dbdb.io/db/sirdb) | Sir.DB is a document-oriented DBMS that organizes JSON documents on the local filesystem. | Document / XML | Hong Kong | 2020 | Hobby, Open Source | JavaScript | MIT |
+| [SiriDB](https://dbdb.io/db/siridb) | SiriDB is a time-series DBMS. |  | Netherlands | 2016 | Commercial, Open Source | C | MIT |
+| [Sirius](https://dbdb.io/db/sirius) | Sirius is a GPU-native query engine that integrates with DuckDB via the standard Substrait query ... | Relational | United States of America | 2024 | Open Source | C++ | Apache v2 |
+| [SirixDB](https://dbdb.io/db/sirixdb) | Sirix is a log-structured XML database system with copy-on-write semantics. | Document / XML | Germany | 2012 | Academic, Open Source | Java, Kotlin | BSD |
+| [SKDB](https://dbdb.io/db/skdb) | SKDB is a relational DBMS that support continuous query execution with notifications. | Relational | United States of America | 2022 | Commercial | Skip | MIT |
+| [SkeletonDB](https://dbdb.io/db/skeletondb) | SkeletonDB is a lock-less, thread-safe in memory MVCC database storage engine written in Go. |  | Canada | 2016 | Open Source | Go | MIT |
+| [SKSQL](https://dbdb.io/db/sksql) | SKSQL is a relational database engine designed for Node.js. | Relational | Spain | 2021 | Hobby, Open Source | TypeScript | MIT |
+| [SkyDB](https://dbdb.io/db/skydb) | Sky is designed for analytics on behavioral data (e.g., clickstream and log data). |  | United States of America | 2013 | Open Source |  |  |
+| [Skyrise](https://dbdb.io/db/skyrise) | Skyrise is a serverless query processor for interactive in-situ analytics on cold data in cloud s... | Relational | Germany | 2019 | Academic, Open Source | C++ | MIT |
+| [Skytable](https://dbdb.io/db/skytable) | Skytable is a key-value DBMS written in Rust. | Key/Value | United States of America | 2020 | Open Source | Rust | AGPL v3 |
+| [SlateDB](https://dbdb.io/db/slatedb) | SlateDB is an embedded key-value DBMS designed to for object stores. Its storage architecture is ... | Key/Value | United States of America | 2024 | Hobby, Open Source | Rust | Apache v2 |
+| [Sled](https://dbdb.io/db/sled) | Sled is an embedded key-value store written in Rust. It provides atomic single-key operations, in... | Key/Value | Germany | 2016 | Open Source | Rust | Apache v2, MIT |
+| [SleekDB](https://dbdb.io/db/sleekdb) | SleekDB is a NoSQL database written in PHP that stores data in plain JSON files. | Document / XML | Bangladesh | 2018 | Open Source | PHP | MIT |
+| [SlicingDice](https://dbdb.io/db/slicingdice) | SlicingDice is an analytical database-as-a-service. |  | Brazil | 2015 | Commercial | Java | Proprietary |
+| [Slumber DB](https://dbdb.io/db/slumber-db) | The JSON database for REST and Websocket storage | Key/Value | United States of America | 2014 | Open Source | Java | Apache v2 |
+| [SlyceIO](https://dbdb.io/db/slyceio) | SlyceIO is a document-oriented database-as-a-service offering. | Document / XML | United Kingdom | 2023 | Commercial |  | Proprietary |
+| [SmallSQL](https://dbdb.io/db/smallsql) | SmallSQL is a German desktop-oriented database engine. SmallSQL is built upon the belief that dat... | Relational | Germany | 2005 | Open Source | Java | LGPL v3 |
+| [Sneller](https://dbdb.io/db/sneller) | Sneller is a vectorized SQL query engine for JSON datafiles on cloud storage. | Document / XML | United States of America | 2022 | Commercial, Open Source | Go | AGPL v3 |
+| [Snowflake](https://dbdb.io/db/snowflake) | Snowflake is a cloud-based database and is currently offered as a pay-as-you-go service in the Am... | Relational, Document / XML | United States of America | 2013 | Commercial | C++, Java | Proprietary |
+| [solidDB](https://dbdb.io/db/soliddb) | solidDB is a relational "SQL Database" with persistent in-memory - and on-disk tables. It provide... | Relational | Finland | 1992 | Commercial | C, Java | Proprietary |
+| [Solr](https://dbdb.io/db/solr) | Solr is an open source NoSQL enterprise search platform built on Apache Lucene. Supporting distri... | Document / XML | United States of America | 2004 | Open Source | Java | Apache v2 |
+| [sones GraphDB](https://dbdb.io/db/sones-graphdb) | sones GraphDB was a graph database system developed in Germany. | Graph | Germany | 2007 | Commercial, Open Source | C# | AGPL v3 |
+| [Sonnerie](https://dbdb.io/db/sonnerie) | Sonnerie is a transactional time-series DBMS written in Rust. | Relational | United States of America |  | Open Source | Rust | BSD |
+| [Sophia](https://dbdb.io/db/sophia) |  |  | Russia |  |  |  | BSD |
+| [SpaceTime](https://dbdb.io/db/spacetime) | SpaceTime is a relational DBMS designed for spatiotemporal analytical workloads. | Relational | Croatia | 2020 | Commercial | C++ | Proprietary |
+| [SpacetimeDB](https://dbdb.io/db/spacetimedb) | SpacetimeDB is a relational DBMS that supports executing application logic as stored procedures. | Relational | United States of America | 2023 | Commercial, Open Source |  | Business Source License |
+| [Spark SQL](https://dbdb.io/db/spark-sql) | Spark SQL works as a module in Apache Spark to integrate relational processing with Spark's API. ... |  | United States of America | 2014 | Open Source |  | Apache v2 |
+| [SparkleDB](https://dbdb.io/db/sparkledb) |  | Graph | Norway |  | Commercial |  | Proprietary |
+| [Sparksee](https://dbdb.io/db/sparksee) | Sparksee is a high performance native graph database management system developed by Sparsity Tech... | Graph, Object-Oriented | Spain | 2006 | Commercial, Open Source | C++ |  |
+| [SparrowDB](https://dbdb.io/db/sparrowdb) | SparrowDB is an append-only object database that supports server-side image processing. | Key/Value | Brazil | 2016 | Open Source | Go | MIT |
+| [Speedb](https://dbdb.io/db/speedb) | Speedb is an embedded key/value storage engine based on RocksDB. | Key/Value | Israel | 2020 | Commercial |  | Proprietary |
+| [Speedy](https://dbdb.io/db/speedy) | Speedy was an in-memory relational embedded DBMS that supported SQL. | Relational | Austria |  | Hobby, Open Source | C |  |
+| [Sphinx](https://dbdb.io/db/sphinx) | Sphinx is a standalone full-text search engine whose goal is to provide fast and relevant full-te... |  | United States of America | 2001 | Commercial, Open Source | C++ | GPL v2 |
+| [SpiceDB](https://dbdb.io/db/spicedb) | SpiceDB is a DBMS middleware for managing fine-grained permissions on top of relational DBMSs. | Object-Oriented | United States of America | 2021 | Commercial, Open Source | Go | Apache v2 |
+| [Splice Machine](https://dbdb.io/db/splice-machine) | Splice Machine (also called SpliceSQL) is a SQL DBMS built on top of HBase and SparkSQL. All quer... |  | United States of America | 2012 | Commercial, Open Source | Java | AGPL v3 |
+| [SplinterDB](https://dbdb.io/db/splinterdb) | SplinterDB is an embedded key-value DBMS from VMware Research. | Key/Value | United States of America | 2018 | Industrial Research, Open Source | C | Apache v2 |
+| [Splunk](https://dbdb.io/db/splunk) | Splunk is a database system designed for extracting structure and analyzing machine-generated dat... | Key/Value | United States of America | 2002 | Commercial | C++ | Proprietary |
+| [SpreadsheetDB](https://dbdb.io/db/spreadsheetdb) | SpreadsheetDB was a database-as-a-service that used a JavaScript-based spreadsheet front-end usin... | Document / XML | France | 2017 | Commercial | Go | Proprietary |
+| [SQL Anywhere](https://dbdb.io/db/sql-anywhere) | SQL Anywhere is a proprietary relational DBMS. | Relational | Canada | 1992 | Commercial |  | Proprietary |
+| [SQL Server](https://dbdb.io/db/sql-server) | Microsoft SQL Server (MSSQL) is a commercial DBMS supporting both structured and unstructured dat... | Relational | United States of America | 1988 | Commercial | C++ | Proprietary |
+| [SQL/DS](https://dbdb.io/db/sqlds) | SQL/DS (Structured Query Language/Data System) was IBM's first commercial relational DBMS product... | Relational | United States of America | 1981 | Commercial |  | Proprietary |
+| [SQLBase](https://dbdb.io/db/sqlbase) | SQLBase was one of an early relational DBMS designed for PC platforms, initially released for DOS... | Relational | United States of America | 1984 | Commercial |  | Proprietary |
+| [SQLflex](https://dbdb.io/db/sqlflex) | SQLflex is a standalone relational DBMS designed to be SQL compatible with Informix. | Relational | United States of America |  | Commercial | C | Proprietary |
+| [SQLite](https://dbdb.io/db/sqlite) | SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain SQL database... | Relational | United States of America | 2000 | Commercial, Open Source |  | Public Domain |
+| [SQLite.Cloud](https://dbdb.io/db/sqlitecloud) | SQLite.Cloud is a database service that provides a distributed DBMS based on SQLite. | Relational | Italy | 2020 | Commercial |  | Proprietary |
+| [SQream](https://dbdb.io/db/sqream) | SQream is a relational DBMS that uses GPUs to accelerate query processing. | Relational | Israel | 2010 | Commercial | C++, Haskell | Proprietary |
+| [Sqrrl](https://dbdb.io/db/sqrrl) | Sqrrl is a graph database management system (DBMS) . It uses secure, adaptable NoSQL built from A... | Key/Value, Graph | United States of America | 2012 | Commercial | Java |  |
+| [SRCH²](https://dbdb.io/db/srch2) | SRCH² was a in-memory search engine. |  | United States of America | 2010 | Commercial, Open Source | C++ | Proprietary |
+| [SSDB](https://dbdb.io/db/ssdb) | SSDB is a NoSQL database implemented in C++. The goal of SSDB is to substitute, or work together ... | Key/Value | China | 2013 | Open Source | C++ | BSD |
+| [Starcounter](https://dbdb.io/db/starcounter) | Starcounter is an in-memory DBMS that supports transactions. |  | Sweden | 2006 | Commercial |  | Proprietary |
+| [Stardog](https://dbdb.io/db/stardog) | Stardog is a graph database management system. | Triplestore / RDF | United States of America | 2005 | Commercial | Java | Proprietary |
+| [StarRocks](https://dbdb.io/db/starrocks) | StarRocks is a distributed relational DBMS designed for data warehouse workloads. | Column Family / Wide-Column, Relational | China | 2021 | Commercial, Open Source | C++, Java | Apache v2 |
+| [Starskey](https://dbdb.io/db/starskey) | Starskey is a embedded key-value, log-structured DBMS. | Key/Value | Canada | 2025 | Hobby, Open Source | Go | Mozilla Public License |
+| [StellarSQL](https://dbdb.io/db/stellarsql) | StellarSQL is an embedded SQL DBMS written in Rust. | Relational | Taiwan | 2018 | Hobby, Open Source | Rust | MIT |
+| [StereoDB](https://dbdb.io/db/stereodb) | StereoDB is an in-memory embedded DBMS for F# and C# applications. | Relational | Ukraine | 2023 | Hobby, Open Source | F# | Apache v2 |
+| [Stig](https://dbdb.io/db/stig) | Stig is a non-relational, distributed graph database that was developed at Tagged. | Graph | United States of America | 2010 | Open Source | C++ | Apache v2 |
+| [StoneDB](https://dbdb.io/db/stonedb) | StoneDB is a columnar MySQL-compatible storage engine that supports OLAP workloads. | Relational | China | 2022 | Commercial, Open Source |  |  |
+| [Stoolap](https://dbdb.io/db/stoolap) | Stoolap is a relational HTAP DBMS written in pure Go with zero dependencies. | Relational | Turkey | 2025 | Hobby, Open Source | Go | Apache v2 |
+| [StormDB](https://dbdb.io/db/stormdb) | StormDB was a database-as-a-service based on Postgres-XC. | Object-Relational | United States of America | 2012 | Commercial |  |  |
+| [StormiDB](https://dbdb.io/db/stormidb) | StormiDB is a document-oriented DBMS that uses Azure Blob Storage as its backing storage. | Document / XML | United States of America | 2024 | Open Source | JavaScript | MIT |
+| [Strabon](https://dbdb.io/db/strabon) | Strabon is a semantic geospatial database system for storing linked geospatial data expressed in ... | Triplestore / RDF | Greece | 2011 | Academic, Open Source | Java |  |
+| [StrixDB](https://dbdb.io/db/strixdb) | StrixDB is a RDF store supporting SPARQL. It can be used as a SPARQL server with Apache HTTP Serv... | Triplestore / RDF | France |  | Commercial, Open Source |  | Proprietary |
+| [Strozzi NoSQL](https://dbdb.io/db/strozzi-nosql) | Strozzi NoSQL is a shell-based relational database management system created by Carlo Strozzi in ... | Relational | Italy | 1989 | Commercial, Open Source |  | GPL v2 |
+| [STSdb](https://dbdb.io/db/stsdb) | STSdb is a NoSQL key-value store written in C# for the Microsoft .NET environment. | Key/Value | Bulgaria | 2008 | Commercial, Open Source | C# | GPL v2, GPL v3 |
+| [SummitDB](https://dbdb.io/db/summitdb) | SummitDB is an in-memory, NoSQL key/value DBMS. | Key/Value | United States of America | 2016 | Hobby, Open Source | Go | MIT |
+| [Superbase](https://dbdb.io/db/superbase) | Superbase is a relational DBMS designed for desktop applications. | Relational | United Kingdom | 1983 | Commercial |  | Proprietary |
+| [SUPRA Server SQL](https://dbdb.io/db/supra-server-sql) |  | Relational | United States of America | 1992 | Commercial |  | Proprietary |
+| [SurrealDB](https://dbdb.io/db/surrealdb) | SurrealDB is a multi-model DBMS that supports embedded and shared-nothing deployments. It uses a ... | Relational, Document / XML, Graph | United Kingdom | 2016 | Commercial, Open Source | Rust | Business Source License |
+| [Swarm64](https://dbdb.io/db/swarm64) | Swarm64 is a fork of PostgreSQL that uses extensions to improve OLAP query performance. |  | Germany | 2013 | Commercial |  | Proprietary |
+| [SwayDB](https://dbdb.io/db/swaydb) | SwayDB is an embedded, non-blocking and type-safe NoSql database under development. It can be con... | Key/Value | Australia | 2018 | Commercial, Open Source | Scala | AGPL v3 |
+| [SWC-DB](https://dbdb.io/db/swc-db) | SWC-DB ("Super Wide Column Database") is a wide-column DBMS. SWC-DB does not have Tables nor Name... | Column Family / Wide-Column, Key/Value | Israel | 2019 | Commercial, Open Source | C++ | GPL v3, Proprietary |
+| [Sybase IQ](https://dbdb.io/db/sybase-iq) |  |  | United States of America | 1993 | Commercial | C, C++ | Proprietary |
+| [SylvaDB](https://dbdb.io/db/sylvadb) | Sylva (from "silva", a book to organize knowledge during the Renaissance) is a flexible graph dat... | Graph | Canada | 2009 | Academic, Open Source | JavaScript | AGPL v3 |
+| [SylvieJS](https://dbdb.io/db/sylviejs) | SylvieJS is a document-oriented DBMS written designed to run in Node.js and web browsers. | Document / XML | United States of America | 2023 | Hobby, Open Source | JavaScript | MIT |
+| [System G](https://dbdb.io/db/system-g) | IBM System G is a framework for graph processing workloads. It includes a graph database (called ... | Graph | United States of America | 2009 | Industrial Research, Open Source |  |  |
+| [System R](https://dbdb.io/db/system-r) |  | Relational | United States of America | 1972 | Industrial Research |  | Proprietary |
 
 ## T
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [TabDB](https://dbdb.io/db/tabdb) | TabDB is a relational DBMS that uses JavaScript to store data in web browser tabs as titles. To e... | Relational | United States of America | 2019 | Hobby, Open Source | JavaScript |  | 2024-08-03 |
-| [Tablespace](https://dbdb.io/db/tablespace) | Tablespace is a cloud-hosted version of PostgreSQL that uses proprietary extensions to provide fr... |  | United Kingdom | 2024 | Commercial |  | Proprietary | 2024-05-24 |
-| [TaffyDB](https://dbdb.io/db/taffydb) | TaffyDB is an in-memory embedded DBMS engine written in JavaScript. | Document / XML | United States of America | 2009 | Open Source | JavaScript | MIT | 2022-06-27 |
-| [Tajo](https://dbdb.io/db/tajo) | Apache Tajo is an open-source big data relational and distributed data warehouse system that prov... | Relational | South Korea | 2012 | Open Source | Java | Apache v2 | 2024-01-09 |
-| [Tamino](https://dbdb.io/db/tamino) | Tamino Information Server is an XML-based database management system from Software AG. | Document / XML | Germany | 2000 | Academic, Commercial |  |  | 2018-06-09 |
-| [Tantivy](https://dbdb.io/db/tantivy) | Tantivy is an embedded full-text search engine library inspired by Apache Lucene. | Document / XML | Japan | 2016 | Open Source | Rust | MIT | 2024-06-03 |
-| [Tarantool](https://dbdb.io/db/tarantool) | Tarantool is an integration of a Lua application server and a database management system. The DBM... | Key/Value | Russia | 2008 | Commercial, Open Source | C | BSD | 2022-01-06 |
-| [TayzGrid](https://dbdb.io/db/tayzgrid) | TayzGrid is an elastic in-memory data grid with a peer to peer dynamic clustering architecture. | Object-Oriented | United States of America |  | Commercial, Open Source | Java | Proprietary | 2022-01-06 |
-| [Tdbengine](https://dbdb.io/db/tdbengine) | Tdbengine is a relational DBMS system that uses a custom query language API called [EASY](https:/... | Relational | Germany | 1985 | Commercial | Pascal | Proprietary | 2021-12-23 |
-| [TDengine](https://dbdb.io/db/tdengine) | TDengine is a open-source DBMS for time-series data. | Relational | China | 2017 | Commercial, Open Source | C | AGPL v3 | 2023-09-24 |
-| [TDSQL](https://dbdb.io/db/tdsql) | TDSQL is an abbreviation for TecentDistributed SQL. It is derived from MySQL and aimed at providi... | Relational, Key/Value, Document / XML | China | 2012 | Commercial |  |  | 2019-12-11 |
-| [Tendis](https://dbdb.io/db/tendis) | Tendis is a distributed DBMS that is compatible with the Redis protocol. | Key/Value | China | 2018 | Open Source | C++ | GPL v3 | 2022-06-28 |
-| [TensorBase](https://dbdb.io/db/tensorbase) | TensorBase is a OLAP query engine designed to execute on Apache Arrow data sets. | Relational | China | 2020 | Commercial, Open Source | Rust | Apache v2 | 2023-09-28 |
-| [Tera](https://dbdb.io/db/tera) | Tera is a 100 PBs level, real-time high performance distributed NoSQL database. The storage archi... | Column Family / Wide-Column | China | 2014 | Commercial, Open Source | C++ | BSD | 2021-06-10 |
-| [Teradata](https://dbdb.io/db/teradata) | Teradata is a relational database management system designed specifically for large warehouse app... | Relational, Document / XML, Graph | United States of America | 1979 | Commercial |  | Proprietary | 2022-06-28 |
-| [TerarkDB](https://dbdb.io/db/terarkdb) | TerarkDB was an embedded key-value store based on a fork from RocksDB (v5.18.3). | Key/Value | China | 2016 | Open Source | C++ | Apache v2 | 2023-09-24 |
-| [TerminusDB](https://dbdb.io/db/terminusdb) | TerminusDB is an open-source model driven graph DBMS designed for knowledge graph representation. | Document / XML, Graph, Triplestore / RDF | Ireland | 2019 | Commercial, Open Source | Prolog, Rust | GPL v3 | 2024-02-14 |
-| [Terrastore](https://dbdb.io/db/terrastore) | Terrastore was a distributed document DBMS that provided per-document consistency guarantees. | Document / XML | United Kingdom | 2009 | Open Source | Java | Apache v2 | 2019-07-22 |
-| [Tesora](https://dbdb.io/db/tesora) |  |  | United States of America |  | Commercial |  |  | 2023-09-27 |
-| [Theseus](https://dbdb.io/db/theseus) | Theseus is a distributed DBMS that uses GPUs to accelerate OLAP queries. | Relational | United States of America | 2022 | Commercial | C++ | Proprietary | 2024-08-30 |
-| [ThinkSQL](https://dbdb.io/db/thinksql) | ThinkSQL is a relational DBMS that supports SQL written in Pascal. | Relational | United Kingdom | 2000 | Commercial, Open Source | Pascal |  | 2020-05-06 |
-| [ThreadDB](https://dbdb.io/db/threaddb) | ThreadDB is peer-to-peer (P2P) distributed document-oriented DBMS based on IPFS. | Document / XML | United States of America | 2019 | Open Source | Go | MIT | 2023-09-28 |
-| [ThruDB](https://dbdb.io/db/thrudb) | ThruDB was a collection of database services built on top of the Thrift framework. It supported m... |  | United States of America | 2006 | Open Source | C++ | BSD | 2019-10-10 |
-| [Tibero](https://dbdb.io/db/tibero) | Tibero is a commercial relational database management system developed TmaxSoft. It is currently ... | Relational | South Korea | 2003 | Commercial | C | Proprietary | 2023-09-26 |
-| [TiDB](https://dbdb.io/db/tidb) | TiDB is an open-source distributed SQL database that supports Hybrid Transactional and Analytical... | Key/Value | United States of America | 2015 | Commercial, Open Source | Go | Apache v2 | 2023-07-04 |
-| [TidesDB](https://dbdb.io/db/tidesdb) | TidesDB is an embedded log-structured storage engine that supports column-family data organization. | Column Family / Wide-Column | Canada | 2024 | Hobby, Open Source | C | Mozilla Public License | 2024-12-06 |
-| [tiedot](https://dbdb.io/db/tiedot) | tiedot is a document-oriented DBMS uses JSON with set operations. It can be embedded into an appl... | Document / XML | Finland | 2013 | Open Source | Go | BSD | 2023-09-28 |
-| [TieredMemDB](https://dbdb.io/db/tieredmemdb) | TieredMemDB is a fork of Redis from Intel that is designed to store data in persistent memory. |  | Poland | 2020 | Industrial Research, Open Source |  |  | 2023-09-28 |
-| [TigerBeetle](https://dbdb.io/db/tigerbeetle) | TigerBeetle is a financial accounting DBMS written in Zig. It is not a general purpose DBMS and t... | Relational | South Africa | 2020 | Open Source | Zig | Apache v2 | 2023-06-20 |
-| [TigerGraph](https://dbdb.io/db/tigergraph) | TigerGraph is a distributed, parallel graph DBMS with high availability designed for real-time an... | Graph | United States of America | 2012 | Commercial | C++ | Proprietary | 2022-01-05 |
-| [TiKV](https://dbdb.io/db/tikv) | TiKV is an open source distributed Key-Value database which is based on the design of Google Span... | Key/Value | China | 2016 | Open Source | Rust | Apache v2 | 2022-01-05 |
-| [Tile38](https://dbdb.io/db/tile38) | Tile38 is an in-memory geolocation data store. |  | United States of America | 2016 | Open Source | Go | MIT | 2023-09-28 |
-| [TileDB](https://dbdb.io/db/tiledb) | TileDB is an embedded storage engine designed to support the storage and access of both dense and... | Array / Matrix | United States of America | 2014 | Commercial, Open Source | C++ | MIT | 2024-10-31 |
-| [Timbala](https://dbdb.io/db/timbala) | Timbala was an experimental time-series database written in Go. | Relational | United Kingdom | 2016 | Hobby, Open Source | Go | Apache v2 | 2024-12-25 |
-| [TIMBER](https://dbdb.io/db/timber) | TIMBER ("**T**ree-structured native XML database **I**mplemented at the University of **M**ichiga... | Document / XML | United States of America |  | Academic, Open Source |  |  | 2019-07-20 |
-| [TimescaleDB](https://dbdb.io/db/timescaledb) | TimescaleDB is an open-source SQL database designed for scalable time-series data. It enables bot... | Relational | United States of America | 2017 | Commercial |  | Apache v2 | 2023-07-26 |
-| [TimesTen](https://dbdb.io/db/timesten) | TimesTen is an in-memory, relational OLTP database management system supporting SQL through Open ... | Relational | United States of America | 1996 | Commercial |  | Proprietary | 2023-09-24 |
-| [Timestream](https://dbdb.io/db/timestream) | Amazon Timestream is a managed time series database service designed for IoT and operational appl... | Relational | United States of America | 2018 | Commercial |  | Proprietary | 2019-07-02 |
-| [TingoDB](https://dbdb.io/db/tingodb) | TingoDB is an embedded Node.js database written in JavaScript and is designed to be API compatibl... | Document / XML | Russia | 2013 | Open Source | JavaScript | MIT | 2024-07-22 |
-| [TinyBase](https://dbdb.io/db/tinybase) | TinyBase is an embedded relational DBMS for TypeScript applications. | Relational | United States of America | 2021 | Open Source | TypeScript | MIT | 2022-09-17 |
-| [TinyDB](https://dbdb.io/db/tinydb) | TinyDB is a document-oriented database management system written in Python with no external depen... | Document / XML | Germany | 2013 | Open Source | Python | MIT | 2022-06-28 |
-| [TinyDB](https://dbdb.io/db/tinydb-berkeley) | TinyDB was a SQL-based query processing system over decentralized remote sensors. It was designed... | Relational | United States of America | 1999 | Academic, Open Source | C |  | 2021-06-25 |
-| [tinySQL](https://dbdb.io/db/tinysql) |  |  | United States of America | 2003 | Open Source | Java |  | 2018-05-12 |
-| [Titan](https://dbdb.io/db/titan) | Titan is a graph database engine. | Graph | United States of America | 2012 | Open Source | Java | Apache v2 | 2024-10-31 |
-| [Titan](https://dbdb.io/db/titan-nosql) | Titan is a distributed NoSQL DBMS that is designed to be compatible with the Redis protocol. |  | China | 2018 | Hobby, Open Source | Go | Apache v2 | 2022-08-27 |
-| [Tkrzw](https://dbdb.io/db/tkrzw) | Tkrzw ("Traveling Kangaroos Riding Zeebras Wildly") s a C++ database manager (DBM) library that p... | Key/Value | Japan | 2020 | Open Source | C++ | Apache v2 | 2024-12-12 |
-| [TokuDB](https://dbdb.io/db/tokudb) | TokuDB is a replacement storage engine for MySQL that used write-optimized fractal trees (aka Bε... | Relational | United States of America | 2009 | Commercial, Open Source |  | GPL v2 | 2023-09-25 |
-| [TokuMX](https://dbdb.io/db/tokumx) |  |  | United States of America |  | Commercial, Open Source |  | AGPL v3, Apache v2, GPL v2 | 2024-10-31 |
-| [Tokyo Cabinet](https://dbdb.io/db/tokyo-cabinet) | Tokyo Cabinet is an [embedded](https://en.wikipedia.org/wiki/Embedded_database) [key-value store]... | Key/Value | Japan | 2006 | Open Source | C | LGPL v2 | 2019-01-01 |
-| [Tokyo Tyrant](https://dbdb.io/db/tokyo-tyrant) |  |  | Japan |  | Open Source |  |  | 2018-06-09 |
-| [TomP2P](https://dbdb.io/db/tomp2p) | TomP2P is a distributed hash table with additional features, such as storing multiple values for ... | Key/Value | Switzerland | 2004 | Open Source | Java | Apache v2 | 2018-06-03 |
-| [Tonbo](https://dbdb.io/db/tonbo) | Tonbo is an embedded, log-structured key-value DBMS that supports writing data to object stores. ... | Key/Value | China | 2024 | Hobby, Open Source | Rust | Apache v2 | 2024-10-04 |
-| [TonicDB](https://dbdb.io/db/tonicdb) | TonicDB is a Redis-compatible key/value store that runs on bare metal hardware. Instead of using ... | Key/Value | United States of America | 2025 | Commercial |  | Proprietary | 2025-10-28 |
-| [TopK](https://dbdb.io/db/topk) | TopK is a document DBMS that supports vector and keyword search. | Document / XML | Czechia | 2024 | Commercial, Open Source | Rust | MIT, Proprietary | 2026-02-16 |
-| [ToplingDB](https://dbdb.io/db/toplingdb) | ToplingDB is a hard-fork of RocksDB with additional enhancements and features. | Key/Value | China | 2021 | Open Source | C++ | Apache v2 | 2025-07-01 |
-| [ToroDB](https://dbdb.io/db/torodb) | ToroDB is a middleware layer that turns Postgres into a MongoDB-compatible server. | Document / XML | Spain |  | Open Source | Java | AGPL v3 | 2019-07-18 |
-| [TOTAL](https://dbdb.io/db/total) |  |  | United States of America |  | Commercial |  |  | 2018-05-29 |
-| [toyDB](https://dbdb.io/db/toydb) | toyDB is educational distributed relational database written in Rust. | Relational | Norway | 2019 | Educational, Open Source | Rust | Apache v2 | 2023-09-19 |
-| [Trafodion](https://dbdb.io/db/trafodion) | Trafodion is an open-source webscale SQL-on-Hadoop DBMS solution that extends and builds on Apach... | Column Family / Wide-Column | United States of America | 2014 | Open Source | C++, Java | Apache v2 | 2023-09-24 |
-| [TrailDB](https://dbdb.io/db/traildb) | TrailDB is a portable C library that allows querying a series of relative events. It is used to g... | Relational | United States of America | 2014 | Commercial, Open Source | C | MIT | 2019-07-22 |
-| [Transactions](https://dbdb.io/db/origodb) | OrigoDB is an in-memory event-sourced database engine for NET/Mono environments. It allows users ... | Relational, Key/Value, Document / XML, Graph, Object-Oriented | Sweden | 2011 | Commercial, Open Source | C# | MIT | 2019-12-10 |
-| [Transbase](https://dbdb.io/db/transbase) |  | Relational | Germany | 1987 | Commercial |  | Proprietary | 2022-06-28 |
-| [TransLattice](https://dbdb.io/db/translattice) |  |  | United States of America | 2007 |  |  |  | 2022-06-28 |
-| [TreodeDB](https://dbdb.io/db/treodedb) | TreodeDB is a distributed key-value store that provides atomic multi-row writes. | Key/Value | United States of America | 2012 | Commercial, Open Source | Scala | Apache v2 | 2018-06-02 |
-| [Trino](https://dbdb.io/db/trino) | Trino is a distributed SQL query engine designed to run on disparate storage systems. |  | United States of America | 2019 | Open Source | Java | Apache v2 | 2022-06-28 |
-| [Trousseau](https://dbdb.io/db/trousseau) | Trousseau is an encrypted key-value store engine that stores the database in a single file | Key/Value | Germany | 2013 | Open Source | Go | MIT | 2018-06-08 |
-| [Truviso](https://dbdb.io/db/truviso) | Truviso is a continuous query DBMS system built on Postgres. Truviso supports "always-on" queries... | Object-Relational | United States of America | 2006 | Commercial | C | Proprietary | 2023-09-24 |
-| [ts-sql](https://dbdb.io/db/ts-sql) | ts-sql is simple relational DBMS supporting SQL written in TypeScript. | Relational | United Kingdom | 2020 | Hobby, Open Source | TypeScript |  | 2022-06-28 |
-| [TuGraph](https://dbdb.io/db/tugraph) | TuGraph is a property graph DBMS developed by Alibaba and Tsinghua University. | Graph | China | 2021 | Open Source | C++ | Apache v2 | 2024-04-17 |
-| [TukDB](https://dbdb.io/db/tukdb) | TukDB is a yet-to-be released search engine DBMS. | Document / XML | Croatia | 2024 | Hobby |  | Functional Source License | 2025-09-24 |
-| [TurboImage](https://dbdb.io/db/turboimage) |  |  | United States of America | 1972 | Commercial |  |  | 2018-06-03 |
-| [turbopuffer](https://dbdb.io/db/turbopuffer) | turbopuffer is a proprietary vector search database-as-a-service system. | Vector | Canada | 2023 | Commercial |  | Proprietary | 2026-02-16 |
-| [Twig](https://dbdb.io/db/twig) | Object Datastore for Google App Engine. | Object-Oriented | United States of America | 2009 | Open Source | Java | Apache v2 | 2018-06-09 |
-| [TypeDB](https://dbdb.io/db/typedb) | TypeDB is a strongly-typed database with a rich and logical type system. It uses a proprietary qu... | Graph, Entity-Relationship | United Kingdom | 2016 | Commercial, Open Source |  | AGPL v3 | 2024-07-30 |
-| [Typhoon](https://dbdb.io/db/typhoon) | Typhoon is a freely available relational database management system for the UNIX and OS/2 environ... | Relational | Denmark | 1996 | Open Source | C | MIT | 2023-10-01 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [TabDB](https://dbdb.io/db/tabdb) | TabDB is a relational DBMS that uses JavaScript to store data in web browser tabs as titles. To e... | Relational | United States of America | 2019 | Hobby, Open Source | JavaScript |  |
+| [Tablespace](https://dbdb.io/db/tablespace) | Tablespace is a cloud-hosted version of PostgreSQL that uses proprietary extensions to provide fr... |  | United Kingdom | 2024 | Commercial |  | Proprietary |
+| [TaffyDB](https://dbdb.io/db/taffydb) | TaffyDB is an in-memory embedded DBMS engine written in JavaScript. | Document / XML | United States of America | 2009 | Open Source | JavaScript | MIT |
+| [Tajo](https://dbdb.io/db/tajo) | Apache Tajo is an open-source big data relational and distributed data warehouse system that prov... | Relational | South Korea | 2012 | Open Source | Java | Apache v2 |
+| [Tamino](https://dbdb.io/db/tamino) | Tamino Information Server is an XML-based database management system from Software AG. | Document / XML | Germany | 2000 | Academic, Commercial |  |  |
+| [Tantivy](https://dbdb.io/db/tantivy) | Tantivy is an embedded full-text search engine library inspired by Apache Lucene. | Document / XML | Japan | 2016 | Open Source | Rust | MIT |
+| [Tarantool](https://dbdb.io/db/tarantool) | Tarantool is an integration of a Lua application server and a database management system. The DBM... | Key/Value | Russia | 2008 | Commercial, Open Source | C | BSD |
+| [TayzGrid](https://dbdb.io/db/tayzgrid) | TayzGrid is an elastic in-memory data grid with a peer to peer dynamic clustering architecture. | Object-Oriented | United States of America |  | Commercial, Open Source | Java | Proprietary |
+| [Tdbengine](https://dbdb.io/db/tdbengine) | Tdbengine is a relational DBMS system that uses a custom query language API called [EASY](https:/... | Relational | Germany | 1985 | Commercial | Pascal | Proprietary |
+| [TDengine](https://dbdb.io/db/tdengine) | TDengine is a open-source DBMS for time-series data. | Relational | China | 2017 | Commercial, Open Source | C | AGPL v3 |
+| [TDSQL](https://dbdb.io/db/tdsql) | TDSQL is an abbreviation for TecentDistributed SQL. It is derived from MySQL and aimed at providi... | Relational, Key/Value, Document / XML | China | 2012 | Commercial |  |  |
+| [Tendis](https://dbdb.io/db/tendis) | Tendis is a distributed DBMS that is compatible with the Redis protocol. | Key/Value | China | 2018 | Open Source | C++ | GPL v3 |
+| [TensorBase](https://dbdb.io/db/tensorbase) | TensorBase is a OLAP query engine designed to execute on Apache Arrow data sets. | Relational | China | 2020 | Commercial, Open Source | Rust | Apache v2 |
+| [Tera](https://dbdb.io/db/tera) | Tera is a 100 PBs level, real-time high performance distributed NoSQL database. The storage archi... | Column Family / Wide-Column | China | 2014 | Commercial, Open Source | C++ | BSD |
+| [Teradata](https://dbdb.io/db/teradata) | Teradata is a relational database management system designed specifically for large warehouse app... | Relational, Document / XML, Graph | United States of America | 1979 | Commercial |  | Proprietary |
+| [TerarkDB](https://dbdb.io/db/terarkdb) | TerarkDB was an embedded key-value store based on a fork from RocksDB (v5.18.3). | Key/Value | China | 2016 | Open Source | C++ | Apache v2 |
+| [TerminusDB](https://dbdb.io/db/terminusdb) | TerminusDB is an open-source model driven graph DBMS designed for knowledge graph representation. | Document / XML, Graph, Triplestore / RDF | Ireland | 2019 | Commercial, Open Source | Prolog, Rust | GPL v3 |
+| [Terrastore](https://dbdb.io/db/terrastore) | Terrastore was a distributed document DBMS that provided per-document consistency guarantees. | Document / XML | United Kingdom | 2009 | Open Source | Java | Apache v2 |
+| [Tesora](https://dbdb.io/db/tesora) |  |  | United States of America |  | Commercial |  |  |
+| [Theseus](https://dbdb.io/db/theseus) | Theseus is a distributed DBMS that uses GPUs to accelerate OLAP queries. | Relational | United States of America | 2022 | Commercial | C++ | Proprietary |
+| [ThinkSQL](https://dbdb.io/db/thinksql) | ThinkSQL is a relational DBMS that supports SQL written in Pascal. | Relational | United Kingdom | 2000 | Commercial, Open Source | Pascal |  |
+| [ThreadDB](https://dbdb.io/db/threaddb) | ThreadDB is peer-to-peer (P2P) distributed document-oriented DBMS based on IPFS. | Document / XML | United States of America | 2019 | Open Source | Go | MIT |
+| [ThruDB](https://dbdb.io/db/thrudb) | ThruDB was a collection of database services built on top of the Thrift framework. It supported m... |  | United States of America | 2006 | Open Source | C++ | BSD |
+| [Tibero](https://dbdb.io/db/tibero) | Tibero is a commercial relational database management system developed TmaxSoft. It is currently ... | Relational | South Korea | 2003 | Commercial | C | Proprietary |
+| [TiDB](https://dbdb.io/db/tidb) | TiDB is an open-source distributed SQL database that supports Hybrid Transactional and Analytical... | Key/Value | United States of America | 2015 | Commercial, Open Source | Go | Apache v2 |
+| [TidesDB](https://dbdb.io/db/tidesdb) | TidesDB is an embedded log-structured storage engine that supports column-family data organization. | Column Family / Wide-Column | Canada | 2024 | Hobby, Open Source | C | Mozilla Public License |
+| [tiedot](https://dbdb.io/db/tiedot) | tiedot is a document-oriented DBMS uses JSON with set operations. It can be embedded into an appl... | Document / XML | Finland | 2013 | Open Source | Go | BSD |
+| [TieredMemDB](https://dbdb.io/db/tieredmemdb) | TieredMemDB is a fork of Redis from Intel that is designed to store data in persistent memory. |  | Poland | 2020 | Industrial Research, Open Source |  |  |
+| [TigerBeetle](https://dbdb.io/db/tigerbeetle) | TigerBeetle is a financial accounting DBMS written in Zig. It is not a general purpose DBMS and t... | Relational | South Africa | 2020 | Open Source | Zig | Apache v2 |
+| [TigerGraph](https://dbdb.io/db/tigergraph) | TigerGraph is a distributed, parallel graph DBMS with high availability designed for real-time an... | Graph | United States of America | 2012 | Commercial | C++ | Proprietary |
+| [TiKV](https://dbdb.io/db/tikv) | TiKV is an open source distributed Key-Value database which is based on the design of Google Span... | Key/Value | China | 2016 | Open Source | Rust | Apache v2 |
+| [Tile38](https://dbdb.io/db/tile38) | Tile38 is an in-memory geolocation data store. |  | United States of America | 2016 | Open Source | Go | MIT |
+| [TileDB](https://dbdb.io/db/tiledb) | TileDB is an embedded storage engine designed to support the storage and access of both dense and... | Array / Matrix | United States of America | 2014 | Commercial, Open Source | C++ | MIT |
+| [Timbala](https://dbdb.io/db/timbala) | Timbala was an experimental time-series database written in Go. | Relational | United Kingdom | 2016 | Hobby, Open Source | Go | Apache v2 |
+| [TIMBER](https://dbdb.io/db/timber) | TIMBER ("**T**ree-structured native XML database **I**mplemented at the University of **M**ichiga... | Document / XML | United States of America |  | Academic, Open Source |  |  |
+| [TimescaleDB](https://dbdb.io/db/timescaledb) | TimescaleDB is an open-source SQL database designed for scalable time-series data. It enables bot... | Relational | United States of America | 2017 | Commercial |  | Apache v2 |
+| [TimesTen](https://dbdb.io/db/timesten) | TimesTen is an in-memory, relational OLTP database management system supporting SQL through Open ... | Relational | United States of America | 1996 | Commercial |  | Proprietary |
+| [Timestream](https://dbdb.io/db/timestream) | Amazon Timestream is a managed time series database service designed for IoT and operational appl... | Relational | United States of America | 2018 | Commercial |  | Proprietary |
+| [TingoDB](https://dbdb.io/db/tingodb) | TingoDB is an embedded Node.js database written in JavaScript and is designed to be API compatibl... | Document / XML | Russia | 2013 | Open Source | JavaScript | MIT |
+| [TinyBase](https://dbdb.io/db/tinybase) | TinyBase is an embedded relational DBMS for TypeScript applications. | Relational | United States of America | 2021 | Open Source | TypeScript | MIT |
+| [TinyDB](https://dbdb.io/db/tinydb) | TinyDB is a document-oriented database management system written in Python with no external depen... | Document / XML | Germany | 2013 | Open Source | Python | MIT |
+| [TinyDB](https://dbdb.io/db/tinydb-berkeley) | TinyDB was a SQL-based query processing system over decentralized remote sensors. It was designed... | Relational | United States of America | 1999 | Academic, Open Source | C |  |
+| [tinySQL](https://dbdb.io/db/tinysql) |  |  | United States of America | 2003 | Open Source | Java |  |
+| [Titan](https://dbdb.io/db/titan) | Titan is a graph database engine. | Graph | United States of America | 2012 | Open Source | Java | Apache v2 |
+| [Titan](https://dbdb.io/db/titan-nosql) | Titan is a distributed NoSQL DBMS that is designed to be compatible with the Redis protocol. |  | China | 2018 | Hobby, Open Source | Go | Apache v2 |
+| [Tkrzw](https://dbdb.io/db/tkrzw) | Tkrzw ("Traveling Kangaroos Riding Zeebras Wildly") s a C++ database manager (DBM) library that p... | Key/Value | Japan | 2020 | Open Source | C++ | Apache v2 |
+| [TokuDB](https://dbdb.io/db/tokudb) | TokuDB is a replacement storage engine for MySQL that used write-optimized fractal trees (aka Bε... | Relational | United States of America | 2009 | Commercial, Open Source |  | GPL v2 |
+| [TokuMX](https://dbdb.io/db/tokumx) |  |  | United States of America |  | Commercial, Open Source |  | AGPL v3, Apache v2, GPL v2 |
+| [Tokyo Cabinet](https://dbdb.io/db/tokyo-cabinet) | Tokyo Cabinet is an [embedded](https://en.wikipedia.org/wiki/Embedded_database) [key-value store]... | Key/Value | Japan | 2006 | Open Source | C | LGPL v2 |
+| [Tokyo Tyrant](https://dbdb.io/db/tokyo-tyrant) |  |  | Japan |  | Open Source |  |  |
+| [TomP2P](https://dbdb.io/db/tomp2p) | TomP2P is a distributed hash table with additional features, such as storing multiple values for ... | Key/Value | Switzerland | 2004 | Open Source | Java | Apache v2 |
+| [Tonbo](https://dbdb.io/db/tonbo) | Tonbo is an embedded, log-structured key-value DBMS that supports writing data to object stores. ... | Key/Value | China | 2024 | Hobby, Open Source | Rust | Apache v2 |
+| [TonicDB](https://dbdb.io/db/tonicdb) | TonicDB is a Redis-compatible key/value store that runs on bare metal hardware. Instead of using ... | Key/Value | United States of America | 2025 | Commercial |  | Proprietary |
+| [TopK](https://dbdb.io/db/topk) | TopK is a document DBMS that supports vector and keyword search. | Document / XML | Czechia | 2024 | Commercial, Open Source | Rust | MIT, Proprietary |
+| [ToplingDB](https://dbdb.io/db/toplingdb) | ToplingDB is a hard-fork of RocksDB with additional enhancements and features. | Key/Value | China | 2021 | Open Source | C++ | Apache v2 |
+| [ToroDB](https://dbdb.io/db/torodb) | ToroDB is a middleware layer that turns Postgres into a MongoDB-compatible server. | Document / XML | Spain |  | Open Source | Java | AGPL v3 |
+| [TOTAL](https://dbdb.io/db/total) |  |  | United States of America |  | Commercial |  |  |
+| [toyDB](https://dbdb.io/db/toydb) | toyDB is educational distributed relational database written in Rust. | Relational | Norway | 2019 | Educational, Open Source | Rust | Apache v2 |
+| [Trafodion](https://dbdb.io/db/trafodion) | Trafodion is an open-source webscale SQL-on-Hadoop DBMS solution that extends and builds on Apach... | Column Family / Wide-Column | United States of America | 2014 | Open Source | C++, Java | Apache v2 |
+| [TrailDB](https://dbdb.io/db/traildb) | TrailDB is a portable C library that allows querying a series of relative events. It is used to g... | Relational | United States of America | 2014 | Commercial, Open Source | C | MIT |
+| [Transactions](https://dbdb.io/db/origodb) | OrigoDB is an in-memory event-sourced database engine for NET/Mono environments. It allows users ... | Relational, Key/Value, Document / XML, Graph, Object-Oriented | Sweden | 2011 | Commercial, Open Source | C# | MIT |
+| [Transbase](https://dbdb.io/db/transbase) |  | Relational | Germany | 1987 | Commercial |  | Proprietary |
+| [TransLattice](https://dbdb.io/db/translattice) |  |  | United States of America | 2007 |  |  |  |
+| [TreodeDB](https://dbdb.io/db/treodedb) | TreodeDB is a distributed key-value store that provides atomic multi-row writes. | Key/Value | United States of America | 2012 | Commercial, Open Source | Scala | Apache v2 |
+| [Trino](https://dbdb.io/db/trino) | Trino is a distributed SQL query engine designed to run on disparate storage systems. |  | United States of America | 2019 | Open Source | Java | Apache v2 |
+| [Trousseau](https://dbdb.io/db/trousseau) | Trousseau is an encrypted key-value store engine that stores the database in a single file | Key/Value | Germany | 2013 | Open Source | Go | MIT |
+| [Truviso](https://dbdb.io/db/truviso) | Truviso is a continuous query DBMS system built on Postgres. Truviso supports "always-on" queries... | Object-Relational | United States of America | 2006 | Commercial | C | Proprietary |
+| [ts-sql](https://dbdb.io/db/ts-sql) | ts-sql is simple relational DBMS supporting SQL written in TypeScript. | Relational | United Kingdom | 2020 | Hobby, Open Source | TypeScript |  |
+| [TuGraph](https://dbdb.io/db/tugraph) | TuGraph is a property graph DBMS developed by Alibaba and Tsinghua University. | Graph | China | 2021 | Open Source | C++ | Apache v2 |
+| [TukDB](https://dbdb.io/db/tukdb) | TukDB is a yet-to-be released search engine DBMS. | Document / XML | Croatia | 2024 | Hobby |  | Functional Source License |
+| [TurboImage](https://dbdb.io/db/turboimage) |  |  | United States of America | 1972 | Commercial |  |  |
+| [turbopuffer](https://dbdb.io/db/turbopuffer) | turbopuffer is a proprietary vector search database-as-a-service system. | Vector | Canada | 2023 | Commercial |  | Proprietary |
+| [Twig](https://dbdb.io/db/twig) | Object Datastore for Google App Engine. | Object-Oriented | United States of America | 2009 | Open Source | Java | Apache v2 |
+| [TypeDB](https://dbdb.io/db/typedb) | TypeDB is a strongly-typed database with a rich and logical type system. It uses a proprietary qu... | Graph, Entity-Relationship | United Kingdom | 2016 | Commercial, Open Source |  | AGPL v3 |
+| [Typhoon](https://dbdb.io/db/typhoon) | Typhoon is a freely available relational database management system for the UNIX and OS/2 environ... | Relational | Denmark | 1996 | Open Source | C | MIT |
 
 ## U
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [UDS/SQL](https://dbdb.io/db/udssql) |  | Network | Germany |  | Commercial |  | Proprietary | 2018-07-27 |
-| [Ultipa](https://dbdb.io/db/ultipa) | Ultipa Graph is a closed-source graph DBMS. Ultipa Graph Database is ACID-compliant with native g... | Graph | United States of America | 2019 | Commercial |  | Proprietary | 2023-01-11 |
-| [Ultralite](https://dbdb.io/db/ultralite) | Ultralite is a mobile embedded relational DBMS derived from SQL Anywhere. | Relational | Canada | 1999 | Commercial |  |  | 2018-06-09 |
-| [Umbra](https://dbdb.io/db/umbra) | Umbra is a relational DBMS designed to support high performance for OLAP and OLTP workloads using... | Relational, Array / Matrix | Germany | 2018 | Academic | C++ | Proprietary | 2023-05-01 |
-| [Unbounded](https://dbdb.io/db/unbounded) | Unbounded is a serverless document-oriented DBMS that targets JavaScript applications. | Document / XML | United States of America | 2020 | Commercial |  | Proprietary | 2022-06-28 |
-| [UniSQL](https://dbdb.io/db/unisql) |  | Object-Relational | United States of America | 1991 | Commercial |  | Proprietary | 2023-10-01 |
-| [UniVerse](https://dbdb.io/db/universe) |  |  | United States of America | 1990 | Commercial |  |  | 2024-10-31 |
-| [UnQLite](https://dbdb.io/db/unqlite) | UnQLite is an embedded NoSQL (Key/Value store and Document-store) database engine. | Key/Value, Document / XML | Tunisia |  | Commercial, Open Source | C |  | 2018-05-20 |
-| [UnumDB](https://dbdb.io/db/unumdb) | UnumDB is a distributed key/value database-as-a-service. | Key/Value, Document / XML, Graph, Array / Matrix | Armenia | 2015 | Commercial | C++ | Apache v2, Proprietary | 2025-11-12 |
-| [upscaledb](https://dbdb.io/db/upscaledb) | upscaledb is an embedded key/value store DBMS for analytical workloads. | Key/Value | Germany | 2007 | Commercial, Open Source | C, C++ | Apache v2 | 2025-09-29 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [UDS/SQL](https://dbdb.io/db/udssql) |  | Network | Germany |  | Commercial |  | Proprietary |
+| [Ultipa](https://dbdb.io/db/ultipa) | Ultipa Graph is a closed-source graph DBMS. Ultipa Graph Database is ACID-compliant with native g... | Graph | United States of America | 2019 | Commercial |  | Proprietary |
+| [Ultralite](https://dbdb.io/db/ultralite) | Ultralite is a mobile embedded relational DBMS derived from SQL Anywhere. | Relational | Canada | 1999 | Commercial |  |  |
+| [Umbra](https://dbdb.io/db/umbra) | Umbra is a relational DBMS designed to support high performance for OLAP and OLTP workloads using... | Relational, Array / Matrix | Germany | 2018 | Academic | C++ | Proprietary |
+| [Unbounded](https://dbdb.io/db/unbounded) | Unbounded is a serverless document-oriented DBMS that targets JavaScript applications. | Document / XML | United States of America | 2020 | Commercial |  | Proprietary |
+| [UniSQL](https://dbdb.io/db/unisql) |  | Object-Relational | United States of America | 1991 | Commercial |  | Proprietary |
+| [UniVerse](https://dbdb.io/db/universe) |  |  | United States of America | 1990 | Commercial |  |  |
+| [UnQLite](https://dbdb.io/db/unqlite) | UnQLite is an embedded NoSQL (Key/Value store and Document-store) database engine. | Key/Value, Document / XML | Tunisia |  | Commercial, Open Source | C |  |
+| [UnumDB](https://dbdb.io/db/unumdb) | UnumDB is a distributed key/value database-as-a-service. | Key/Value, Document / XML, Graph, Array / Matrix | Armenia | 2015 | Commercial | C++ | Apache v2, Proprietary |
+| [upscaledb](https://dbdb.io/db/upscaledb) | upscaledb is an embedded key/value store DBMS for analytical workloads. | Key/Value | Germany | 2007 | Commercial, Open Source | C, C++ | Apache v2 |
 
 ## V
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [Vald](https://dbdb.io/db/vald) | Vald ("Vektor Wald") is a distributed fast approximate nearest neighbor (ANN) dense vector search... | Vector | Japan | 2019 | Open Source | Go | Apache v2 | 2024-07-03 |
-| [Valentina Server](https://dbdb.io/db/valentina-server) |  | Object-Relational | United States of America | 1998 | Commercial |  | Proprietary | 2018-05-20 |
-| [Valkey](https://dbdb.io/db/valkey) | Valkey is a hard-fork of Redis started in 2024. | Key/Value | United States of America | 2024 | Open Source | C | BSD | 2024-06-17 |
-| [VanillaDB](https://dbdb.io/db/vanilladb) | VanillaDB is a single node, multi-threaded relational database engine that partially supports the... | Multi-Value | Taiwan | 2016 | Academic, Open Source | Java | Apache v2 | 2024-02-05 |
-| [Vearch](https://dbdb.io/db/vearch) | Vearch is a distributed vector search engine. | Document / XML, Vector | China | 2019 | Open Source | C++ | Apache v2 | 2023-09-23 |
-| [Vector](https://dbdb.io/db/vector) | Actian Vector is a commercial main-memory RDBMS targeting analytical workload and decision suppor... | Relational | Netherlands | 2009 | Commercial |  | Proprietary | 2023-09-24 |
-| [VectorDB](https://dbdb.io/db/vectordb) | VectorDB is a simplistic vector DBMS for Python applications. | Document / XML, Vector | Spain | 2023 | Commercial, Open Source | Python | Apache v2 | 2025-04-10 |
-| [VectorDB](https://dbdb.io/db/vectordb-kagi) | VectorDB is an embedded vector DBMS written in Python. | Document / XML, Vector | United States of America | 2023 | Open Source | Python | MIT | 2023-09-22 |
-| [VectorSQL](https://dbdb.io/db/vectorsql) | VectorSQL is an analytics DBMS designed for IoT data. | Relational | China | 2020 | Hobby, Open Source | Go | Apache v2 | 2023-09-27 |
-| [Vedis](https://dbdb.io/db/vedis) | Vedis is an embeddable library built with over 70 commands similar in concept to Redis but withou... | Key/Value | Tunisia | 2014 | Commercial | C | Proprietary | 2022-08-05 |
-| [VelarixDB](https://dbdb.io/db/velarixdb) | VelarixDB is an embedded key-value storage engine for Rust applications. | Key/Value | Nigeria | 2024 | Hobby, Open Source | Rust | MIT | 2024-08-05 |
-| [VelocityDB](https://dbdb.io/db/velocitydb) | VelocityDB is a NoSQL object-oriented DBMS that supports both embedded and distributed deployments. | Object-Oriented | United States of America | 2011 | Commercial | C# | Proprietary | 2018-05-23 |
-| [Velox](https://dbdb.io/db/velox) | Velox is a reusable vectorized database execution engine. It can be used to build compute engines... | Relational | United States of America | 2020 | Industrial Research, Open Source | C++ | Apache v2 | 2024-10-04 |
-| [VeloxDB](https://dbdb.io/db/veloxdb) | VeloxDB is an in-memory object-oriented DBMS. | Object-Oriented | Serbia | 2022 | Commercial, Open Source | C# | MIT | 2023-01-06 |
-| [Venice](https://dbdb.io/db/venice) | Venice is a derived data storage platform that supports asynchronous ingestion from batch and str... | Document / XML | United States of America | 2014 | Open Source | Java | BSD | 2025-03-11 |
-| [VennDB](https://dbdb.io/db/venndb) | VennDB is an append-only in-memory DBMS that is based on bitmap index storage. | Relational | Belgium | 2023 | Open Source | Rust | Apache v2, MIT | 2024-04-13 |
-| [Versant Object Database](https://dbdb.io/db/versant-object-database) |  | Object-Oriented | United States of America | 1988 | Commercial |  | Proprietary | 2018-06-09 |
-| [VertexDB](https://dbdb.io/db/vertexdb) |  | Graph | United States of America |  | Hobby, Open Source |  |  | 2022-06-28 |
-| [Vertica](https://dbdb.io/db/vertica) | Vertica is a distributed, shared-nothing column-store DBMS. | Relational | United States of America | 2005 | Commercial | C++ | PostgreSQL License | 2024-06-17 |
-| [Vespa](https://dbdb.io/db/vespa) | Vespa is a document-oriented search engine that supports a SQL dialect (YQL). | Document / XML | Norway | 1997 | Open Source | C++ | Apache v2 | 2024-10-31 |
-| [vFabric SQLFire](https://dbdb.io/db/vfabric-sqlfire) |  |  | United States of America |  | Commercial |  |  | 2022-01-07 |
-| [VictoriaMetrics](https://dbdb.io/db/victoriametrics) | VictoriaMetrics Open Source is a fast and scalable open-source time series database and monitorin... | Column Family / Wide-Column | Ukraine | 2018 | Open Source | Go | Apache v2 | 2024-09-09 |
-| [Virtuoso](https://dbdb.io/db/virtuoso) | Virtuoso Universal Server is a middleware and database engine hybrid that provides an object-rela... | Object-Relational | Finland | 1998 | Commercial | C | GPL v2, Proprietary | 2022-01-07 |
-| [VistaDB](https://dbdb.io/db/vistadb) | VistaDB is an embedded SQL database for .NET applications. |  | United States of America | 2009 | Commercial | C# | Proprietary | 2022-06-28 |
-| [Visual FoxPro](https://dbdb.io/db/visual-foxpro) | Visual FoxPro was a fork of the [FoxPro](/db/foxpro) DBMS for desktop applications. | Relational | United States of America | 1992 | Commercial |  | Proprietary | 2024-12-12 |
-| [Vitess](https://dbdb.io/db/vitess) | Vitess is a middleware layer for scaling out MySQL. | Relational | United States of America | 2011 | Open Source | Go | Apache v2 | 2022-06-28 |
-| [Vitesse DB](https://dbdb.io/db/vitesse-db) | Vitesse is a column-store execution engine that integrates with Postgres and Greenplum. | Object-Relational | United States of America | 2014 | Commercial |  |  | 2022-06-28 |
-| [ViyaDB](https://dbdb.io/db/viyadb) | ViyaDB is an in-memory columnar analytical data store. |  | Israel | 2017 | Open Source | C++ | Apache v2 | 2022-06-28 |
-| [voidDB](https://dbdb.io/db/voiddb) | voidDB is an embedded key/value DBMS that uses memory-mapped files to manage memory. | Key/Value | Japan | 2024 | Hobby, Open Source | Go | BSD | 2025-10-03 |
-| [Voldemort](https://dbdb.io/db/voldemort) | Voldemort is a distributed key-value DBMS created by LinkedIn. | Key/Value | United States of America | 2009 | Open Source | Java | Apache v2 | 2023-09-27 |
-| [VoltDB](https://dbdb.io/db/voltdb) | VoltDB is a commercial in-memory DBMS that is scalable and ACID-compliant. VoltDB is designed to ... | Relational | United States of America | 2009 | Commercial, Open Source | C++, Java | GPL v3, VoltDB Proprietary License | 2022-06-28 |
-| [vsql](https://dbdb.io/db/vsql) | vsql is a single-file SQL database written in the V programming language with no external depende... | Relational | United States of America | 2021 | Hobby, Open Source | V | MIT | 2023-07-16 |
-| [VulcanDB](https://dbdb.io/db/vulcandb) | VulcanDB was an object-oriented mobile database engine for the .Net environment. | Object-Oriented | United States of America | 2012 | Commercial | C# | Proprietary | 2022-06-30 |
-| [vyhodb](https://dbdb.io/db/vyhodb) | vyhodb is a network-model DBMS written in Java that supports serializable transactions. | Network | Russia | 2012 | Hobby, Open Source | Java | Microsoft Reference Source License | 2023-09-26 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [Vald](https://dbdb.io/db/vald) | Vald ("Vektor Wald") is a distributed fast approximate nearest neighbor (ANN) dense vector search... | Vector | Japan | 2019 | Open Source | Go | Apache v2 |
+| [Valentina Server](https://dbdb.io/db/valentina-server) |  | Object-Relational | United States of America | 1998 | Commercial |  | Proprietary |
+| [Valkey](https://dbdb.io/db/valkey) | Valkey is a hard-fork of Redis started in 2024. | Key/Value | United States of America | 2024 | Open Source | C | BSD |
+| [VanillaDB](https://dbdb.io/db/vanilladb) | VanillaDB is a single node, multi-threaded relational database engine that partially supports the... | Multi-Value | Taiwan | 2016 | Academic, Open Source | Java | Apache v2 |
+| [Vearch](https://dbdb.io/db/vearch) | Vearch is a distributed vector search engine. | Document / XML, Vector | China | 2019 | Open Source | C++ | Apache v2 |
+| [Vector](https://dbdb.io/db/vector) | Actian Vector is a commercial main-memory RDBMS targeting analytical workload and decision suppor... | Relational | Netherlands | 2009 | Commercial |  | Proprietary |
+| [VectorDB](https://dbdb.io/db/vectordb) | VectorDB is a simplistic vector DBMS for Python applications. | Document / XML, Vector | Spain | 2023 | Commercial, Open Source | Python | Apache v2 |
+| [VectorDB](https://dbdb.io/db/vectordb-kagi) | VectorDB is an embedded vector DBMS written in Python. | Document / XML, Vector | United States of America | 2023 | Open Source | Python | MIT |
+| [VectorSQL](https://dbdb.io/db/vectorsql) | VectorSQL is an analytics DBMS designed for IoT data. | Relational | China | 2020 | Hobby, Open Source | Go | Apache v2 |
+| [Vedis](https://dbdb.io/db/vedis) | Vedis is an embeddable library built with over 70 commands similar in concept to Redis but withou... | Key/Value | Tunisia | 2014 | Commercial | C | Proprietary |
+| [VelarixDB](https://dbdb.io/db/velarixdb) | VelarixDB is an embedded key-value storage engine for Rust applications. | Key/Value | Nigeria | 2024 | Hobby, Open Source | Rust | MIT |
+| [VelocityDB](https://dbdb.io/db/velocitydb) | VelocityDB is a NoSQL object-oriented DBMS that supports both embedded and distributed deployments. | Object-Oriented | United States of America | 2011 | Commercial | C# | Proprietary |
+| [Velox](https://dbdb.io/db/velox) | Velox is a reusable vectorized database execution engine. It can be used to build compute engines... | Relational | United States of America | 2020 | Industrial Research, Open Source | C++ | Apache v2 |
+| [VeloxDB](https://dbdb.io/db/veloxdb) | VeloxDB is an in-memory object-oriented DBMS. | Object-Oriented | Serbia | 2022 | Commercial, Open Source | C# | MIT |
+| [Venice](https://dbdb.io/db/venice) | Venice is a derived data storage platform that supports asynchronous ingestion from batch and str... | Document / XML | United States of America | 2014 | Open Source | Java | BSD |
+| [VennDB](https://dbdb.io/db/venndb) | VennDB is an append-only in-memory DBMS that is based on bitmap index storage. | Relational | Belgium | 2023 | Open Source | Rust | Apache v2, MIT |
+| [Versant Object Database](https://dbdb.io/db/versant-object-database) |  | Object-Oriented | United States of America | 1988 | Commercial |  | Proprietary |
+| [VertexDB](https://dbdb.io/db/vertexdb) |  | Graph | United States of America |  | Hobby, Open Source |  |  |
+| [Vertica](https://dbdb.io/db/vertica) | Vertica is a distributed, shared-nothing column-store DBMS. | Relational | United States of America | 2005 | Commercial | C++ | PostgreSQL License |
+| [Vespa](https://dbdb.io/db/vespa) | Vespa is a document-oriented search engine that supports a SQL dialect (YQL). | Document / XML | Norway | 1997 | Open Source | C++ | Apache v2 |
+| [vFabric SQLFire](https://dbdb.io/db/vfabric-sqlfire) |  |  | United States of America |  | Commercial |  |  |
+| [VictoriaMetrics](https://dbdb.io/db/victoriametrics) | VictoriaMetrics Open Source is a fast and scalable open-source time series database and monitorin... | Column Family / Wide-Column | Ukraine | 2018 | Open Source | Go | Apache v2 |
+| [Virtuoso](https://dbdb.io/db/virtuoso) | Virtuoso Universal Server is a middleware and database engine hybrid that provides an object-rela... | Object-Relational | Finland | 1998 | Commercial | C | GPL v2, Proprietary |
+| [VistaDB](https://dbdb.io/db/vistadb) | VistaDB is an embedded SQL database for .NET applications. |  | United States of America | 2009 | Commercial | C# | Proprietary |
+| [Visual FoxPro](https://dbdb.io/db/visual-foxpro) | Visual FoxPro was a fork of the [FoxPro](/db/foxpro) DBMS for desktop applications. | Relational | United States of America | 1992 | Commercial |  | Proprietary |
+| [Vitess](https://dbdb.io/db/vitess) | Vitess is a middleware layer for scaling out MySQL. | Relational | United States of America | 2011 | Open Source | Go | Apache v2 |
+| [Vitesse DB](https://dbdb.io/db/vitesse-db) | Vitesse is a column-store execution engine that integrates with Postgres and Greenplum. | Object-Relational | United States of America | 2014 | Commercial |  |  |
+| [ViyaDB](https://dbdb.io/db/viyadb) | ViyaDB is an in-memory columnar analytical data store. |  | Israel | 2017 | Open Source | C++ | Apache v2 |
+| [voidDB](https://dbdb.io/db/voiddb) | voidDB is an embedded key/value DBMS that uses memory-mapped files to manage memory. | Key/Value | Japan | 2024 | Hobby, Open Source | Go | BSD |
+| [Voldemort](https://dbdb.io/db/voldemort) | Voldemort is a distributed key-value DBMS created by LinkedIn. | Key/Value | United States of America | 2009 | Open Source | Java | Apache v2 |
+| [VoltDB](https://dbdb.io/db/voltdb) | VoltDB is a commercial in-memory DBMS that is scalable and ACID-compliant. VoltDB is designed to ... | Relational | United States of America | 2009 | Commercial, Open Source | C++, Java | GPL v3, VoltDB Proprietary License |
+| [vsql](https://dbdb.io/db/vsql) | vsql is a single-file SQL database written in the V programming language with no external depende... | Relational | United States of America | 2021 | Hobby, Open Source | V | MIT |
+| [VulcanDB](https://dbdb.io/db/vulcandb) | VulcanDB was an object-oriented mobile database engine for the .Net environment. | Object-Oriented | United States of America | 2012 | Commercial | C# | Proprietary |
+| [vyhodb](https://dbdb.io/db/vyhodb) | vyhodb is a network-model DBMS written in Java that supports serializable transactions. | Network | Russia | 2012 | Hobby, Open Source | Java | Microsoft Reference Source License |
 
 ## W
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [WakandaDB](https://dbdb.io/db/wakandadb) | WakandaDB was a NoSQL DBMS from the mid-2010s. | Document / XML | France | 1996 | Commercial |  |  | 2025-04-10 |
-| [Warp 10](https://dbdb.io/db/warp-10) | Warp 10 is an open-source time series DBMS to collect, store and analyze sensors and time series ... |  | France | 2013 | Commercial, Open Source | Java | Apache v2 | 2023-05-02 |
-| [Weaviate](https://dbdb.io/db/weaviate) | Weaviate is a vector DBMS that uses a custom query interface. | Vector | Netherlands | 2016 | Commercial, Open Source | Assembly, C++, Go | BSD | 2024-09-17 |
-| [WebScaleSQL](https://dbdb.io/db/webscalesql) |  |  | China | 2014 | Open Source |  | GPL v2 | 2023-09-27 |
-| [WebSphere eXtreme Scale](https://dbdb.io/db/websphere-extreme-scale) | WebSphere eXtreme Scale is an elastic, scalable, in-memory data grid. | Object-Oriented | United States of America |  | Commercial | Java |  | 2018-06-09 |
-| [WhiteDB](https://dbdb.io/db/whitedb) | In-memory tuple store aiming to be fast and easy to use in embedded systems. Future goal is to in... | Network | Estonia | 2008 | Hobby, Open Source | C | GPL v3 | 2023-11-20 |
-| [WiredTiger](https://dbdb.io/db/wiredtiger) | WiredTiger is an open-source key/value storage engine for NoSQL databases and is currently the de... | Key/Value | Australia | 2008 | Commercial, Open Source | C | GPL v2, GPL v3 | 2023-07-10 |
-| [WonderDB](https://dbdb.io/db/wonderdb) | WonderDB is a transactional single-node DBMS written in Java. | Relational | United States of America | 2013 | Hobby, Open Source | Java |  | 2023-09-27 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [WakandaDB](https://dbdb.io/db/wakandadb) | WakandaDB was a NoSQL DBMS from the mid-2010s. | Document / XML | France | 1996 | Commercial |  |  |
+| [Warp 10](https://dbdb.io/db/warp-10) | Warp 10 is an open-source time series DBMS to collect, store and analyze sensors and time series ... |  | France | 2013 | Commercial, Open Source | Java | Apache v2 |
+| [Weaviate](https://dbdb.io/db/weaviate) | Weaviate is a vector DBMS that uses a custom query interface. | Vector | Netherlands | 2016 | Commercial, Open Source | Assembly, C++, Go | BSD |
+| [WebScaleSQL](https://dbdb.io/db/webscalesql) |  |  | China | 2014 | Open Source |  | GPL v2 |
+| [WebSphere eXtreme Scale](https://dbdb.io/db/websphere-extreme-scale) | WebSphere eXtreme Scale is an elastic, scalable, in-memory data grid. | Object-Oriented | United States of America |  | Commercial | Java |  |
+| [WhiteDB](https://dbdb.io/db/whitedb) | In-memory tuple store aiming to be fast and easy to use in embedded systems. Future goal is to in... | Network | Estonia | 2008 | Hobby, Open Source | C | GPL v3 |
+| [WiredTiger](https://dbdb.io/db/wiredtiger) | WiredTiger is an open-source key/value storage engine for NoSQL databases and is currently the de... | Key/Value | Australia | 2008 | Commercial, Open Source | C | GPL v2, GPL v3 |
+| [WonderDB](https://dbdb.io/db/wonderdb) | WonderDB is a transactional single-node DBMS written in Java. | Relational | United States of America | 2013 | Hobby, Open Source | Java |  |
 
 ## X
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [XAP](https://dbdb.io/db/xap) | XAP is a distributed in-memory data grid that supports the ability to conduct millions of transac... | Key/Value | United States of America | 2000 | Commercial, Open Source | Java | Apache v2 | 2022-01-07 |
-| [Xapian](https://dbdb.io/db/xapian) | Xapian is an open-source search engine that supports full-text queries. | Document / XML | United Kingdom | 2001 | Commercial, Open Source | C++ | GPL v2 | 2024-10-07 |
-| [XDB Enterprise Server](https://dbdb.io/db/xdb-enterprise-server) | XDB Enterprise Server is a relational DBMS designed for compatibility with IBM Db2. | Relational | United States of America | 1998 | Commercial |  | Proprietary | 2024-11-03 |
-| [Xeround](https://dbdb.io/db/xeround) | Xeround was a database-as-a-service based on MySQL. | Relational | Israel | 2005 | Commercial |  | Proprietary | 2022-06-28 |
-| [Xodus](https://dbdb.io/db/xodus) | Xodus is a transactional schema-less embedded DBMS that is written in Java. | Document / XML | Russia | 2014 | Open Source | Java, Kotlin | Apache v2 | 2019-04-22 |
-| [XPRS](https://dbdb.io/db/xprs) | XPRS ("eXtended Postgres, Raid and Sprite") was a database machine built at Berkeley. |  | United States of America | 1988 | Academic |  |  | 2018-06-09 |
-| [XTDB](https://dbdb.io/db/xtdb) | XTDB is an bitemporal document DBMS that uses Apache Kafka for the primary storage of transaction... | Document / XML | United Kingdom | 2018 | Commercial, Open Source | Clojure | MIT | 2022-06-27 |
-| [XtremeData](https://dbdb.io/db/xtremedata) | XtremeData (dbX) is a in-memory OLAP DBMS derived from PostgreSQL. | Relational | United States of America | 2003 | Commercial |  | Proprietary | 2023-09-24 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [XAP](https://dbdb.io/db/xap) | XAP is a distributed in-memory data grid that supports the ability to conduct millions of transac... | Key/Value | United States of America | 2000 | Commercial, Open Source | Java | Apache v2 |
+| [Xapian](https://dbdb.io/db/xapian) | Xapian is an open-source search engine that supports full-text queries. | Document / XML | United Kingdom | 2001 | Commercial, Open Source | C++ | GPL v2 |
+| [XDB Enterprise Server](https://dbdb.io/db/xdb-enterprise-server) | XDB Enterprise Server is a relational DBMS designed for compatibility with IBM Db2. | Relational | United States of America | 1998 | Commercial |  | Proprietary |
+| [Xeround](https://dbdb.io/db/xeround) | Xeround was a database-as-a-service based on MySQL. | Relational | Israel | 2005 | Commercial |  | Proprietary |
+| [Xodus](https://dbdb.io/db/xodus) | Xodus is a transactional schema-less embedded DBMS that is written in Java. | Document / XML | Russia | 2014 | Open Source | Java, Kotlin | Apache v2 |
+| [XPRS](https://dbdb.io/db/xprs) | XPRS ("eXtended Postgres, Raid and Sprite") was a database machine built at Berkeley. |  | United States of America | 1988 | Academic |  |  |
+| [XTDB](https://dbdb.io/db/xtdb) | XTDB is an bitemporal document DBMS that uses Apache Kafka for the primary storage of transaction... | Document / XML | United Kingdom | 2018 | Commercial, Open Source | Clojure | MIT |
+| [XtremeData](https://dbdb.io/db/xtremedata) | XtremeData (dbX) is a in-memory OLAP DBMS derived from PostgreSQL. | Relational | United States of America | 2003 | Commercial |  | Proprietary |
 
 ## Y
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [Yaacomo](https://dbdb.io/db/yaacomo) | Yaacomo is a relational, in-memory DBMS for real-time analytics. | Relational | Germany |  | Commercial |  | Proprietary | 2023-09-27 |
-| [Yanza](https://dbdb.io/db/yanza) | Yanza was a time-series database. | Document / XML | United Kingdom | 2008 | Commercial | Lua | Proprietary | 2023-09-26 |
-| [YaraDB](https://dbdb.io/db/yaradb) | YaraDB is a in-memory, document-oriented DBMS. | Document / XML | Ukraine | 2025 | Open Source | Python |  | 2026-01-20 |
-| [YARD-SQL](https://dbdb.io/db/yard-sql) |  |  | Germany | 1996 | Commercial | Java |  | 2022-06-30 |
-| [YDB](https://dbdb.io/db/ydb) | YDB (Yandex Database) is a distributed NewSQL relational DBMS compatible with Postgres. | Relational | Russia | 2014 | Commercial, Open Source | C++ | Apache v2 | 2026-03-13 |
-| [Yellowbrick](https://dbdb.io/db/yellowbrick) | Yellowbrick is a relational data warehouse that is optimized for flash-based storage. | Relational | United States of America | 2014 | Commercial | C, C++, Go, Java, Python | Proprietary | 2023-04-02 |
-| [YottaDB](https://dbdb.io/db/yottadb) | YottaDB is a multi-process embedded NoSQL key-value DBMS. | Key/Value | United States of America | 2001 | Commercial, Open Source | C | AGPL v3 | 2022-06-28 |
-| [YouTrackDB](https://dbdb.io/db/youtrackdb) | YouTrackDB is an object-oriented graph DBMS that supports documents and full-text search. The sys... | Graph | Czechia | 2024 | Open Source | Java | Apache v2 | 2025-01-31 |
-| [YugabyteDB](https://dbdb.io/db/yugabytedb) | YugabyteDB is a high-performance transactional distributed SQL database for cloud-native and geo-... | Relational, Key/Value | United States of America | 2016 | Commercial, Open Source | C++ | Apache v2 | 2025-12-09 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [Yaacomo](https://dbdb.io/db/yaacomo) | Yaacomo is a relational, in-memory DBMS for real-time analytics. | Relational | Germany |  | Commercial |  | Proprietary |
+| [Yanza](https://dbdb.io/db/yanza) | Yanza was a time-series database. | Document / XML | United Kingdom | 2008 | Commercial | Lua | Proprietary |
+| [YaraDB](https://dbdb.io/db/yaradb) | YaraDB is a in-memory, document-oriented DBMS. | Document / XML | Ukraine | 2025 | Open Source | Python |  |
+| [YARD-SQL](https://dbdb.io/db/yard-sql) |  |  | Germany | 1996 | Commercial | Java |  |
+| [YDB](https://dbdb.io/db/ydb) | YDB (Yandex Database) is a distributed NewSQL relational DBMS compatible with Postgres. | Relational | Russia | 2014 | Commercial, Open Source | C++ | Apache v2 |
+| [Yellowbrick](https://dbdb.io/db/yellowbrick) | Yellowbrick is a relational data warehouse that is optimized for flash-based storage. | Relational | United States of America | 2014 | Commercial | C, C++, Go, Java, Python | Proprietary |
+| [YottaDB](https://dbdb.io/db/yottadb) | YottaDB is a multi-process embedded NoSQL key-value DBMS. | Key/Value | United States of America | 2001 | Commercial, Open Source | C | AGPL v3 |
+| [YouTrackDB](https://dbdb.io/db/youtrackdb) | YouTrackDB is an object-oriented graph DBMS that supports documents and full-text search. The sys... | Graph | Czechia | 2024 | Open Source | Java | Apache v2 |
+| [YugabyteDB](https://dbdb.io/db/yugabytedb) | YugabyteDB is a high-performance transactional distributed SQL database for cloud-native and geo-... | Relational, Key/Value | United States of America | 2016 | Commercial, Open Source | C++ | Apache v2 |
 
 ## Z
 
-| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |
-|----------|-------------|-------------|---------|------|------|------------|---------|----------|
-| [Zentropy](https://dbdb.io/db/zentropy) | Zentropy is a single-node key-value DBMS written in Zig that supports TCP and Unix socket interfa... | Key/Value | India | 2025 | Hobby, Open Source | Zig | MIT | 2026-01-20 |
-| [ZeroDB](https://dbdb.io/db/zerodb) | ZeroDB is an end-to-end encrypted DBMS. | Document / XML | United States of America | 2015 | Commercial, Open Source | Python | AGPL v3 | 2023-09-27 |
-| [ZippyDB](https://dbdb.io/db/zippydb-meta) | ZippyDB is a strongly consistent, geographically distributed key-value DBMS developed internally ... | Key/Value | United States of America | 2013 | Internal / Non-Public |  | Proprietary | 2022-07-03 |
-| [ZippyDB](https://dbdb.io/db/zippydb) | ZippyDB is a proprietary serverless Redis cache. | Key/Value | United States of America | 2014 | Commercial |  | Proprietary | 2025-02-04 |
-| [ZODB](https://dbdb.io/db/zodb) | The Zope Object Database (ZODB, ZopeDB) is an object-oriented DBMS library for storing Python obj... | Object-Oriented | United States of America | 2002 | Open Source | Python | Zope Public License | 2019-08-01 |
-| [ZooDB](https://dbdb.io/db/zoodb) | ZooDB is an object oriented database based on the JDO 3.0 standard. | Object-Oriented | Switzerland | 2008 | Open Source | Java | GPL v3 | 2020-02-27 |
-| [Zookeeper](https://dbdb.io/db/zookeeper) | ZooKeeper is a distributed, open source coordination service from Apache for distributed applicat... | Hierarchical | United States of America | 2008 | Open Source | Java | Apache v2 | 2022-06-27 |
+| Database | Description | Data Models | Country | Year | Type | Written In | License |
+|----------|-------------|-------------|---------|------|------|------------|---------|
+| [Zentropy](https://dbdb.io/db/zentropy) | Zentropy is a single-node key-value DBMS written in Zig that supports TCP and Unix socket interfa... | Key/Value | India | 2025 | Hobby, Open Source | Zig | MIT |
+| [ZeroDB](https://dbdb.io/db/zerodb) | ZeroDB is an end-to-end encrypted DBMS. | Document / XML | United States of America | 2015 | Commercial, Open Source | Python | AGPL v3 |
+| [ZippyDB](https://dbdb.io/db/zippydb-meta) | ZippyDB is a strongly consistent, geographically distributed key-value DBMS developed internally ... | Key/Value | United States of America | 2013 | Internal / Non-Public |  | Proprietary |
+| [ZippyDB](https://dbdb.io/db/zippydb) | ZippyDB is a proprietary serverless Redis cache. | Key/Value | United States of America | 2014 | Commercial |  | Proprietary |
+| [ZODB](https://dbdb.io/db/zodb) | The Zope Object Database (ZODB, ZopeDB) is an object-oriented DBMS library for storing Python obj... | Object-Oriented | United States of America | 2002 | Open Source | Python | Zope Public License |
+| [ZooDB](https://dbdb.io/db/zoodb) | ZooDB is an object oriented database based on the JDO 3.0 standard. | Object-Oriented | Switzerland | 2008 | Open Source | Java | GPL v3 |
+| [Zookeeper](https://dbdb.io/db/zookeeper) | ZooKeeper is a distributed, open source coordination service from Apache for distributed applicat... | Hierarchical | United States of America | 2008 | Open Source | Java | Apache v2 |
 
 ---
 

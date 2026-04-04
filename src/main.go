@@ -504,8 +504,8 @@ func generate(dbs []Database) string {
 	for _, letter := range letters {
 		entries := groups[letter]
 		fmt.Fprintf(&b, "## %s\n\n", letter)
-		fmt.Fprintln(&b, "| Database | Description | Data Models | Country | Year | Type | Written In | License | Modified |")
-		fmt.Fprintln(&b, "|----------|-------------|-------------|---------|------|------|------------|---------|----------|")
+		fmt.Fprintln(&b, "| Database | Description | Data Models | Country | Year | Type | Written In | License |")
+		fmt.Fprintln(&b, "|----------|-------------|-------------|---------|------|------|------------|---------|")
 		for _, db := range entries {
 			desc := db.Desc
 			if len(desc) > 100 {
@@ -513,18 +513,13 @@ func generate(dbs []Database) string {
 			}
 			desc = strings.ReplaceAll(desc, "|", "\\|")
 			desc = strings.ReplaceAll(desc, "\n", " ")
-			lastmod := ""
-			if db.LastMod != "" {
-				lastmod = db.LastMod[:min(10, len(db.LastMod))]
-			}
-			fmt.Fprintf(&b, "| [%s](%s) | %s | %s | %s | %s | %s | %s | %s | %s |\n",
+			fmt.Fprintf(&b, "| [%s](%s) | %s | %s | %s | %s | %s | %s | %s |\n",
 				db.Name, db.pageURL(), desc,
 				strings.Join(db.Models, ", "),
 				db.Country, db.StartYear,
 				strings.Join(db.ProjTypes, ", "),
 				strings.Join(db.WrittenIn, ", "),
-				strings.Join(db.Licenses, ", "),
-				lastmod)
+				strings.Join(db.Licenses, ", "))
 		}
 		b.WriteByte('\n')
 	}
