@@ -1,0 +1,6 @@
+services:
+  tidb:
+    image: pingcap/tidb:latest
+    ports:
+      - "4000:4000"
+    restart: unless-stopped
