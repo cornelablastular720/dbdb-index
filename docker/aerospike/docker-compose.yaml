@@ -1,0 +1,9 @@
+services:
+  aerospike:
+    image: aerospike:latest
+    volumes:
+      - aerospikedata:/opt/aerospike/data
+    restart: unless-stopped
+
+volumes:
+  aerospikedata:
