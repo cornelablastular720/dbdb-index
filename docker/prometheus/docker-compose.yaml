@@ -1,0 +1,11 @@
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - "9090:9090"
+    volumes:
+      - promdata:/prometheus
+    restart: unless-stopped
+
+volumes:
+  promdata:
