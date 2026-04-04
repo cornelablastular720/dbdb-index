@@ -1,0 +1,14 @@
+services:
+  cratedb:
+    image: crate:latest
+    command: -Cdiscovery.type=single-node
+    ports:
+      - "4200:4200"
+    environment:
+      CRATE_HEAP_SIZE: "512m"
+    volumes:
+      - cratedata:/data
+    restart: unless-stopped
+
+volumes:
+  cratedata:
