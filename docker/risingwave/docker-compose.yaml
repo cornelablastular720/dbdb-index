@@ -1,0 +1,7 @@
+services:
+  risingwave:
+    image: risingwavelabs/risingwave:latest
+    command: playground
+    ports:
+      - "4566:4566"
+    restart: unless-stopped
