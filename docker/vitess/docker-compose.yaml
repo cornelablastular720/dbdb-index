@@ -1,0 +1,6 @@
+services:
+  vitess:
+    image: vitess/lite:latest
+    ports:
+      - "15306:15306"
+    restart: unless-stopped
