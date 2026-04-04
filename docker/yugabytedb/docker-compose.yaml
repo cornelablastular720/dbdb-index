@@ -1,0 +1,10 @@
+services:
+  yugabytedb:
+    image: yugabytedb/yugabyte:latest
+    command: bin/yugabyted start --daemon=false
+    ports:
+      - "5433:5433"
+      - "7000:7000"
+      - "9000:9000"
+      - "15433:15433"
+    restart: unless-stopped
