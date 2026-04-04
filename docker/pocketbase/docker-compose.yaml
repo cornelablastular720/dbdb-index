@@ -1,0 +1,11 @@
+services:
+  pocketbase:
+    image: spectado/pocketbase:latest
+    ports:
+      - "8090:8090"
+    volumes:
+      - pbdata:/pb_data
+    restart: unless-stopped
+
+volumes:
+  pbdata:
