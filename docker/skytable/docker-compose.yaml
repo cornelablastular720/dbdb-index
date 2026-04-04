@@ -1,0 +1,6 @@
+services:
+  skytable:
+    image: skytable/skytable:latest
+    ports:
+      - "2003:2003"
+    restart: unless-stopped
