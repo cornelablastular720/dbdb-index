@@ -1,0 +1,6 @@
+services:
+  neon:
+    image: ghcr.io/neondatabase/neon:latest
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
