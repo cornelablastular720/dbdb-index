@@ -1,0 +1,14 @@
+services:
+  orientdb:
+    image: orientdb:latest
+    ports:
+      - "2480:2480"
+      - "2424:2424"
+    environment:
+      ORIENTDB_ROOT_PASSWORD: "orientdb"
+    volumes:
+      - orientdata:/orientdb/databases
+    restart: unless-stopped
+
+volumes:
+  orientdata:
