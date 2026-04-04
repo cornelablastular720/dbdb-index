@@ -1,0 +1,13 @@
+services:
+  dolt:
+    image: dolthub/dolt-sql-server:latest
+    ports:
+      - "3306:3306"
+    environment:
+      DOLT_ROOT_PASSWORD: "dolt"
+    volumes:
+      - doltdata:/var/lib/dolt
+    restart: unless-stopped
+
+volumes:
+  doltdata:
